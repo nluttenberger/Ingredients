@@ -1,0 +1,2064 @@
+{
+    "ingredients": [
+        {
+            "id": "aal",
+            "label": "Aal",
+            "normName": "aal"
+        },
+        {
+            "id": "ackerrettich",
+            "label": "Ackerrettich",
+            "normName": "ackerrettich"
+        },
+        {
+            "id": "ahornsirup",
+            "label": "Ahornsirup",
+            "normName": "ahornsirup"
+        },
+        {
+            "id": "amaretto",
+            "label": "Amaretto",
+            "normName": "amaretto"
+        },
+        {
+            "id": "ananas",
+            "label": "Ananas",
+            "normName": "ananas"
+        },
+        {
+            "id": "anis",
+            "label": "Anis",
+            "normName": "anis"
+        },
+        {
+            "id": "apfel",
+            "label": "Apfel",
+            "normName": "apfel"
+        },
+        {
+            "id": "apfelkraut",
+            "label": "Apfelkraut",
+            "normName": "apfelkraut"
+        },
+        {
+            "id": "apfelsaft",
+            "label": "Apfelsaft",
+            "normName": "apfelsaft"
+        },
+        {
+            "id": "aprikose",
+            "label": "Aprikose",
+            "normName": "aprikose"
+        },
+        {
+            "id": "artischocken",
+            "label": "Artischocken",
+            "normName": "artischocken"
+        },
+        {
+            "id": "auberginen",
+            "label": "Auberginen",
+            "normName": "auberginen"
+        },
+        {
+            "id": "austern",
+            "label": "Austern",
+            "normName": "austern"
+        },
+        {
+            "id": "avocado",
+            "label": "Avocado",
+            "normName": "avocado"
+        },
+        {
+            "id": "backobst",
+            "label": "Backobst",
+            "normName": "backobst"
+        },
+        {
+            "id": "baiser",
+            "label": "Baiser",
+            "normName": "baiser"
+        },
+        {
+            "id": "balsamico",
+            "label": "Balsamico",
+            "normName": "balsamico"
+        },
+        {
+            "id": "banane",
+            "label": "Banane",
+            "normName": "banane"
+        },
+        {
+            "id": "barsch",
+            "label": "Barsch",
+            "normName": "barsch"
+        },
+        {
+            "id": "basilikum",
+            "label": "Basilikum",
+            "normName": "basilikum"
+        },
+        {
+            "id": "beeren",
+            "label": "Beeren",
+            "normName": "beeren"
+        },
+        {
+            "id": "beifuß",
+            "label": "Beifuß",
+            "normName": "beifuß"
+        },
+        {
+            "id": "bergkäse",
+            "label": "Bergkäse",
+            "normName": "bergkäse"
+        },
+        {
+            "id": "bier",
+            "label": "Bier",
+            "normName": "bier"
+        },
+        {
+            "id": "birne",
+            "label": "Birne",
+            "normName": "birne"
+        },
+        {
+            "id": "birnenkraut",
+            "label": "Birnenkraut",
+            "normName": "birnenkraut"
+        },
+        {
+            "id": "biskuit",
+            "label": "Biskuit",
+            "normName": "biskuit"
+        },
+        {
+            "id": "bittermandel",
+            "label": "Bittermandel",
+            "normName": "bittermandel"
+        },
+        {
+            "id": "blätterteig",
+            "label": "Blätterteig",
+            "normName": "blätterteig"
+        },
+        {
+            "id": "blauschimmel",
+            "label": "Blauschimmel",
+            "normName": "blauschimmel"
+        },
+        {
+            "id": "blumenkohl",
+            "label": "Blumenkohl",
+            "normName": "blumenkohl"
+        },
+        {
+            "id": "blut",
+            "label": "Blut",
+            "normName": "blut"
+        },
+        {
+            "id": "blutorangen",
+            "label": "Blutorangen",
+            "normName": "blutorangen"
+        },
+        {
+            "id": "blutwurst",
+            "label": "Blutwurst",
+            "normName": "blutwurst"
+        },
+        {
+            "id": "bockshornkleesamen",
+            "label": "Bockshornkleesamen",
+            "normName": "bockshornkleesamen"
+        },
+        {
+            "id": "bohnen",
+            "label": "Bohnen",
+            "normName": "bohnen"
+        },
+        {
+            "id": "bohnenkraut",
+            "label": "Bohnenkraut",
+            "normName": "bohnenkraut"
+        },
+        {
+            "id": "borretsch",
+            "label": "Borretsch",
+            "normName": "borretsch"
+        },
+        {
+            "id": "bratenfond",
+            "label": "Bratenfond",
+            "normName": "bratenfond"
+        },
+        {
+            "id": "bratenjus",
+            "label": "Bratenjus",
+            "normName": "bratenjus"
+        },
+        {
+            "id": "bratfett",
+            "label": "Bratfett",
+            "normName": "bratfett"
+        },
+        {
+            "id": "bratwurst",
+            "label": "Bratwurst",
+            "normName": "bratwurst"
+        },
+        {
+            "id": "bresaola",
+            "label": "Bresaola",
+            "normName": "bresaola"
+        },
+        {
+            "id": "brokkoli",
+            "label": "Brokkoli",
+            "normName": "brokkoli"
+        },
+        {
+            "id": "brot",
+            "label": "Brot",
+            "normName": "brot"
+        },
+        {
+            "id": "brotgewürz",
+            "label": "Brotgewürz",
+            "normName": "brotgewürz"
+        },
+        {
+            "id": "brühe",
+            "label": "Brühe",
+            "normName": "brühe"
+        },
+        {
+            "id": "brunnenkresse",
+            "label": "Brunnenkresse",
+            "normName": "brunnenkresse"
+        },
+        {
+            "id": "buchweizen",
+            "label": "Buchweizen",
+            "normName": "buchweizen"
+        },
+        {
+            "id": "büffelmozzarella",
+            "label": "Büffelmozzarella",
+            "normName": "büffelmozzarella"
+        },
+        {
+            "id": "bulgur",
+            "label": "Bulgur",
+            "normName": "bulgur"
+        },
+        {
+            "id": "butt",
+            "label": "Butt",
+            "normName": "butt"
+        },
+        {
+            "id": "butter",
+            "label": "Butter",
+            "normName": "butter"
+        },
+        {
+            "id": "butterkohl",
+            "label": "Butterkohl",
+            "normName": "butterkohl"
+        },
+        {
+            "id": "buttermilch",
+            "label": "Buttermilch",
+            "normName": "buttermilch"
+        },
+        {
+            "id": "butterschmalz",
+            "label": "Butterschmalz",
+            "normName": "butterschmalz"
+        },
+        {
+            "id": "cashew",
+            "label": "Cashew",
+            "normName": "cashew"
+        },
+        {
+            "id": "champignon",
+            "label": "Champignon",
+            "normName": "champignon"
+        },
+        {
+            "id": "chicorée",
+            "label": "Chicorée",
+            "normName": "chicorée"
+        },
+        {
+            "id": "chili",
+            "label": "Chili",
+            "normName": "chili"
+        },
+        {
+            "id": "cidre",
+            "label": "Cidre",
+            "normName": "cidre"
+        },
+        {
+            "id": "cocktailkirschen",
+            "label": "Cocktailkirschen",
+            "normName": "cocktailkirschen"
+        },
+        {
+            "id": "cola",
+            "label": "Cola",
+            "normName": "cola"
+        },
+        {
+            "id": "cornichon",
+            "label": "Cornichon",
+            "normName": "cornichon"
+        },
+        {
+            "id": "couscous",
+            "label": "Couscous",
+            "normName": "couscous"
+        },
+        {
+            "id": "crème_fraîche",
+            "label": "Crème fraîche",
+            "normName": "crème fraîche"
+        },
+        {
+            "id": "cumin",
+            "label": "Cumin",
+            "normName": "cumin"
+        },
+        {
+            "id": "curcuma",
+            "label": "Curcuma",
+            "normName": "curcuma"
+        },
+        {
+            "id": "curry",
+            "label": "Curry",
+            "normName": "curry"
+        },
+        {
+            "id": "datteln",
+            "label": "Datteln",
+            "normName": "datteln"
+        },
+        {
+            "id": "dill",
+            "label": "Dill",
+            "normName": "dill"
+        },
+        {
+            "id": "dinkel",
+            "label": "Dinkel",
+            "normName": "dinkel"
+        },
+        {
+            "id": "ducca",
+            "label": "Ducca",
+            "normName": "ducca"
+        },
+        {
+            "id": "ei",
+            "label": "Ei",
+            "normName": "ei"
+        },
+        {
+            "id": "eichenlaubsalat",
+            "label": "Eichenlaubsalat",
+            "normName": "eichenlaubsalat"
+        },
+        {
+            "id": "emmentaler",
+            "label": "Emmentaler",
+            "normName": "emmentaler"
+        },
+        {
+            "id": "endiviensalat",
+            "label": "Endiviensalat",
+            "normName": "endiviensalat"
+        },
+        {
+            "id": "ente",
+            "label": "Ente",
+            "normName": "ente"
+        },
+        {
+            "id": "erbsen",
+            "label": "Erbsen",
+            "normName": "erbsen"
+        },
+        {
+            "id": "erdbeeren",
+            "label": "Erdbeeren",
+            "normName": "erdbeeren"
+        },
+        {
+            "id": "erdnuss",
+            "label": "Erdnuss",
+            "normName": "erdnuss"
+        },
+        {
+            "id": "essig",
+            "label": "Essig",
+            "normName": "essig"
+        },
+        {
+            "id": "estragon",
+            "label": "Estragon",
+            "normName": "estragon"
+        },
+        {
+            "id": "euter",
+            "label": "Euter",
+            "normName": "euter"
+        },
+        {
+            "id": "feldsalat",
+            "label": "Feldsalat",
+            "normName": "feldsalat"
+        },
+        {
+            "id": "fenchel",
+            "label": "Fenchel",
+            "normName": "fenchel"
+        },
+        {
+            "id": "fenchelgrün",
+            "label": "Fenchelgrün",
+            "normName": "fenchelgrün"
+        },
+        {
+            "id": "fenchelsamen",
+            "label": "Fenchelsamen",
+            "normName": "fenchelsamen"
+        },
+        {
+            "id": "fisch",
+            "label": "Fisch",
+            "normName": "fisch"
+        },
+        {
+            "id": "fischsauce",
+            "label": "Fischsauce",
+            "normName": "fischsauce"
+        },
+        {
+            "id": "fleisch",
+            "label": "Fleisch",
+            "normName": "fleisch"
+        },
+        {
+            "id": "fleischbrühe",
+            "label": "Fleischbrühe",
+            "normName": "fleischbrühe"
+        },
+        {
+            "id": "fleischsalat",
+            "label": "Fleischsalat",
+            "normName": "fleischsalat"
+        },
+        {
+            "id": "flusskrebse",
+            "label": "Flusskrebse",
+            "normName": "flusskrebse"
+        },
+        {
+            "id": "forelle",
+            "label": "Forelle",
+            "normName": "forelle"
+        },
+        {
+            "id": "frischkäse",
+            "label": "Frischkäse",
+            "normName": "frischkäse"
+        },
+        {
+            "id": "friséesalat",
+            "label": "Friséesalat",
+            "normName": "friséesalat"
+        },
+        {
+            "id": "froschschenkel",
+            "label": "Froschschenkel",
+            "normName": "froschschenkel"
+        },
+        {
+            "id": "fruchtsaft",
+            "label": "Fruchtsaft",
+            "normName": "fruchtsaft"
+        },
+        {
+            "id": "galgant",
+            "label": "Galgant",
+            "normName": "galgant"
+        },
+        {
+            "id": "gans",
+            "label": "Gans",
+            "normName": "gans"
+        },
+        {
+            "id": "gänseschmalz",
+            "label": "Gänseschmalz",
+            "normName": "gänseschmalz"
+        },
+        {
+            "id": "garam_masala",
+            "label": "Garam_Masala",
+            "normName": "garam masala"
+        },
+        {
+            "id": "garnelen",
+            "label": "Garnelen",
+            "normName": "garnelen"
+        },
+        {
+            "id": "gartenmelde",
+            "label": "Gartenmelde",
+            "normName": "gartenmelde"
+        },
+        {
+            "id": "geflügel",
+            "label": "Geflügel",
+            "normName": "geflügel"
+        },
+        {
+            "id": "gekochter_schinken",
+            "label": "gekochter_Schinken",
+            "normName": "gekochter schinken"
+        },
+        {
+            "id": "gelatine",
+            "label": "Gelatine",
+            "normName": "gelatine"
+        },
+        {
+            "id": "gelee",
+            "label": "Gelee",
+            "normName": "gelee"
+        },
+        {
+            "id": "gemüsebrühe",
+            "label": "Gemüsebrühe",
+            "normName": "gemüsebrühe"
+        },
+        {
+            "id": "gemüsezwiebel",
+            "label": "Gemüsezwiebel",
+            "normName": "gemüsezwiebel"
+        },
+        {
+            "id": "geraeucherter_schinken",
+            "label": "geräucherter_Schinken",
+            "normName": "geräucherter schinken"
+        },
+        {
+            "id": "gerste",
+            "label": "Gerste",
+            "normName": "gerste"
+        },
+        {
+            "id": "gewürzgurke",
+            "label": "Gewürzgurken",
+            "normName": "gewürzgurken"
+        },
+        {
+            "id": "gin",
+            "label": "Gin",
+            "normName": "gin"
+        },
+        {
+            "id": "grapefruit",
+            "label": "Grapefruit",
+            "normName": "grapefruit"
+        },
+        {
+            "id": "graupen",
+            "label": "Graupen",
+            "normName": "graupen"
+        },
+        {
+            "id": "greyerzer",
+            "label": "Greyerzer",
+            "normName": "greyerzer"
+        },
+        {
+            "id": "große_bohnen",
+            "label": "Große_Bohnen",
+            "normName": "große bohnen"
+        },
+        {
+            "id": "grünkern",
+            "label": "Grünkern",
+            "normName": "grünkern"
+        },
+        {
+            "id": "grünkohl",
+            "label": "Grünkohl",
+            "normName": "grünkohl"
+        },
+        {
+            "id": "grütze",
+            "label": "Grütze",
+            "normName": "grütze"
+        },
+        {
+            "id": "gurke",
+            "label": "Gurke",
+            "normName": "gurke"
+        },
+        {
+            "id": "hackfleisch",
+            "label": "Hackfleisch",
+            "normName": "hackfleisch"
+        },
+        {
+            "id": "haferflocken",
+            "label": "Haferflocken",
+            "normName": "haferflocken"
+        },
+        {
+            "id": "hafergrütze",
+            "label": "Hafergrütze",
+            "normName": "hafergrütze"
+        },
+        {
+            "id": "hagebutte",
+            "label": "Hagebutte",
+            "normName": "hagebutte"
+        },
+        {
+            "id": "harissa",
+            "label": "Harissa",
+            "normName": "harissa"
+        },
+        {
+            "id": "hartweizengrieß",
+            "label": "Hartweizengrieß",
+            "normName": "hartweizengrieß"
+        },
+        {
+            "id": "hase",
+            "label": "Hase",
+            "normName": "hase"
+        },
+        {
+            "id": "haselnuss",
+            "label": "Haselnuss",
+            "normName": "haselnuss"
+        },
+        {
+            "id": "hecht",
+            "label": "Hecht",
+            "normName": "hecht"
+        },
+        {
+            "id": "hefe",
+            "label": "Hefe",
+            "normName": "hefe"
+        },
+        {
+            "id": "hefewürze",
+            "label": "Hefewürze",
+            "normName": "hefewürze"
+        },
+        {
+            "id": "herbes_de_provence",
+            "label": "Herbes_de_Provence",
+            "normName": "herbes de provence"
+        },
+        {
+            "id": "hering",
+            "label": "Hering",
+            "normName": "hering"
+        },
+        {
+            "id": "herz",
+            "label": "Herz",
+            "normName": "herz"
+        },
+        {
+            "id": "himbeeren",
+            "label": "Himbeeren",
+            "normName": "himbeeren"
+        },
+        {
+            "id": "hirn",
+            "label": "Hirn",
+            "normName": "hirn"
+        },
+        {
+            "id": "hirschhorn",
+            "label": "Hirschhorn",
+            "normName": "hirschhorn"
+        },
+        {
+            "id": "hirschhornsalz",
+            "label": "Hirschhornsalz",
+            "normName": "hirschhornsalz"
+        },
+        {
+            "id": "holunder",
+            "label": "Holunder",
+            "normName": "holunder"
+        },
+        {
+            "id": "honig",
+            "label": "Honig",
+            "normName": "honig"
+        },
+        {
+            "id": "hopfen",
+            "label": "Hopfen",
+            "normName": "hopfen"
+        },
+        {
+            "id": "huhn",
+            "label": "Huhn",
+            "normName": "huhn"
+        },
+        {
+            "id": "hühnerbrühe",
+            "label": "Hühnerbrühe",
+            "normName": "hühnerbrühe"
+        },
+        {
+            "id": "ingwer",
+            "label": "Ingwer",
+            "normName": "ingwer"
+        },
+        {
+            "id": "innereien",
+            "label": "Innereien",
+            "normName": "innereien"
+        },
+        {
+            "id": "joghurt",
+            "label": "Joghurt",
+            "normName": "joghurt"
+        },
+        {
+            "id": "johannisbeeren",
+            "label": "Johannisbeeren",
+            "normName": "johannisbeeren"
+        },
+        {
+            "id": "kaffernlimette",
+            "label": "Kaffernlimette",
+            "normName": "kaffernlimette"
+        },
+        {
+            "id": "kalbfleisch",
+            "label": "Kalbfleisch",
+            "normName": "kalbfleisch"
+        },
+        {
+            "id": "kalbsbraten",
+            "label": "Kalbsbraten",
+            "normName": "kalbsbraten"
+        },
+        {
+            "id": "kalbsbries",
+            "label": "Kalbsbries",
+            "normName": "kalbsbries"
+        },
+        {
+            "id": "kalbsfüße",
+            "label": "Kalbsfüße",
+            "normName": "kalbsfüße"
+        },
+        {
+            "id": "kalbskopf",
+            "label": "Kalbskopf",
+            "normName": "kalbskopf"
+        },
+        {
+            "id": "kaninchen",
+            "label": "Kaninchen",
+            "normName": "kaninchen"
+        },
+        {
+            "id": "kapaun",
+            "label": "Kapaun",
+            "normName": "kapaun"
+        },
+        {
+            "id": "kapern",
+            "label": "Kapern",
+            "normName": "kapern"
+        },
+        {
+            "id": "kapuzinerkresse",
+            "label": "Kapuzinerkresse",
+            "normName": "kapuzinerkresse"
+        },
+        {
+            "id": "kardamom",
+            "label": "Kardamom",
+            "normName": "kardamom"
+        },
+        {
+            "id": "karotte",
+            "label": "Karotte",
+            "normName": "karotte"
+        },
+        {
+            "id": "karpfen",
+            "label": "Karpfen",
+            "normName": "karpfen"
+        },
+        {
+            "id": "kartoffel",
+            "label": "Kartoffel",
+            "normName": "kartoffel"
+        },
+        {
+            "id": "käse",
+            "label": "Käse",
+            "normName": "käse"
+        },
+        {
+            "id": "kaviar",
+            "label": "Kaviar",
+            "normName": "kaviar"
+        },
+        {
+            "id": "kefir",
+            "label": "Kefir",
+            "normName": "kefir"
+        },
+        {
+            "id": "kekse",
+            "label": "Kekse",
+            "normName": "kekse"
+        },
+        {
+            "id": "kerbel",
+            "label": "Kerbel",
+            "normName": "kerbel"
+        },
+        {
+            "id": "ketchup",
+            "label": "Ketchup",
+            "normName": "ketchup"
+        },
+        {
+            "id": "kichererbsen",
+            "label": "Kichererbsen",
+            "normName": "kichererbsen"
+        },
+        {
+            "id": "kidneybohnen",
+            "label": "Kidneybohnen",
+            "normName": "kidneybohnen"
+        },
+        {
+            "id": "kirschen",
+            "label": "Kirschen",
+            "normName": "kirschen"
+        },
+        {
+            "id": "kiwi",
+            "label": "Kiwi",
+            "normName": "kiwi"
+        },
+        {
+            "id": "kleine_vögel",
+            "label": "kleine_Vögel",
+            "normName": "kleine vögel"
+        },
+        {
+            "id": "knoblauch",
+            "label": "Knoblauch",
+            "normName": "knoblauch"
+        },
+        {
+            "id": "knochen",
+            "label": "Knochen",
+            "normName": "knochen"
+        },
+        {
+            "id": "knochenmark",
+            "label": "Knochenmark",
+            "normName": "knochenmark"
+        },
+        {
+            "id": "knollensellerie",
+            "label": "Knollensellerie",
+            "normName": "knollensellerie"
+        },
+        {
+            "id": "kohlrabi",
+            "label": "Kohlrabi",
+            "normName": "kohlrabi"
+        },
+        {
+            "id": "kokosmilch",
+            "label": "Kokosmilch",
+            "normName": "kokosmilch"
+        },
+        {
+            "id": "kondensmilch",
+            "label": "Kondensmilch",
+            "normName": "kondensmilch"
+        },
+        {
+            "id": "konfitüre",
+            "label": "Konfitüre",
+            "normName": "konfitüre"
+        },
+        {
+            "id": "kopf",
+            "label": "Kopf",
+            "normName": "kopf"
+        },
+        {
+            "id": "kopfsalat",
+            "label": "Kopfsalat",
+            "normName": "kopfsalat"
+        },
+        {
+            "id": "koriandergrün",
+            "label": "Koriandergrün",
+            "normName": "koriandergrün"
+        },
+        {
+            "id": "koriandersamen",
+            "label": "Koriandersamen",
+            "normName": "koriandersamen"
+        },
+        {
+            "id": "kotelett",
+            "label": "Kotelett",
+            "normName": "kotelett"
+        },
+        {
+            "id": "krabben",
+            "label": "Krabben",
+            "normName": "krabben"
+        },
+        {
+            "id": "kräuter",
+            "label": "Kräuter",
+            "normName": "kräuter"
+        },
+        {
+            "id": "krebs",
+            "label": "Krebs",
+            "normName": "krebs"
+        },
+        {
+            "id": "krebsbutter",
+            "label": "Krebsbutter",
+            "normName": "krebsbutter"
+        },
+        {
+            "id": "kresse",
+            "label": "Kresse",
+            "normName": "kresse"
+        },
+        {
+            "id": "krustentiere",
+            "label": "Krustentiere",
+            "normName": "krustentiere"
+        },
+        {
+            "id": "kümmel",
+            "label": "Kümmel",
+            "normName": "kümmel"
+        },
+        {
+            "id": "kürbis",
+            "label": "Kürbis",
+            "normName": "kürbis"
+        },
+        {
+            "id": "kürbiskern",
+            "label": "Kürbiskern",
+            "normName": "kürbiskern"
+        },
+        {
+            "id": "kürbiskernöl",
+            "label": "Kürbiskernöl",
+            "normName": "kürbiskernöl"
+        },
+        {
+            "id": "kutteln",
+            "label": "Kutteln",
+            "normName": "kutteln"
+        },
+        {
+            "id": "lachs",
+            "label": "Lachs",
+            "normName": "lachs"
+        },
+        {
+            "id": "lammfleisch",
+            "label": "Lammfleisch",
+            "normName": "lammfleisch"
+        },
+        {
+            "id": "lauch",
+            "label": "Lauch",
+            "normName": "lauch"
+        },
+        {
+            "id": "lauchzwiebel",
+            "label": "Lauchzwiebel",
+            "normName": "lauchzwiebel"
+        },
+        {
+            "id": "laugengebäck",
+            "label": "Laugengebäck",
+            "normName": "laugengebäck"
+        },
+        {
+            "id": "leber",
+            "label": "Leber",
+            "normName": "leber"
+        },
+        {
+            "id": "leberwurst",
+            "label": "Leberwurst",
+            "normName": "leberwurst"
+        },
+        {
+            "id": "lebkuchen",
+            "label": "Lebkuchen",
+            "normName": "lebkuchen"
+        },
+        {
+            "id": "liebstöckel",
+            "label": "Liebstöckel",
+            "normName": "liebstöckel"
+        },
+        {
+            "id": "limette",
+            "label": "Limette",
+            "normName": "limette"
+        },
+        {
+            "id": "limoncello",
+            "label": "Limoncello",
+            "normName": "limoncello"
+        },
+        {
+            "id": "linsen",
+            "label": "Linsen",
+            "normName": "linsen"
+        },
+        {
+            "id": "löffelbiskuit",
+            "label": "Löffelbiskuit",
+            "normName": "löffelbiskuit"
+        },
+        {
+            "id": "lorbeer",
+            "label": "Lorbeer",
+            "normName": "lorbeer"
+        },
+        {
+            "id": "löwenzahn",
+            "label": "Löwenzahn",
+            "normName": "löwenzahn"
+        },
+        {
+            "id": "lunge",
+            "label": "Lunge",
+            "normName": "lunge"
+        },
+        {
+            "id": "madeira",
+            "label": "Madeira",
+            "normName": "madeira"
+        },
+        {
+            "id": "mairüben",
+            "label": "Mairüben",
+            "normName": "mairüben"
+        },
+        {
+            "id": "mais",
+            "label": "Mais",
+            "normName": "mais"
+        },
+        {
+            "id": "majoran",
+            "label": "Majoran",
+            "normName": "majoran"
+        },
+        {
+            "id": "makronen",
+            "label": "Makronen",
+            "normName": "makronen"
+        },
+        {
+            "id": "malaga",
+            "label": "Malaga",
+            "normName": "malaga"
+        },
+        {
+            "id": "mandel",
+            "label": "Mandel",
+            "normName": "mandel"
+        },
+        {
+            "id": "mango",
+            "label": "Mango",
+            "normName": "mango"
+        },
+        {
+            "id": "mangold",
+            "label": "Mangold",
+            "normName": "mangold"
+        },
+        {
+            "id": "marmelade",
+            "label": "Marmelade",
+            "normName": "marmelade"
+        },
+        {
+            "id": "marone",
+            "label": "Marone",
+            "normName": "marone"
+        },
+        {
+            "id": "marsala",
+            "label": "Marsala",
+            "normName": "marsala"
+        },
+        {
+            "id": "mascarpone",
+            "label": "Mascarpone",
+            "normName": "mascarpone"
+        },
+        {
+            "id": "matjes",
+            "label": "Matjes",
+            "normName": "matjes"
+        },
+        {
+            "id": "mayonnaise",
+            "label": "Mayonnaise",
+            "normName": "mayonnaise"
+        },
+        {
+            "id": "meerrettich",
+            "label": "Meerrettich",
+            "normName": "meerrettich"
+        },
+        {
+            "id": "melone",
+            "label": "Melone",
+            "normName": "melone"
+        },
+        {
+            "id": "mettwurst",
+            "label": "Mettwurst",
+            "normName": "mettwurst"
+        },
+        {
+            "id": "milch",
+            "label": "Milch",
+            "normName": "milch"
+        },
+        {
+            "id": "minze",
+            "label": "Minze",
+            "normName": "minze"
+        },
+        {
+            "id": "mirin",
+            "label": "Mirin",
+            "normName": "mirin"
+        },
+        {
+            "id": "miso",
+            "label": "Miso",
+            "normName": "miso"
+        },
+        {
+            "id": "mohn",
+            "label": "Mohn",
+            "normName": "mohn"
+        },
+        {
+            "id": "morchel",
+            "label": "Morchel",
+            "normName": "morchel"
+        },
+        {
+            "id": "muscheln",
+            "label": "Muscheln",
+            "normName": "muscheln"
+        },
+        {
+            "id": "muskat",
+            "label": "Muskat",
+            "normName": "muskat"
+        },
+        {
+            "id": "myrte",
+            "label": "Myrte",
+            "normName": "myrte"
+        },
+        {
+            "id": "nelken",
+            "label": "Nelken",
+            "normName": "nelken"
+        },
+        {
+            "id": "niere",
+            "label": "Niere",
+            "normName": "niere"
+        },
+        {
+            "id": "nierenfett",
+            "label": "Nierenfett",
+            "normName": "nierenfett"
+        },
+        {
+            "id": "nudeln",
+            "label": "Nudeln",
+            "normName": "nudeln"
+        },
+        {
+            "id": "obst",
+            "label": "Obst",
+            "normName": "obst"
+        },
+        {
+            "id": "obstler",
+            "label": "Obstler",
+            "normName": "obstler"
+        },
+        {
+            "id": "ohren",
+            "label": "Ohren",
+            "normName": "ohren"
+        },
+        {
+            "id": "öl",
+            "label": "Öl",
+            "normName": "öl"
+        },
+        {
+            "id": "olive",
+            "label": "Olive",
+            "normName": "olive"
+        },
+        {
+            "id": "olivenöl",
+            "label": "Olivenöl",
+            "normName": "olivenöl"
+        },
+        {
+            "id": "orange",
+            "label": "Orange",
+            "normName": "orange"
+        },
+        {
+            "id": "orangeat",
+            "label": "Orangeat",
+            "normName": "orangeat"
+        },
+        {
+            "id": "orangenblütenwasser",
+            "label": "Orangenblütenwasser",
+            "normName": "orangenblütenwasser"
+        },
+        {
+            "id": "orangenlikör",
+            "label": "Orangenlikör",
+            "normName": "orangenlikör"
+        },
+        {
+            "id": "orangensaft",
+            "label": "Orangensaft",
+            "normName": "orangensaft"
+        },
+        {
+            "id": "oregano",
+            "label": "Oregano",
+            "normName": "oregano"
+        },
+        {
+            "id": "ottersberger_rüben",
+            "label": "Ottersberger_Rüben",
+            "normName": "ottersberger rüben"
+        },
+        {
+            "id": "panhas",
+            "label": "Panhas",
+            "normName": "panhas"
+        },
+        {
+            "id": "paniermehl",
+            "label": "Paniermehl",
+            "normName": "paniermehl"
+        },
+        {
+            "id": "paprika",
+            "label": "Paprika",
+            "normName": "paprika"
+        },
+        {
+            "id": "paprikamark",
+            "label": "Paprikamark",
+            "normName": "paprikamark"
+        },
+        {
+            "id": "paprikapulver",
+            "label": "Paprikapulver",
+            "normName": "paprikapulver"
+        },
+        {
+            "id": "parmesan",
+            "label": "Parmesan",
+            "normName": "parmesan"
+        },
+        {
+            "id": "passionsfrucht",
+            "label": "Passionsfrucht",
+            "normName": "passionsfrucht"
+        },
+        {
+            "id": "pastinake",
+            "label": "Pastinake",
+            "normName": "pastinake"
+        },
+        {
+            "id": "pesto",
+            "label": "Pesto",
+            "normName": "pesto"
+        },
+        {
+            "id": "petersilie",
+            "label": "Petersilie",
+            "normName": "petersilie"
+        },
+        {
+            "id": "petersilienwurzel",
+            "label": "Petersilienwurzel",
+            "normName": "petersilienwurzel"
+        },
+        {
+            "id": "pfeffer",
+            "label": "Pfeffer",
+            "normName": "pfeffer"
+        },
+        {
+            "id": "pfifferlinge",
+            "label": "Pfifferlinge",
+            "normName": "pfifferlinge"
+        },
+        {
+            "id": "pfirsich",
+            "label": "Pfirsich",
+            "normName": "pfirsich"
+        },
+        {
+            "id": "pflaumen",
+            "label": "Pflaumen",
+            "normName": "pflaumen"
+        },
+        {
+            "id": "pfoten",
+            "label": "Pfoten",
+            "normName": "pfoten"
+        },
+        {
+            "id": "pilze",
+            "label": "Pilze",
+            "normName": "pilze"
+        },
+        {
+            "id": "piment",
+            "label": "Piment",
+            "normName": "piment"
+        },
+        {
+            "id": "pimpinelle",
+            "label": "Pimpinelle",
+            "normName": "pimpinelle"
+        },
+        {
+            "id": "pinienkerne",
+            "label": "Pinienkerne",
+            "normName": "pinienkerne"
+        },
+        {
+            "id": "pinkelwurst",
+            "label": "Pinkelwurst",
+            "normName": "pinkelwurst"
+        },
+        {
+            "id": "piripiri",
+            "label": "Piripiri",
+            "normName": "piripiri"
+        },
+        {
+            "id": "pistazie",
+            "label": "Pistazie",
+            "normName": "pistazie"
+        },
+        {
+            "id": "pökelfleisch",
+            "label": "Pökelfleisch",
+            "normName": "pökelfleisch"
+        },
+        {
+            "id": "polenta",
+            "label": "Polenta",
+            "normName": "polenta"
+        },
+        {
+            "id": "pomeranze",
+            "label": "Pomeranze",
+            "normName": "pomeranze"
+        },
+        {
+            "id": "portulak",
+            "label": "Portulak",
+            "normName": "portulak"
+        },
+        {
+            "id": "portwein",
+            "label": "Portwein",
+            "normName": "portwein"
+        },
+        {
+            "id": "preiselbeeren",
+            "label": "Preiselbeermarmelade",
+            "normName": "preiselbeermarmelade"
+        },
+        {
+            "id": "pute",
+            "label": "Pute",
+            "normName": "pute"
+        },
+        {
+            "id": "quark",
+            "label": "Quark",
+            "normName": "quark"
+        },
+        {
+            "id": "quitte",
+            "label": "Quitte",
+            "normName": "quitte"
+        },
+        {
+            "id": "radieschen",
+            "label": "Radieschen",
+            "normName": "radieschen"
+        },
+        {
+            "id": "räucherfisch",
+            "label": "Räucherfisch",
+            "normName": "räucherfisch"
+        },
+        {
+            "id": "räucherlachs",
+            "label": "Räucherlachs",
+            "normName": "räucherlachs"
+        },
+        {
+            "id": "räucherspeck",
+            "label": "Räucherspeck",
+            "normName": "räucherspeck"
+        },
+        {
+            "id": "rauchfleisch",
+            "label": "Rauchfleisch",
+            "normName": "rauchfleisch"
+        },
+        {
+            "id": "rauchsalz",
+            "label": "Rauchsalz",
+            "normName": "rauchsalz"
+        },
+        {
+            "id": "rehundhirsch",
+            "label": "Reh_und_Hirsch",
+            "normName": "reh und hirsch"
+        },
+        {
+            "id": "reis",
+            "label": "Reis",
+            "normName": "reis"
+        },
+        {
+            "id": "rindfleisch",
+            "label": "Rindfleisch",
+            "normName": "rindfleisch"
+        },
+        {
+            "id": "roggenmehl",
+            "label": "Roggenmehl",
+            "normName": "roggenmehl"
+        },
+        {
+            "id": "rosa_beeren",
+            "label": "rosa_Beeren",
+            "normName": "rosa beeren"
+        },
+        {
+            "id": "rosenblätter",
+            "label": "Rosenblätter",
+            "normName": "rosenblätter"
+        },
+        {
+            "id": "rosenkohl",
+            "label": "Rosenkohl",
+            "normName": "rosenkohl"
+        },
+        {
+            "id": "rosenwasser",
+            "label": "Rosenwasser",
+            "normName": "rosenwasser"
+        },
+        {
+            "id": "rosmarin",
+            "label": "Rosmarin",
+            "normName": "rosmarin"
+        },
+        {
+            "id": "rote_bete",
+            "label": "Rote_Bete",
+            "normName": "rote bete"
+        },
+        {
+            "id": "rotkohl",
+            "label": "Rotkohl",
+            "normName": "rotkohl"
+        },
+        {
+            "id": "rotwein",
+            "label": "Rotwein",
+            "normName": "rotwein"
+        },
+        {
+            "id": "rucola",
+            "label": "Rucola",
+            "normName": "rucola"
+        },
+        {
+            "id": "rum",
+            "label": "Rum",
+            "normName": "rum"
+        },
+        {
+            "id": "safran",
+            "label": "Safran",
+            "normName": "safran"
+        },
+        {
+            "id": "sago",
+            "label": "Sago",
+            "normName": "sago"
+        },
+        {
+            "id": "sahne",
+            "label": "Sahne",
+            "normName": "sahne"
+        },
+        {
+            "id": "sahnelikör",
+            "label": "sahnelikör",
+            "normName": "sahnelikör"
+        },
+        {
+            "id": "salami",
+            "label": "Salami",
+            "normName": "salami"
+        },
+        {
+            "id": "salat",
+            "label": "Salat",
+            "normName": "salat"
+        },
+        {
+            "id": "salbei",
+            "label": "Salbei",
+            "normName": "salbei"
+        },
+        {
+            "id": "salzzitrone",
+            "label": "Salzzitrone",
+            "normName": "salzzitrone"
+        },
+        {
+            "id": "sardelle",
+            "label": "Sardellen",
+            "normName": "sardellen"
+        },
+        {
+            "id": "sauerampfer",
+            "label": "Sauerampfer",
+            "normName": "sauerampfer"
+        },
+        {
+            "id": "sauerkirschen",
+            "label": "Sauerkirschen",
+            "normName": "sauerkirschen"
+        },
+        {
+            "id": "sauerkraut",
+            "label": "Sauerkraut",
+            "normName": "sauerkraut"
+        },
+        {
+            "id": "saure_sahne",
+            "label": "saure_Sahne",
+            "normName": "saure sahne"
+        },
+        {
+            "id": "scampi",
+            "label": "Scampi",
+            "normName": "scampi"
+        },
+        {
+            "id": "schafskäse",
+            "label": "Schafskäse",
+            "normName": "schafskäse"
+        },
+        {
+            "id": "schalotten",
+            "label": "Schalotten",
+            "normName": "schalotten"
+        },
+        {
+            "id": "schinken",
+            "label": "Schinken",
+            "normName": "schinken"
+        },
+        {
+            "id": "schmalz",
+            "label": "Schmalz",
+            "normName": "schmalz"
+        },
+        {
+            "id": "schmand",
+            "label": "Schmand",
+            "normName": "schmand"
+        },
+        {
+            "id": "schnauze",
+            "label": "Schnauze",
+            "normName": "schnauze"
+        },
+        {
+            "id": "schnittlauch",
+            "label": "Schnittlauch",
+            "normName": "schnittlauch"
+        },
+        {
+            "id": "schokolade",
+            "label": "Schokolade",
+            "normName": "schokolade"
+        },
+        {
+            "id": "scholle",
+            "label": "Scholle",
+            "normName": "scholle"
+        },
+        {
+            "id": "schwarzkümmel",
+            "label": "Schwarzkümmel",
+            "normName": "schwarzkümmel"
+        },
+        {
+            "id": "schwarzwurzel",
+            "label": "Schwarzwurzel",
+            "normName": "schwarzwurzel"
+        },
+        {
+            "id": "schweinefleisch",
+            "label": "Schweinefleisch",
+            "normName": "schweinefleisch"
+        },
+        {
+            "id": "schweineschmalz",
+            "label": "Schweineschmalz",
+            "normName": "schweineschmalz"
+        },
+        {
+            "id": "schweinskopf",
+            "label": "Schweinskopf",
+            "normName": "schweinskopf"
+        },
+        {
+            "id": "senf",
+            "label": "Senf",
+            "normName": "senf"
+        },
+        {
+            "id": "senfgurken",
+            "label": "Senfgurken",
+            "normName": "senfgurken"
+        },
+        {
+            "id": "senfkörner",
+            "label": "Senfkörner",
+            "normName": "senfkörner"
+        },
+        {
+            "id": "sesam",
+            "label": "Sesam",
+            "normName": "sesam"
+        },
+        {
+            "id": "sherry",
+            "label": "Sherry",
+            "normName": "sherry"
+        },
+        {
+            "id": "sirup",
+            "label": "Sirup",
+            "normName": "sirup"
+        },
+        {
+            "id": "sojasauce",
+            "label": "Sojasauce",
+            "normName": "sojasauce"
+        },
+        {
+            "id": "spargel",
+            "label": "Spargel",
+            "normName": "spargel"
+        },
+        {
+            "id": "speck",
+            "label": "Speck",
+            "normName": "speck"
+        },
+        {
+            "id": "spinat",
+            "label": "Spinat",
+            "normName": "spinat"
+        },
+        {
+            "id": "sprossen",
+            "label": "Sprossen",
+            "normName": "sprossen"
+        },
+        {
+            "id": "stärke",
+            "label": "Stärke",
+            "normName": "stärke"
+        },
+        {
+            "id": "staudensellerie",
+            "label": "Staudensellerie",
+            "normName": "staudensellerie"
+        },
+        {
+            "id": "steckrübe",
+            "label": "Steckrübe",
+            "normName": "steckrübe"
+        },
+        {
+            "id": "steinpilz",
+            "label": "Steinpilz",
+            "normName": "steinpilz"
+        },
+        {
+            "id": "stör",
+            "label": "Stör",
+            "normName": "stör"
+        },
+        {
+            "id": "sultaninen",
+            "label": "Sultaninen",
+            "normName": "sultaninen"
+        },
+        {
+            "id": "suppengemüse",
+            "label": "Suppengemüse",
+            "normName": "suppengemüse"
+        },
+        {
+            "id": "suppenwürze",
+            "label": "Suppenwürze",
+            "normName": "suppenwürze"
+        },
+        {
+            "id": "süßkartoffel",
+            "label": "Süßkartoffel",
+            "normName": "süßkartoffel"
+        },
+        {
+            "id": "süßwein",
+            "label": "Süßwein",
+            "normName": "süßwein"
+        },
+        {
+            "id": "szechuanpfeffer",
+            "label": "Szechuanpfeffer",
+            "normName": "szechuanpfeffer"
+        },
+        {
+            "id": "tabasco",
+            "label": "Tabasco",
+            "normName": "tabasco"
+        },
+        {
+            "id": "tahini",
+            "label": "Tahini",
+            "normName": "tahini"
+        },
+        {
+            "id": "tamarinde",
+            "label": "Tamarinde",
+            "normName": "tamarinde"
+        },
+        {
+            "id": "taube",
+            "label": "Taube",
+            "normName": "taube"
+        },
+        {
+            "id": "teigblätter",
+            "label": "Teigblätter",
+            "normName": "teigblätter"
+        },
+        {
+            "id": "teltower_rüben",
+            "label": "Teltower_Rüben",
+            "normName": "teltower rüben"
+        },
+        {
+            "id": "thymian",
+            "label": "Thymian",
+            "normName": "thymian"
+        },
+        {
+            "id": "tintenfisch",
+            "label": "Tintenfisch",
+            "normName": "tintenfisch"
+        },
+        {
+            "id": "tomate",
+            "label": "Tomate",
+            "normName": "tomate"
+        },
+        {
+            "id": "tomatenmark",
+            "label": "Tomatenmark",
+            "normName": "tomatenmark"
+        },
+        {
+            "id": "tomatensaft",
+            "label": "Tomatensaft",
+            "normName": "tomatensaft"
+        },
+        {
+            "id": "tonkabohne",
+            "label": "Tonkabohne",
+            "normName": "tonkabohne"
+        },
+        {
+            "id": "trüffel",
+            "label": "Trüffel",
+            "normName": "trüffel"
+        },
+        {
+            "id": "trüffelbutter",
+            "label": "Trüffelbutter",
+            "normName": "trüffelbutter"
+        },
+        {
+            "id": "trüffelöl",
+            "label": "Trüffelöl",
+            "normName": "trüffelöl"
+        },
+        {
+            "id": "vanille",
+            "label": "Vanille",
+            "normName": "vanille"
+        },
+        {
+            "id": "wacholder",
+            "label": "Wacholder",
+            "normName": "wacholder"
+        },
+        {
+            "id": "wacholderdrossel",
+            "label": "Wacholderdrossel",
+            "normName": "wacholderdrossel"
+        },
+        {
+            "id": "walnuss",
+            "label": "Walnuss",
+            "normName": "walnuss"
+        },
+        {
+            "id": "wein",
+            "label": "Wein",
+            "normName": "wein"
+        },
+        {
+            "id": "weinblätter",
+            "label": "Weinblätter",
+            "normName": "weinblätter"
+        },
+        {
+            "id": "weinbrand",
+            "label": "Weinbrand",
+            "normName": "weinbrand"
+        },
+        {
+            "id": "weinraute",
+            "label": "Weinraute",
+            "normName": "weinraute"
+        },
+        {
+            "id": "weißkohl",
+            "label": "Weißkohl",
+            "normName": "weißkohl"
+        },
+        {
+            "id": "weißwein",
+            "label": "Weißwein",
+            "normName": "weißwein"
+        },
+        {
+            "id": "weizenmehl",
+            "label": "Weizenmehl",
+            "normName": "weizenmehl"
+        },
+        {
+            "id": "wermut",
+            "label": "Wermut",
+            "normName": "wermut"
+        },
+        {
+            "id": "whiskey",
+            "label": "Whiskey",
+            "normName": "whiskey"
+        },
+        {
+            "id": "wildbret",
+            "label": "Wildbret",
+            "normName": "wildbret"
+        },
+        {
+            "id": "wildfond",
+            "label": "Wildfond",
+            "normName": "wildfond"
+        },
+        {
+            "id": "wildgeflügel",
+            "label": "Wildgeflügel",
+            "normName": "wildgeflügel"
+        },
+        {
+            "id": "wildschinken",
+            "label": "Wildschinken",
+            "normName": "wildschinken"
+        },
+        {
+            "id": "wildschwein",
+            "label": "Wildschwein",
+            "normName": "wildschwein"
+        },
+        {
+            "id": "wirsing",
+            "label": "Wirsing",
+            "normName": "wirsing"
+        },
+        {
+            "id": "worcester",
+            "label": "Worcester",
+            "normName": "worcester"
+        },
+        {
+            "id": "wurst",
+            "label": "Wurst",
+            "normName": "wurst"
+        },
+        {
+            "id": "wurzeln",
+            "label": "Wurzeln",
+            "normName": "wurzeln"
+        },
+        {
+            "id": "ziegenfleisch",
+            "label": "Ziegenfleisch",
+            "normName": "ziegenfleisch"
+        },
+        {
+            "id": "ziegenkäse",
+            "label": "Ziegenkäse",
+            "normName": "ziegenkäse"
+        },
+        {
+            "id": "zimt",
+            "label": "Zimt",
+            "normName": "zimt"
+        },
+        {
+            "id": "zitronat",
+            "label": "Zitronat",
+            "normName": "zitronat"
+        },
+        {
+            "id": "zitrone",
+            "label": "Zitrone",
+            "normName": "zitrone"
+        },
+        {
+            "id": "zitronengras",
+            "label": "Zitronengras",
+            "normName": "zitronengras"
+        },
+        {
+            "id": "zitronenmelisse",
+            "label": "Zitronenmelisse",
+            "normName": "zitronenmelisse"
+        },
+        {
+            "id": "zucchini",
+            "label": "Zucchini",
+            "normName": "zucchini"
+        },
+        {
+            "id": "zucker",
+            "label": "Zucker",
+            "normName": "zucker"
+        },
+        {
+            "id": "zuckerschoten",
+            "label": "Zuckerschoten",
+            "normName": "zuckerschoten"
+        },
+        {
+            "id": "zunge",
+            "label": "Zunge",
+            "normName": "zunge"
+        },
+        {
+            "id": "zwetschge",
+            "label": "Zwetschge",
+            "normName": "zwetschge"
+        },
+        {
+            "id": "zwieback",
+            "label": "Zwieback",
+            "normName": "zwieback"
+        },
+        {
+            "id": "zwiebel",
+            "label": "Zwiebel",
+            "normName": "zwiebel"
+        }
+    ]
+}
