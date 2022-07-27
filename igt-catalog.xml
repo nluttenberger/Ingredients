@@ -1244,14 +1244,8 @@
       </fc:ingredient>
       <fc:ingredient id="limette">
          <fc:igtLabel>Limette</fc:igtLabel>
-         <fc:igtClass>fruit</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="limettenabrieb">
-         <fc:igtLabel>Limettenabrieb</fc:igtLabel>
-         <fc:igtClass>fruit</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="limettensaft">
-         <fc:igtLabel>Limettensaft</fc:igtLabel>
+         <fc:igtSyn>limettenabrieb</fc:igtSyn>
+         <fc:igtSyn>limettensaft</fc:igtSyn>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="limoncello">
@@ -1967,9 +1961,10 @@
          <fc:igtLabel>Senfgurken</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="senfkörner">
-         <fc:igtLabel>Senfkörner</fc:igtLabel>
-         <fc:igtSyn>senfsamen</fc:igtSyn>
+      <fc:ingredient id="senfsamen">
+         <fc:igtLabel>Senfsamen</fc:igtLabel>
+         <fc:igtSyn>senfkörner</fc:igtSyn>
+         <fc:igtSyn>senfpulver</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sesam">
@@ -2341,6 +2336,9 @@
       </fc:ingredient>
       <fc:ingredient id="zitrone">
          <fc:igtLabel>Zitrone</fc:igtLabel>
+         <fc:igtSyn>zitronensaft</fc:igtSyn>
+         <fc:igtSyn>zitronenschale</fc:igtSyn>
+         <fc:igtSyn>zitronenabrieb</fc:igtSyn>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="zitronengras">
@@ -2350,15 +2348,6 @@
       <fc:ingredient id="zitronenmelisse">
          <fc:igtLabel>Zitronenmelisse</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="zitronensaft">
-         <fc:igtLabel>Zitronensaft</fc:igtLabel>
-         <fc:igtClass>fruit</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="zitronenschale">
-         <fc:igtLabel>Zitronenschale</fc:igtLabel>
-         <fc:igtSyn>zitronenabrieb</fc:igtSyn>
-         <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="zucchini">
          <fc:igtLabel>Zucchini</fc:igtLabel>
