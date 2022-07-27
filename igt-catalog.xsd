@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="http://fruschtique.de/ns/igt-catalog" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+    <xs:simpleType name="classIDType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="alc"/>
+            <xs:enumeration value="carb"/>
+            <xs:enumeration value="egg"/>
+            <xs:enumeration value="fat"/>
+            <xs:enumeration value="fish"/>
+            <xs:enumeration value="fruit"/>
+            <xs:enumeration value="herb"/>
+            <xs:enumeration value="meat"/>
+            <xs:enumeration value="milk"/>
+            <xs:enumeration value="nuts"/>
+            <xs:enumeration value="onion"/>
+            <xs:enumeration value="condi"/>
+            <xs:enumeration value="veg"/>
+            <xs:enumeration value="spice"/>
+            <xs:enumeration value="sweet"/>
+            <xs:enumeration value="etc"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="classType">
+        <xs:sequence>
+            <xs:element name="classLabel" type="xs:string" minOccurs="0"/>
+            <xs:element name="classColor" type="xs:string"/>
+            <xs:element name="classColorHex" type="xs:hexBinary"/>
+            <xs:element name="classColorRGBa" type="xs:string"/>
+            <xs:element name="R" type="xs:nonNegativeInteger"/>
+            <xs:element name="G" type="xs:nonNegativeInteger"/>
+            <xs:element name="B" type="xs:nonNegativeInteger"/>
+            <xs:element name="a" type="xs:decimal"/>
+        </xs:sequence>
+        <xs:attribute name="classID" type="fc:classIDType" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="classesType">
+        <xs:sequence>
+            <xs:element name="class" type="fc:classType" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ingredientType">
+        <xs:sequence>
+            <xs:element name="igtLabel" type="xs:string"/>
+            <xs:element name="igtSyn" minOccurs="0" type="xs:string" maxOccurs="unbounded"></xs:element>
+            <xs:element name="igtClass" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:ID" use="required"/>
+        <xs:attribute name="repl" type="xs:IDREF" use="optional"></xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="ingredientsType">
+        <xs:sequence>
+            <xs:element name="ingredient" type="fc:ingredientType" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="igtCatalog">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="classes" type="fc:classesType" minOccurs="0"/>
+                <xs:element name="ingredients" type="fc:ingredientsType"/>
+            </xs:sequence>
+        </xs:complexType>
+        <xs:key name="classKey">
+            <xs:selector xpath="fc:classes/fc:class"/>
+            <xs:field xpath="@classID"/>
+        </xs:key>
+        <xs:keyref refer="fc:classKey" name="classRef">
+            <xs:selector xpath="fc:ingredients/fc:ingredient"/>
+            <xs:field xpath="fc:igtClass"/>
+        </xs:keyref>
+    </xs:element>
+
+</xs:schema>

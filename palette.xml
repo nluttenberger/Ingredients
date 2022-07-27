@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<colors xmlns="http://fruschtique.de/ns/igt-catalog">
+
+    <color id="primary-0" nr="0" rgb="E64823" r="230" g="72" b="35" r0="0.902" g0="0.282" b0="0.137"/>
+    <color id="primary-1" nr="1" rgb="F58267" r="245" g="130" b="103" r0="0.961" g0="0.51" b0="0.404" for="meat"/>
+    <color id="primary-2" nr="2" rgb="E86445" r="232" g="100" b="69" r0="0.91" g0="0.392" b0="0.271" for="fish"/>
+    <color id="primary-3" nr="3" rgb="CD310D" r="205" g="49" b="13" r0="0.804" g0="0.192" b0="0.051" for="herb"/>
+    <color id="primary-4" nr="4" rgb="B62300" r="182" g="35" b="0" r0="0.714" g0="0.137" b0="0" for="spice"/>
+
+    <color id="secondary-1-0" nr="0" rgb="90D420" r="144" g="212" b="32" r0="0.565" g0="0.831" b0="0.125"/>
+    <color id="secondary-1-1" nr="1" rgb="B0E35F" r="176" g="227" b="95" r0="0.69" g0="0.89" b0="0.373" for="veg"/>
+    <color id="secondary-1-2" nr="2" rgb="9DD640" r="157" g="214" b="64" r0="0.616" g0="0.839" b0="0.251" for="fruit"/>
+    <color id="secondary-1-3" nr="3" rgb="79BD0C" r="121" g="189" b="12" r0="0.475" g0="0.741" b0="0.047" for="onion"/>
+    <color id="secondary-1-4" nr="4" rgb="68A800" r="104" g="168" b="0" r0="0.408" g0="0.659" b0="0" for="nuts"/>
+
+    <color id="secondary-2-0" nr="0" rgb="E6D123" r="230" g="209" b="35" r0="0.902" g0="0.82" b0="0.137"/>
+    <color id="secondary-2-1" nr="1" rgb="F5E667" r="245" g="230" b="103" r0="0.961" g0="0.902" b0="0.404" for="carb"/>
+    <color id="secondary-2-2" nr="2" rgb="E8D745" r="232" g="215" b="69" r0="0.91" g0="0.843" b0="0.271" for="sweet"/>
+    <color id="secondary-2-3" nr="3" rgb="CDB80D" r="205" g="184" b="13" r0="0.804" g0="0.722" b0="0.051" for="alc"/>
+    <color id="secondary-2-4" nr="4" rgb="B6A300" r="182" g="163" b="0" r0="0.714" g0="0.639" b0="0" for="condi"/>
+
+    <color id="complement-0" nr="0" rgb="18A05F" r="24" g="160" b="95" r0="0.094" g0="0.627" b0="0.373"/>
+    <color id="complement-1" nr="1" rgb="48AB7B" r="72" g="171" b="123" r0="0.282" g0="0.671" b0="0.482" for="milk"/>
+    <color id="complement-2" nr="2" rgb="30A26B" r="48" g="162" b="107" r0="0.188" g0="0.635" b0="0.42" for="egg"/>
+    <color id="complement-3" nr="3" rgb="098F4E" r="9" g="143" b="78" r0="0.035" g0="0.561" b0="0.306" for="fat"/>
+    <color id="complement-4" nr="4" rgb="007F42" r="0" g="127" b="66" r0="0" g0="0.498" b0="0.259" for="etc"/>
+
+    <!--  
+ for="meat"
+ for="fish"
+ for="herb"
+ for="spice"
+ 
+ for="veg"
+ for="fruit"
+ for="onion"
+ for="nuts"
+ 
+ for="carb"
+ for="sweet"
+ for="alc"
+ for="condi"
+ 
+ for="milk"
+ for="egg"
+ for="fat"
+ for="etc"
+-->
+
+</colors>
