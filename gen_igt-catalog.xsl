@@ -94,7 +94,7 @@
         <!-- generate css file for ingredient class coloring -->
         <xsl:result-document method="text" encoding="UTF-8" indent="no" exclude-result-prefixes="#all" omit-xml-declaration="yes" href="{concat($path, 'ingredient-classes.css')}">
             <xsl:for-each select="//fc:class">
-                <xsl:variable name="palette" select="concat($path, 'igt-catalog/palette.xml')"/>
+                <xsl:variable name="palette" select="concat($path, 'palette.xml')"/>
                 <xsl:variable name="class" select="./@classID"/>
                 <xsl:variable name="color" select="document($palette)//fc:color[@for = $class]/@rgb"/>
                 <xsl:value-of select="concat('&#13;', '.i-', $class, ' { fill: #', $color, '; stroke: #', $color, '; background-color: #', $color, ' }')"/>
