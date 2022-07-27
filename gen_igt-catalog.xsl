@@ -64,6 +64,10 @@
             <xsl:sequence select="xml-to-json($xx)"/>
         </xsl:result-document>
         
+        <xsl:variable name="src" select="concat($path, 'temp.json')"/>
+        <xsl:variable name="dst1" select="concat($path, 'igt-catalog.json')"/>
+        <xsl:sequence select="fs:copy($src, $dst1)"/>
+        
         <!-- generate type 'refType' for igt-catalog schema -->
         <xsl:result-document method="xml" encoding="UTF-8" indent="yes" exclude-result-prefixes="#all" href="{concat($path, '../kochbuch/tools/refType.xsd')}">
             
