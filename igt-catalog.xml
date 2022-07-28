@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -234,6 +232,10 @@
          <fc:igtLabel>Austern</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="austernpilz">
+         <fc:igtLabel>Austernpilz</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="avocado">
          <fc:igtLabel>Avocado</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -462,6 +464,11 @@
          <fc:igtLabel>Chiliflocken</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="chilipaste">
+         <fc:igtLabel>Chilipaste</fc:igtLabel>
+         <fc:igtSyn>gochujang</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="chilischote">
          <fc:igtLabel>Chilischote</fc:igtLabel>
          <fc:igtSyn>chili</fc:igtSyn>
@@ -598,6 +605,10 @@
       <fc:ingredient id="euter">
          <fc:igtLabel>Euter</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="feige">
+         <fc:igtLabel>Feige</fc:igtLabel>
+         <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="feldsalat">
          <fc:igtLabel>Feldsalat</fc:igtLabel>
@@ -776,6 +787,10 @@
       </fc:ingredient>
       <fc:ingredient id="grüne_bohnen" repl="bohnen">
          <fc:igtLabel>Grüne_Bohnen</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="grüner_spargel" repl="spargel">
+         <fc:igtLabel>grüner_Spargel</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="grünkern">
@@ -1476,6 +1491,7 @@
          <fc:igtSyn>spaghetti</fc:igtSyn>
          <fc:igtSyn>girandole</fc:igtSyn>
          <fc:igtSyn>bavete</fc:igtSyn>
+         <fc:igtSyn>bucatini</fc:igtSyn>
          <fc:igtSyn>capellini</fc:igtSyn>
          <fc:igtSyn>fusilli</fc:igtSyn>
          <fc:igtSyn>fettucine</fc:igtSyn>
@@ -1592,6 +1608,10 @@
       <fc:ingredient id="pastinake">
          <fc:igtLabel>Pastinake</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="pecorino">
+         <fc:igtLabel>Pecorino</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="peperoni">
          <fc:igtLabel>Peperoni</fc:igtLabel>
@@ -1757,7 +1777,17 @@
       </fc:ingredient>
       <fc:ingredient id="reisessig" repl="essig">
          <fc:igtLabel>Reisessig</fc:igtLabel>
+         <fc:igtSyn>chinkiang</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="reismehl">
+         <fc:igtLabel>Reismehl</fc:igtLabel>
+         <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="reiswein">
+         <fc:igtLabel>Reiswein</fc:igtLabel>
+         <fc:igtSyn>shaoxing-reiswein</fc:igtSyn>
+         <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ricotta">
          <fc:igtLabel>Ricotta</fc:igtLabel>
@@ -2272,6 +2302,10 @@
          <fc:igtSyn>cannellini-bohnen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="weißer_spargel" repl="spargel">
+         <fc:igtLabel>weißer_Spargel</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="weißkohl">
          <fc:igtLabel>Weißkohl</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -2339,6 +2373,10 @@
       <fc:ingredient id="wurzeln">
          <fc:igtLabel>Wurzeln</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="zatar">
+         <fc:igtLabel>Zatar</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ziegenfleisch">
          <fc:igtLabel>Ziegenfleisch</fc:igtLabel>
