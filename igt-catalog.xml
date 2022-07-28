@@ -1344,9 +1344,8 @@
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="mangopickle">
-         <fc:igtLabel>Mango-Pickle</fc:igtLabel>
+         <fc:igtLabel>Mangopickle</fc:igtLabel>
          <fc:igtSyn>mango-pickle</fc:igtSyn>
-         <fc:igtSyn>mangopickle</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="mangosaft">
