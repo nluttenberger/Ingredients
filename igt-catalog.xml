@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -422,6 +424,10 @@
       <fc:ingredient id="buttermilch">
          <fc:igtLabel>Buttermilch</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="butternusskürbis" repl="kürbis">
+         <fc:igtLabel>Butternusskürbis</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="butterschmalz">
          <fc:igtLabel>Butterschmalz</fc:igtLabel>
@@ -899,6 +905,10 @@
          <fc:igtLabel>Hirschhornsalz</fc:igtLabel>
          <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="hokkaidokürbis" repl="kürbis">
+         <fc:igtLabel>Hokkaidokürbis</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="holunder">
          <fc:igtLabel>Holunder</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
@@ -954,6 +964,7 @@
       </fc:ingredient>
       <fc:ingredient id="jalapeno" repl="chilischote">
          <fc:igtLabel>Jalapeno</fc:igtLabel>
+         <fc:igtSyn>jalapeno-schoten</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="joghurt">
@@ -1497,6 +1508,7 @@
          <fc:igtSyn>fettucine</fc:igtSyn>
          <fc:igtSyn>canneloni</fc:igtSyn>
          <fc:igtSyn>linguine</fc:igtSyn>
+         <fc:igtSyn>orecchiette</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="obst">
