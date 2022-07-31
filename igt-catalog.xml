@@ -367,6 +367,10 @@
          <fc:igtLabel>Bratwurst</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="brechbohnen" repl="bohnen">
+         <fc:igtLabel>Brechbohnen</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="breite_bohnen" repl="stangenbohnen">
          <fc:igtLabel>Breite_Bohnen</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -1195,10 +1199,6 @@
       <fc:ingredient id="krebs">
          <fc:igtLabel>Krebs</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="krebsbutter">
-         <fc:igtLabel>Krebsbutter</fc:igtLabel>
-         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kresse">
          <fc:igtLabel>Kresse</fc:igtLabel>
@@ -2309,6 +2309,11 @@
       <fc:ingredient id="weintrauben">
          <fc:igtLabel>Weintrauben</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="weißbrot" repl="brot">
+         <fc:igtLabel>Weißbrot</fc:igtLabel>
+         <fc:igtSyn>weißbrod</fc:igtSyn>
+         <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="weiße_bohnen">
          <fc:igtLabel>Weiße_Bohnen</fc:igtLabel>
