@@ -367,7 +367,7 @@
          <fc:igtLabel>Bratwurst</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="brechbohnen" repl="bohnen">
+      <fc:ingredient id="brechbohnen" repl="gartenbohnen">
          <fc:igtLabel>Brechbohnen</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
@@ -797,6 +797,13 @@
       </fc:ingredient>
       <fc:ingredient id="grüne_bohnen" repl="bohnen">
          <fc:igtLabel>Grüne_Bohnen</fc:igtLabel>
+         <fc:igtSyn>gartenbohnen</fc:igtSyn>
+         <fc:igtSyn>schnittbohnen</fc:igtSyn>
+         <fc:igtSyn>buschbohnen</fc:igtSyn>
+         <fc:igtSyn>stangenbohnen</fc:igtSyn>
+         <fc:igtSyn>schnippelbohnen</fc:igtSyn>
+         <fc:igtSyn>salatbohnen</fc:igtSyn>
+         <fc:igtSyn>brechbohnen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="grüner_spargel" repl="spargel">
