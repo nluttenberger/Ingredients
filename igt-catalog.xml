@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -1549,6 +1547,8 @@
          <fc:igtSyn>canneloni</fc:igtSyn>
          <fc:igtSyn>linguine</fc:igtSyn>
          <fc:igtSyn>orecchiette</fc:igtSyn>
+         <fc:igtSyn>mafalde</fc:igtSyn>
+         <fc:igtSyn>tagliatelle</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="obst">
@@ -1911,6 +1911,7 @@
       </fc:ingredient>
       <fc:ingredient id="safran">
          <fc:igtLabel>Safran</fc:igtLabel>
+         <fc:igtSyn>safranfäden</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sago">
@@ -1922,13 +1923,34 @@
          <fc:igtSyn>rahm</fc:igtSyn>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="sumach">
+         <fc:igtLabel>Sumach</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="portobello" repl="pilze">
+         <fc:igtLabel>Portobello</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="sahnelikör">
          <fc:igtLabel>Sahnelikör</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="kimchi">
+         <fc:igtLabel>Kimchi</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="gruyère" repl="käse">
+         <fc:igtLabel>Gruyère</fc:igtLabel>
+         <fc:igtSyn>Greyerzer</fc:igtSyn>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="salami">
          <fc:igtLabel>Salami</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="crownprincekürbis">
+         <fc:igtLabel>Crown_Prince_Kürbis</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="salat">
          <fc:igtLabel>Salat</fc:igtLabel>
@@ -1982,6 +2004,7 @@
       </fc:ingredient>
       <fc:ingredient id="schafskäse">
          <fc:igtLabel>Schafskäse</fc:igtLabel>
+         <fc:igtSyn>feta</fc:igtSyn>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schalotten">
