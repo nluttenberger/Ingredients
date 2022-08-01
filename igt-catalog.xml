@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -450,6 +452,10 @@
       </fc:ingredient>
       <fc:ingredient id="cayennepfeffer" repl="chiliflocken">
          <fc:igtLabel>Cayennepfeffer</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="chaat_masala">
+         <fc:igtLabel>Chaat_Masala</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="champignon">
@@ -1584,6 +1590,10 @@
          <fc:igtSyn>semmelbrösel</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="panir" repl="frischkäse">
+         <fc:igtLabel>Panir</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="papaya">
          <fc:igtLabel>Papaya</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
@@ -1599,6 +1609,7 @@
       </fc:ingredient>
       <fc:ingredient id="paprikapulver">
          <fc:igtLabel>Paprikapulver</fc:igtLabel>
+         <fc:igtSyn>paprikaflocken</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="parmesan">
@@ -1901,6 +1912,7 @@
       </fc:ingredient>
       <fc:ingredient id="salzzitrone">
          <fc:igtLabel>Salzzitrone</fc:igtLabel>
+         <fc:igtSyn>eingelegte zitrone</fc:igtSyn>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sardelle">
@@ -1983,6 +1995,11 @@
       <fc:ingredient id="schwarzer_knoblauch">
          <fc:igtLabel>Schwarzer_Knoblauch</fc:igtLabel>
          <fc:igtClass>onion</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="schwarzkohl">
+         <fc:igtLabel>Schwarzkohl</fc:igtLabel>
+         <fc:igtSyn>cavalo nero</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schwarzkümmel">
          <fc:igtLabel>Schwarzkümmel</fc:igtLabel>
@@ -2084,6 +2101,10 @@
       </fc:ingredient>
       <fc:ingredient id="spitzkohl">
          <fc:igtLabel>Spitzkohl</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="spitzpaprika" repl="paprika">
+         <fc:igtLabel>Spitzpaprika</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sprossen">
