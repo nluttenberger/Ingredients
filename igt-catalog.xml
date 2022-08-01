@@ -165,6 +165,10 @@
       </fc:class>
    </fc:classes>
    <fc:ingredients>
+      <fc:ingredient id="">
+         <fc:igtLabel/>
+         <fc:igtClass/>
+      </fc:ingredient>
       <fc:ingredient id="aal">
          <fc:igtLabel>Aal</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
@@ -994,7 +998,7 @@
       </fc:ingredient>
       <fc:ingredient id="jalapeno" repl="chilischote">
          <fc:igtLabel>Jalapeno</fc:igtLabel>
-         <fc:igtSyn>jalapeno-schoten</fc:igtSyn>
+         <fc:igtSyn>jalapeno-chilischoten</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="joghurt">
