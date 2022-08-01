@@ -391,6 +391,7 @@
       <fc:ingredient id="brot">
          <fc:igtLabel>Brot</fc:igtLabel>
          <fc:igtSyn>pide</fc:igtSyn>
+         <fc:igtSyn>croûtons</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="brotgewürz">
@@ -442,9 +443,14 @@
          <fc:igtLabel>Butterschmalz</fc:igtLabel>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="cajunmischung">
+         <fc:igtLabel>Cajunmischung</fc:igtLabel>
+         <fc:igtSyn>cajun-gewürzmischung</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="cascabel" repl="chilischote">
          <fc:igtLabel>Cascabel</fc:igtLabel>
-         <fc:igtSyn>cascabel-chilischoten</fc:igtSyn>
+         <fc:igtSyn>cascabel-chilischote</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="cashew">
@@ -631,6 +637,10 @@
       <fc:ingredient id="erdnuss">
          <fc:igtLabel>Erdnuss</fc:igtLabel>
          <fc:igtClass>nuts</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="erdnussöl">
+         <fc:igtLabel>Erdnussöl</fc:igtLabel>
+         <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="essig">
          <fc:igtLabel>Essig</fc:igtLabel>
@@ -1408,8 +1418,10 @@
          <fc:igtLabel>Malaga</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="mandarinensaft">
-         <fc:igtLabel>Mandarinensaft</fc:igtLabel>
+      <fc:ingredient id="mandarine">
+         <fc:igtLabel>Mandarine</fc:igtLabel>
+         <fc:igtSyn>mandarinensaft</fc:igtSyn>
+         <fc:igtSyn>mandarinenschale</fc:igtSyn>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="mandel">
@@ -1576,6 +1588,7 @@
          <fc:igtSyn>orecchiette</fc:igtSyn>
          <fc:igtSyn>mafalde</fc:igtSyn>
          <fc:igtSyn>tagliatelle</fc:igtSyn>
+         <fc:igtSyn>vermicelli</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="obst">
@@ -1877,6 +1890,11 @@
          <fc:igtSyn>shaoxing-reiswein</fc:igtSyn>
          <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="rettich">
+         <fc:igtLabel>Rettich</fc:igtLabel>
+         <fc:igtSyn>daikon-rettich</fc:igtSyn>
+         <fc:igtClass/>
+      </fc:ingredient>
       <fc:ingredient id="ricotta">
          <fc:igtLabel>Ricotta</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
@@ -2064,6 +2082,8 @@
       </fc:ingredient>
       <fc:ingredient id="schwarzer_knoblauch">
          <fc:igtLabel>Schwarzer_Knoblauch</fc:igtLabel>
+         <fc:igtSyn>schwarze knoblauchzehen</fc:igtSyn>
+         <fc:igtSyn>schwarze knoblauchzehe</fc:igtSyn>
          <fc:igtClass>onion</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schwarzkohl">
@@ -2135,6 +2155,12 @@
       <fc:ingredient id="sherryessig" repl="essig">
          <fc:igtLabel>Sherryessig</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="shiitake">
+         <fc:igtLabel>Shiitake</fc:igtLabel>
+         <fc:igtSyn>shiitakepilze</fc:igtSyn>
+         <fc:igtSyn>shiitake-pilze</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sirup">
          <fc:igtLabel>Sirup</fc:igtLabel>
