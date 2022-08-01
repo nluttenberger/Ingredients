@@ -137,7 +137,7 @@
          <fc:classLabel>Gewürz</fc:classLabel>
          <fc:classColor>Tomato</fc:classColor>
          <fc:classColorHex>FF6347</fc:classColorHex>
-         <fc:classColorRGBa>rgba( 65,148,148,1)</fc:classColorRGBa>
+         <fc:classColorRGBa>rgba( 255,99,71,1)</fc:classColorRGBa>
          <fc:R>255</fc:R>
          <fc:G>99</fc:G>
          <fc:B>71</fc:B>
@@ -209,7 +209,7 @@
       </fc:ingredient>
       <fc:ingredient id="apfelessig" repl="essig">
          <fc:igtLabel>Apfelessig</fc:igtLabel>
-         <fc:igtClass>spice</fc:igtClass>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="apfelkraut">
          <fc:igtLabel>Apfelkraut</fc:igtLabel>
@@ -2170,7 +2170,7 @@
       </fc:ingredient>
       <fc:ingredient id="sherryessig" repl="essig">
          <fc:igtLabel>Sherryessig</fc:igtLabel>
-         <fc:igtClass>spice</fc:igtClass>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="shiitake">
          <fc:igtLabel>Shiitake</fc:igtLabel>
