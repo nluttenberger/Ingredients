@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -636,6 +634,7 @@
       </fc:ingredient>
       <fc:ingredient id="erdnuss">
          <fc:igtLabel>Erdnuss</fc:igtLabel>
+         <fc:igtSyn>erdnüsse</fc:igtSyn>
          <fc:igtClass>nuts</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="erdnussöl">
@@ -804,6 +803,11 @@
       <fc:ingredient id="gin">
          <fc:igtLabel>Gin</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="golden_syrup">
+         <fc:igtLabel>Golden_Syrup</fc:igtLabel>
+         <fc:igtSyn>golden syrup</fc:igtSyn>
+         <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="granatapfel">
          <fc:igtLabel>Granatapfel</fc:igtLabel>
