@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -536,6 +538,10 @@
          <fc:igtLabel>Crème_fraîche</fc:igtLabel>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="crownprincekürbis">
+         <fc:igtLabel>Crown_Prince_Kürbis</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="cumin">
          <fc:igtLabel>Cumin</fc:igtLabel>
          <fc:igtSyn>kreuzkümmel</fc:igtSyn>
@@ -837,6 +843,11 @@
          <fc:igtLabel>Grütze</fc:igtLabel>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="gruyère" repl="käse">
+         <fc:igtLabel>Gruyère</fc:igtLabel>
+         <fc:igtSyn>Greyerzer</fc:igtSyn>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="guave">
          <fc:igtLabel>Guave</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
@@ -1120,6 +1131,10 @@
       <fc:ingredient id="kidneybohnen">
          <fc:igtLabel>Kidneybohnen</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="kimchi">
+         <fc:igtLabel>Kimchi</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kirschen">
          <fc:igtLabel>Kirschen</fc:igtLabel>
@@ -1768,6 +1783,10 @@
          <fc:igtLabel>Pomeranze</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="portobello" repl="pilze">
+         <fc:igtLabel>Portobello</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="portulak">
          <fc:igtLabel>Portulak</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -1923,34 +1942,13 @@
          <fc:igtSyn>rahm</fc:igtSyn>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="sumach">
-         <fc:igtLabel>Sumach</fc:igtLabel>
-         <fc:igtClass>spice</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="portobello" repl="pilze">
-         <fc:igtLabel>Portobello</fc:igtLabel>
-         <fc:igtClass>veg</fc:igtClass>
-      </fc:ingredient>
       <fc:ingredient id="sahnelikör">
          <fc:igtLabel>Sahnelikör</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="kimchi">
-         <fc:igtLabel>Kimchi</fc:igtLabel>
-         <fc:igtClass>condi</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="gruyère" repl="käse">
-         <fc:igtLabel>Gruyère</fc:igtLabel>
-         <fc:igtSyn>Greyerzer</fc:igtSyn>
-         <fc:igtClass>milk</fc:igtClass>
-      </fc:ingredient>
       <fc:ingredient id="salami">
          <fc:igtLabel>Salami</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="crownprincekürbis">
-         <fc:igtLabel>Crown_Prince_Kürbis</fc:igtLabel>
-         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="salat">
          <fc:igtLabel>Salat</fc:igtLabel>
@@ -2209,6 +2207,10 @@
          <fc:igtLabel>Sülze</fc:igtLabel>
          <fc:igtSyn>kaiersülze</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="sumach">
+         <fc:igtLabel>Sumach</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="suppengemüse">
          <fc:igtLabel>Suppengemüse</fc:igtLabel>
