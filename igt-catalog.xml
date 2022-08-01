@@ -165,10 +165,6 @@
       </fc:class>
    </fc:classes>
    <fc:ingredients>
-      <fc:ingredient id="">
-         <fc:igtLabel/>
-         <fc:igtClass/>
-      </fc:ingredient>
       <fc:ingredient id="aal">
          <fc:igtLabel>Aal</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
@@ -294,6 +290,10 @@
       <fc:ingredient id="beifuß">
          <fc:igtLabel>Beifuß</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="berbere">
+         <fc:igtLabel>Berbere</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="bergkäse">
          <fc:igtLabel>Bergkäse</fc:igtLabel>
@@ -444,6 +444,7 @@
       </fc:ingredient>
       <fc:ingredient id="cascabel" repl="chilischote">
          <fc:igtLabel>Cascabel</fc:igtLabel>
+         <fc:igtSyn>cascabel-chilischoten</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="cashew">
@@ -501,6 +502,11 @@
       <fc:ingredient id="chinakohl">
          <fc:igtLabel>Chinakohl</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="chipotle">
+         <fc:igtLabel>Chipotle</fc:igtLabel>
+         <fc:igtSyn>chipotle-chiliflocken</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="choisum">
          <fc:igtLabel>Choi_sum</fc:igtLabel>
@@ -1547,6 +1553,10 @@
          <fc:igtLabel>Nierenfett</fc:igtLabel>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="noriflocken">
+         <fc:igtLabel>Noriflocken</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="nougat">
          <fc:igtLabel>Nougat</fc:igtLabel>
          <fc:igtClass>sweet</fc:igtClass>
@@ -1913,6 +1923,11 @@
          <fc:igtLabel>Rote_Bete</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="rote_bete-blätter">
+         <fc:igtLabel>Rote_Bete_Blätter</fc:igtLabel>
+         <fc:igtSyn>rote-bete-blätter</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="rotkohl">
          <fc:igtLabel>Rotkohl</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -2231,6 +2246,8 @@
       </fc:ingredient>
       <fc:ingredient id="szechuanpfeffer">
          <fc:igtLabel>Szechuanpfeffer</fc:igtLabel>
+         <fc:igtSyn>sichuan-pfeffer</fc:igtSyn>
+         <fc:igtSyn>sichuan-pfefferkörner</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="tabasco">
