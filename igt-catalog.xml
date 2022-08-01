@@ -193,6 +193,11 @@
          <fc:igtLabel>Ananassaft</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="ancho" repl="chilischote">
+         <fc:igtLabel>Ancho</fc:igtLabel>
+         <fc:igtSyn>ancho-chilischote</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="anis">
          <fc:igtLabel>Anis</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
@@ -487,6 +492,10 @@
       </fc:ingredient>
       <fc:ingredient id="chinakohl">
          <fc:igtLabel>Chinakohl</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="choisum">
+         <fc:igtLabel>Choi_sum</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="cidre">
@@ -831,6 +840,11 @@
          <fc:igtSyn>salatgurke</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="habanero" repl="chilischote">
+         <fc:igtLabel>Habanero</fc:igtLabel>
+         <fc:igtSyn>habanero-chilischote</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="hackfleisch">
          <fc:igtLabel>Hackfleisch</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
@@ -899,6 +913,11 @@
       <fc:ingredient id="herz">
          <fc:igtLabel>Herz</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="hibiskus">
+         <fc:igtLabel>Hibiskus</fc:igtLabel>
+         <fc:igtSyn>hibiskustee</fc:igtSyn>
+         <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="himbeeren">
          <fc:igtLabel>Himbeeren</fc:igtLabel>
@@ -1343,6 +1362,11 @@
       <fc:ingredient id="mais">
          <fc:igtLabel>Mais</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="maismehl">
+         <fc:igtLabel>Maismehl</fc:igtLabel>
+         <fc:igtSyn>masa harina</fc:igtSyn>
+         <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="majoran">
          <fc:igtLabel>Majoran</fc:igtLabel>
