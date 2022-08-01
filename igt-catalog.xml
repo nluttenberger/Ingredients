@@ -471,6 +471,10 @@
          <fc:igtLabel>Champignon</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="cheddar">
+         <fc:igtLabel>Cheddar</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="chiasamen">
          <fc:igtLabel>Chiasamen</fc:igtLabel>
          <fc:igtClass>etc</fc:igtClass>
