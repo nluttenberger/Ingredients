@@ -1998,7 +1998,7 @@
       </fc:ingredient>
       <fc:ingredient id="schwarzkohl">
          <fc:igtLabel>Schwarzkohl</fc:igtLabel>
-         <fc:igtSyn>cavalo nero</fc:igtSyn>
+         <fc:igtSyn>cavolo nero</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schwarzkümmel">
