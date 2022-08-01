@@ -1924,7 +1924,7 @@
          <fc:igtLabel>Rote_Bete</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="rote_bete-blätter">
+      <fc:ingredient id="rote_bete_blätter">
          <fc:igtLabel>Rote_Bete_Blätter</fc:igtLabel>
          <fc:igtSyn>rote-bete-blätter</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
