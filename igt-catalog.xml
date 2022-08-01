@@ -1555,6 +1555,7 @@
       </fc:ingredient>
       <fc:ingredient id="noriflocken">
          <fc:igtLabel>Noriflocken</fc:igtLabel>
+         <fc:igtSyn>nori-flocken</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="nougat">
