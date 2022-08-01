@@ -540,6 +540,7 @@
       </fc:ingredient>
       <fc:ingredient id="crownprincekürbis">
          <fc:igtLabel>Crown_Prince_Kürbis</fc:igtLabel>
+         <fc:igtSyn>crown-prince-kürbis</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="cumin">
