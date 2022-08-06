@@ -205,6 +205,7 @@
       <fc:ingredient id="apfel">
          <fc:igtLabel>Apfel</fc:igtLabel>
          <fc:igtSyn>äpfel</fc:igtSyn>
+         <fc:igtSyn>aepfel</fc:igtSyn>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="apfelessig" repl="essig">
@@ -366,10 +367,12 @@
       </fc:ingredient>
       <fc:ingredient id="bratenjus">
          <fc:igtLabel>Bratenjus</fc:igtLabel>
+         <fc:igtSyn>jus</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="bratfett">
          <fc:igtLabel>Bratfett</fc:igtLabel>
+         <fc:igtSyn>bratenfett</fc:igtSyn>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="bratwurst">
@@ -616,6 +619,7 @@
       </fc:ingredient>
       <fc:ingredient id="endiviensalat">
          <fc:igtLabel>Endiviensalat</fc:igtLabel>
+         <fc:igtSyn>endivien</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ente">
@@ -2233,6 +2237,7 @@
       </fc:ingredient>
       <fc:ingredient id="stärke">
          <fc:igtLabel>Stärke</fc:igtLabel>
+         <fc:igtSyn>kartoffelmehl</fc:igtSyn>
          <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="staudensellerie">
@@ -2253,9 +2258,19 @@
          <fc:igtLabel>Sternanis</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="stielmus">
+         <fc:igtLabel>Stielmus</fc:igtLabel>
+         <fc:igtSyn>rübstiel</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="stör">
          <fc:igtLabel>Stör</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="stubenküken">
+         <fc:igtLabel>Stubenküken</fc:igtLabel>
+         <fc:igtSyn>kücken</fc:igtSyn>
+         <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sultaninen">
          <fc:igtLabel>Sultaninen</fc:igtLabel>
@@ -2466,6 +2481,7 @@
       </fc:ingredient>
       <fc:ingredient id="weißkohl">
          <fc:igtLabel>Weißkohl</fc:igtLabel>
+         <fc:igtSyn>weißer kohl</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="weißwein">
