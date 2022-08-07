@@ -822,6 +822,10 @@
          <fc:igtLabel>getrocknete_Tomaten</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="gewürz">
+         <fc:igtLabel>Gewürz</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="gewürzgurke">
          <fc:igtLabel>Gewürzgurken</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
@@ -873,6 +877,7 @@
          <fc:igtSyn>salatbohnen</fc:igtSyn>
          <fc:igtSyn>brechbohnen</fc:igtSyn>
          <fc:igtSyn>prinzessbohnen</fc:igtSyn>
+         <fc:igtSyn>vietsbohne</fc:igtSyn>
          <fc:igtSyn>schneidbohnen</fc:igtSyn>
          <fc:igtSyn>böhnchen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
@@ -2159,6 +2164,7 @@
       </fc:ingredient>
       <fc:ingredient id="schweineschmalz">
          <fc:igtLabel>Schweineschmalz</fc:igtLabel>
+         <fc:igtSyn>schweinefett</fc:igtSyn>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schweinskopf">
@@ -2244,6 +2250,11 @@
       </fc:ingredient>
       <fc:ingredient id="spargel">
          <fc:igtLabel>Spargel</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="spargelerbsen">
+         <fc:igtLabel>Spargelerbsen</fc:igtLabel>
+         <fc:igtSyn>flügelerbsen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="speck">
@@ -2456,6 +2467,7 @@
       </fc:ingredient>
       <fc:ingredient id="wacholder">
          <fc:igtLabel>Wacholder</fc:igtLabel>
+         <fc:igtSyn>wacholderbeeren</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="wacholderdrossel">
