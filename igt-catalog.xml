@@ -617,9 +617,9 @@
          <fc:igtLabel>Emmentaler</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="endiviensalat">
-         <fc:igtLabel>Endiviensalat</fc:igtLabel>
-         <fc:igtSyn>endivien</fc:igtSyn>
+      <fc:ingredient id="endivien">
+         <fc:igtLabel>Endivien</fc:igtLabel>
+         <fc:igtSyn>endiviensalat</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ente">
@@ -743,6 +743,11 @@
          <fc:igtLabel>Gans</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="gänsefett">
+         <fc:igtLabel>Gänsefett</fc:igtLabel>
+         <fc:igtSyn>gänseschmalz</fc:igtSyn>
+         <fc:igtClass>fat</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="gänseschmalz">
          <fc:igtLabel>Gänseschmalz</fc:igtLabel>
          <fc:igtClass>fat</fc:igtClass>
@@ -781,6 +786,10 @@
          <fc:igtLabel>Gemüsebrühe</fc:igtLabel>
          <fc:igtSyn>gemüsefond</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="gemüsegurke">
+         <fc:igtLabel>Gemüsegurke</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gemüsezwiebel">
          <fc:igtLabel>Gemüsezwiebel</fc:igtLabel>
@@ -2456,6 +2465,10 @@
          <fc:igtSyn>cognac</fc:igtSyn>
          <fc:igtSyn>brandy</fc:igtSyn>
          <fc:igtClass>alc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="weinessig" repl="essig">
+         <fc:igtLabel>Weinessig</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="weinraute">
          <fc:igtLabel>Weinraute</fc:igtLabel>
