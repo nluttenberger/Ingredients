@@ -2482,6 +2482,7 @@
       <fc:ingredient id="weißkohl">
          <fc:igtLabel>Weißkohl</fc:igtLabel>
          <fc:igtSyn>weißer kohl</fc:igtSyn>
+         <fc:igtSyn>kohl</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="weißwein">
