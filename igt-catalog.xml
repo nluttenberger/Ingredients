@@ -1334,6 +1334,7 @@
       <fc:ingredient id="lauch">
          <fc:igtLabel>Lauch</fc:igtLabel>
          <fc:igtSyn>porree</fc:igtSyn>
+         <fc:igtSyn>borrei</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="lauchzwiebel">
