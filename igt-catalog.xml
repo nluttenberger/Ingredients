@@ -769,6 +769,7 @@
       </fc:ingredient>
       <fc:ingredient id="gartenmelde">
          <fc:igtLabel>Gartenmelde</fc:igtLabel>
+         <fc:igtSyn>melle</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="geflügel">
@@ -1414,6 +1415,7 @@
       </fc:ingredient>
       <fc:ingredient id="lorbeer">
          <fc:igtLabel>Lorbeer</fc:igtLabel>
+         <fc:igtSyn>lorber</fc:igtSyn>
          <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="löwenzahn">
@@ -2158,6 +2160,11 @@
       </fc:ingredient>
       <fc:ingredient id="schweinskopf">
          <fc:igtLabel>Schweinskopf</fc:igtLabel>
+         <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="schweinsrippe">
+         <fc:igtLabel>Schweinsrippe</fc:igtLabel>
+         <fc:igtSyn>rippchen</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="seeteufel">
