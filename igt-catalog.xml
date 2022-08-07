@@ -628,6 +628,7 @@
       </fc:ingredient>
       <fc:ingredient id="erbsen">
          <fc:igtLabel>Erbsen</fc:igtLabel>
+         <fc:igtSyn>grüne erbsen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="erdbeeren">
@@ -777,6 +778,10 @@
          <fc:igtLabel>Gelatine</fc:igtLabel>
          <fc:igtSyn>tortenguss</fc:igtSyn>
          <fc:igtClass>etc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="gelbe_erbsen">
+         <fc:igtLabel>Gelbe_Erbsen</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gelee">
          <fc:igtLabel>Gelee</fc:igtLabel>
