@@ -1864,6 +1864,7 @@
       </fc:ingredient>
       <fc:ingredient id="portulak">
          <fc:igtLabel>Portulak</fc:igtLabel>
+         <fc:igtSyn>portulac</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="portwein">
@@ -1999,6 +2000,8 @@
       </fc:ingredient>
       <fc:ingredient id="rotkohl">
          <fc:igtLabel>Rotkohl</fc:igtLabel>
+         <fc:igtSyn>roter kohl</fc:igtSyn>
+         <fc:igtSyn>rother kohl</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="rotwein">
@@ -2284,6 +2287,7 @@
       </fc:ingredient>
       <fc:ingredient id="steckrübe">
          <fc:igtLabel>Steckrübe</fc:igtLabel>
+         <fc:igtSyn>rübe</fc:igtSyn>
          <fc:igtSyn>herbst-rübe</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
