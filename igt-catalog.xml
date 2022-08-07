@@ -1322,7 +1322,7 @@
       </fc:ingredient>
       <fc:ingredient id="kümmel">
          <fc:igtLabel>Kümmel</fc:igtLabel>
-         <fc:igtClass>herb</fc:igtClass>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kumquat">
          <fc:igtLabel>Kumquat</fc:igtLabel>
