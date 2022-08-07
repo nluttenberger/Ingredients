@@ -171,6 +171,9 @@
       </fc:ingredient>
       <fc:ingredient id="ackerrettich">
          <fc:igtLabel>Ackerrettich</fc:igtLabel>
+         <fc:igtSyn>acker-rettich</fc:igtSyn>
+         <fc:igtSyn>hederich</fc:igtSyn>
+         <fc:igtSyn>häderich</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="agavendicksaft">
@@ -395,6 +398,8 @@
          <fc:igtLabel>Brot</fc:igtLabel>
          <fc:igtSyn>pide</fc:igtSyn>
          <fc:igtSyn>croûtons</fc:igtSyn>
+         <fc:igtSyn>brötchen</fc:igtSyn>
+         <fc:igtSyn>vierpfennigsbrödchen</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="brotgewürz">
@@ -867,6 +872,7 @@
          <fc:igtSyn>salatbohnen</fc:igtSyn>
          <fc:igtSyn>brechbohnen</fc:igtSyn>
          <fc:igtSyn>prinzessbohnen</fc:igtSyn>
+         <fc:igtSyn>schneidbohnen</fc:igtSyn>
          <fc:igtSyn>böhnchen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
@@ -880,6 +886,9 @@
       </fc:ingredient>
       <fc:ingredient id="grünkohl">
          <fc:igtLabel>Grünkohl</fc:igtLabel>
+         <fc:igtSyn>Braunkohl</fc:igtSyn>
+         <fc:igtSyn>grüner Kohl</fc:igtSyn>
+         <fc:igtSyn>grüner oder brauner Kohl</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="grütze">
@@ -968,6 +977,7 @@
       </fc:ingredient>
       <fc:ingredient id="hering">
          <fc:igtLabel>Hering</fc:igtLabel>
+         <fc:igtSyn>häring</fc:igtSyn>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="herz">
@@ -2265,6 +2275,7 @@
       </fc:ingredient>
       <fc:ingredient id="steckrübe">
          <fc:igtLabel>Steckrübe</fc:igtLabel>
+         <fc:igtSyn>herbst-rübe</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="steinpilz">
@@ -2631,6 +2642,7 @@
       </fc:ingredient>
       <fc:ingredient id="zwieback">
          <fc:igtLabel>Zwieback</fc:igtLabel>
+         <fc:igtSyn>zwiebäcke</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="zwiebel">
