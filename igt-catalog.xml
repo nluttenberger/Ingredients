@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -1137,6 +1139,8 @@
       <fc:ingredient id="karotte">
          <fc:igtLabel>Karotte</fc:igtLabel>
          <fc:igtSyn>möhre</fc:igtSyn>
+         <fc:igtSyn>herbst-wurzel</fc:igtSyn>
+         <fc:igtSyn>junge wurzeln</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="karpfen">
@@ -2597,6 +2601,7 @@
       </fc:ingredient>
       <fc:ingredient id="zimt">
          <fc:igtLabel>Zimt</fc:igtLabel>
+         <fc:igtSyn>zimmet</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="zitronat">
