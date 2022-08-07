@@ -174,7 +174,7 @@
          <fc:igtSyn>saubohne</fc:igtSyn>
          <fc:igtSyn>dicke bohne</fc:igtSyn>
          <fc:igtSyn>großebohne</fc:igtSyn>
-         <fc:igtClass/>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ackerrettich">
          <fc:igtLabel>Ackerrettich</fc:igtLabel>
