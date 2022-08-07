@@ -169,6 +169,13 @@
          <fc:igtLabel>Aal</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="ackerbohne">
+         <fc:igtLabel>Ackerbohne</fc:igtLabel>
+         <fc:igtSyn>saubohne</fc:igtSyn>
+         <fc:igtSyn>dicke bohne</fc:igtSyn>
+         <fc:igtSyn>großebohne</fc:igtSyn>
+         <fc:igtClass/>
+      </fc:ingredient>
       <fc:ingredient id="ackerrettich">
          <fc:igtLabel>Ackerrettich</fc:igtLabel>
          <fc:igtSyn>acker-rettich</fc:igtSyn>
