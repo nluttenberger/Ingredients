@@ -866,6 +866,8 @@
          <fc:igtSyn>schnippelbohnen</fc:igtSyn>
          <fc:igtSyn>salatbohnen</fc:igtSyn>
          <fc:igtSyn>brechbohnen</fc:igtSyn>
+         <fc:igtSyn>prinzessbohnen</fc:igtSyn>
+         <fc:igtSyn>böhnchen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="grüner_spargel" repl="spargel">
