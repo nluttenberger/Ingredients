@@ -1119,6 +1119,7 @@
       </fc:ingredient>
       <fc:ingredient id="kalbfleisch">
          <fc:igtLabel>Kalbfleisch</fc:igtLabel>
+         <fc:igtSyn>tafelspitz</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kalbsbraten">
@@ -1984,6 +1985,7 @@
          <fc:igtLabel>Rindfleisch</fc:igtLabel>
          <fc:igtSyn>rinderfilet</fc:igtSyn>
          <fc:igtSyn>rinderrouladen</fc:igtSyn>
+         <fc:igtSyn>rindergulasch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="roggenmehl">
@@ -2188,6 +2190,8 @@
       </fc:ingredient>
       <fc:ingredient id="schweinefleisch">
          <fc:igtLabel>Schweinefleisch</fc:igtLabel>
+         <fc:igtSyn>schweinebraten</fc:igtSyn>
+         <fc:igtSyn>schweinegulasch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schweineschmalz">
@@ -2392,6 +2396,10 @@
       <fc:ingredient id="tabasco">
          <fc:igtLabel>Tabasco</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="tafelspitz">
+         <fc:igtLabel>Tafelspitz</fc:igtLabel>
+         <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="tahina">
          <fc:igtLabel>Tahina</fc:igtLabel>
