@@ -1501,6 +1501,10 @@
          <fc:igtLabel>Mandelmilch</fc:igtLabel>
          <fc:igtClass>nuts</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="mandelmus">
+         <fc:igtLabel>Mandelmus</fc:igtLabel>
+         <fc:igtClass>nuts</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="mango">
          <fc:igtLabel>Mango</fc:igtLabel>
          <fc:igtSyn>mangofruchtfleisch</fc:igtSyn>
@@ -1667,6 +1671,7 @@
          <fc:igtSyn>tagliatelle</fc:igtSyn>
          <fc:igtSyn>vermicelli</fc:igtSyn>
          <fc:igtSyn>lasagneblätter</fc:igtSyn>
+         <fc:igtSyn>muschelnudeln</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="obst">
