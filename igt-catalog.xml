@@ -833,6 +833,7 @@
       </fc:ingredient>
       <fc:ingredient id="gewürz">
          <fc:igtLabel>Gewürz</fc:igtLabel>
+         <fc:igtSyn>streuwürze</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gewürzgurke">
@@ -936,6 +937,9 @@
       </fc:ingredient>
       <fc:ingredient id="hackfleisch">
          <fc:igtLabel>Hackfleisch</fc:igtLabel>
+         <fc:igtSyn>hack</fc:igtSyn>
+         <fc:igtSyn>rinderhack</fc:igtSyn>
+         <fc:igtSyn>lammhack</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="haferfleks">
@@ -1045,6 +1049,7 @@
          <fc:igtLabel>Huhn</fc:igtLabel>
          <fc:igtSyn>pourlade</fc:igtSyn>
          <fc:igtSyn>hühnerfleisch</fc:igtSyn>
+         <fc:igtSyn>hühnerhälfte</fc:igtSyn>
          <fc:igtSyn>hähnchen</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
@@ -1059,6 +1064,7 @@
          <fc:igtLabel>Hühnerbrust</fc:igtLabel>
          <fc:igtSyn>hähnchenbrust</fc:igtSyn>
          <fc:igtSyn>hähnchensuprême</fc:igtSyn>
+         <fc:igtSyn>hühnerbrüste</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="hühnerschenkel">
@@ -1369,6 +1375,7 @@
       </fc:ingredient>
       <fc:ingredient id="lammfleisch">
          <fc:igtLabel>Lammfleisch</fc:igtLabel>
+         <fc:igtSyn>lammgulasch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="lauch">
@@ -1753,6 +1760,8 @@
       <fc:ingredient id="paprikapulver">
          <fc:igtLabel>Paprikapulver</fc:igtLabel>
          <fc:igtSyn>paprikaflocken</fc:igtSyn>
+         <fc:igtSyn>paprika edelsüß</fc:igtSyn>
+         <fc:igtSyn>paprika scharf</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="parmesan">
