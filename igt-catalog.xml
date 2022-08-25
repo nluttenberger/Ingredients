@@ -1119,7 +1119,7 @@
       </fc:ingredient>
       <fc:ingredient id="kalbfleisch">
          <fc:igtLabel>Kalbfleisch</fc:igtLabel>
-         <fc:igtSyn>tafelspitz</fc:igtSyn>
+         <fc:igtSyn>kalbsschnitzel</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kalbsbraten">
