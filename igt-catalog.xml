@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -1174,6 +1172,7 @@
       </fc:ingredient>
       <fc:ingredient id="kaviar">
          <fc:igtLabel>Kaviar</fc:igtLabel>
+         <fc:igtSyn>tångkorn</fc:igtSyn>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kefir">
@@ -1544,6 +1543,7 @@
       </fc:ingredient>
       <fc:ingredient id="mayonnaise">
          <fc:igtLabel>Mayonnaise</fc:igtLabel>
+         <fc:igtSyn>miracel whip</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="meerrettich">
@@ -2071,6 +2071,8 @@
       </fc:ingredient>
       <fc:ingredient id="sardelle">
          <fc:igtLabel>Sardellen</fc:igtLabel>
+         <fc:igtSyn>anchovisfilets</fc:igtSyn>
+         <fc:igtSyn>anchovis</fc:igtSyn>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sauerampfer">
@@ -2390,6 +2392,7 @@
          <fc:igtLabel>Teig</fc:igtLabel>
          <fc:igtSyn>filoteig</fc:igtSyn>
          <fc:igtSyn>yufkateig</fc:igtSyn>
+         <fc:igtSyn>yufka-teig</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="teigblätter">
@@ -2533,6 +2536,8 @@
       <fc:ingredient id="weißbrot" repl="brot">
          <fc:igtLabel>Weißbrot</fc:igtLabel>
          <fc:igtSyn>weißbrod</fc:igtSyn>
+         <fc:igtSyn>crostini</fc:igtSyn>
+         <fc:igtSyn>baguette</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="weiße_bohnen">
