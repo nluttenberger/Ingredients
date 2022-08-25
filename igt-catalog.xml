@@ -807,6 +807,10 @@
          <fc:igtLabel>Gemüsegurke</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="gemüsemischung">
+         <fc:igtLabel>Gemüsemischung</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="gemüsezwiebel">
          <fc:igtLabel>Gemüsezwiebel</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -867,6 +871,11 @@
       <fc:ingredient id="greyerzer">
          <fc:igtLabel>Greyerzer</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="grieß">
+         <fc:igtLabel>Grieß</fc:igtLabel>
+         <fc:igtSyn>vollkorngrieß</fc:igtSyn>
+         <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="große_bohnen">
          <fc:igtLabel>Große_Bohnen</fc:igtLabel>
@@ -2285,6 +2294,7 @@
       </fc:ingredient>
       <fc:ingredient id="sprossen">
          <fc:igtLabel>Sprossen</fc:igtLabel>
+         <fc:igtSyn>rote bete-sprossen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="stachelbeeren">
@@ -2424,6 +2434,10 @@
          <fc:igtLabel>Tomate</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="tomatenessig" repl="essig">
+         <fc:igtLabel>Tomatenessig</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="tomatenmark">
          <fc:igtLabel>Tomatenmark</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
@@ -2475,6 +2489,11 @@
       <fc:ingredient id="vanillezucker">
          <fc:igtLabel>Vanillezucker</fc:igtLabel>
          <fc:igtClass>sweet</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="vollkornbrot">
+         <fc:igtLabel>Vollkornbrot</fc:igtLabel>
+         <fc:igtSyn>dinkelvollkornbrot</fc:igtSyn>
+         <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="wacholder">
          <fc:igtLabel>Wacholder</fc:igtLabel>
