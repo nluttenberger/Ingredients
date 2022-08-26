@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -422,6 +424,10 @@
       </fc:ingredient>
       <fc:ingredient id="buchweizen">
          <fc:igtLabel>Buchweizen</fc:igtLabel>
+         <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="buchweizenmehl">
+         <fc:igtLabel>Buchweizenmehl</fc:igtLabel>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="büffelmozzarella">
@@ -1716,6 +1722,11 @@
          <fc:igtLabel>Orangenabrieb</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="orangenagrumato">
+         <fc:igtLabel>Orangenagrumato</fc:igtLabel>
+         <fc:igtSyn>orangen-agrumato</fc:igtSyn>
+         <fc:igtClass>fat</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="orangenblütenwasser">
          <fc:igtLabel>Orangenblütenwasser</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
@@ -1916,6 +1927,11 @@
          <fc:igtLabel>Preiselbeer_Marmelade</fc:igtLabel>
          <fc:igtSyn>wildpreiselbeeren</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="preiselbeermarmelade">
+         <fc:igtLabel>Preiselbeermarmelade</fc:igtLabel>
+         <fc:igtSyn>preiselbeer-marmelade</fc:igtSyn>
+         <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="puddingpulver">
          <fc:igtLabel>Puddingpulver</fc:igtLabel>
@@ -2370,6 +2386,7 @@
       <fc:ingredient id="sultaninen">
          <fc:igtLabel>Sultaninen</fc:igtLabel>
          <fc:igtSyn>rosinen</fc:igtSyn>
+         <fc:igtSyn>korinthen</fc:igtSyn>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sülze">
@@ -2581,6 +2598,9 @@
       </fc:ingredient>
       <fc:ingredient id="weißbrot" repl="brot">
          <fc:igtLabel>Weißbrot</fc:igtLabel>
+         <fc:igtSyn>laugenstangen</fc:igtSyn>
+         <fc:igtSyn>laugengebäck</fc:igtSyn>
+         <fc:igtSyn>laugenbrezel</fc:igtSyn>
          <fc:igtSyn>weißbrod</fc:igtSyn>
          <fc:igtSyn>crostini</fc:igtSyn>
          <fc:igtSyn>baguette</fc:igtSyn>
