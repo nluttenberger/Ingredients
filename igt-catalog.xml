@@ -1211,6 +1211,11 @@
          <fc:igtLabel>Kichererbsen</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="kichererbsenmehl">
+         <fc:igtLabel>Kichererbsenmehl</fc:igtLabel>
+         <fc:igtSyn>kichererbsmehl</fc:igtSyn>
+         <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="kidneybohnen">
          <fc:igtLabel>Kidneybohnen</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
