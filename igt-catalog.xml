@@ -165,6 +165,11 @@
       </fc:class>
    </fc:classes>
    <fc:ingredients>
+      <fc:ingredient id="">
+         <fc:igtLabel/>
+         <fc:igtSyn>salz, pfeffer</fc:igtSyn>
+         <fc:igtClass/>
+      </fc:ingredient>
       <fc:ingredient id="aal">
          <fc:igtLabel>Aal</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
@@ -827,6 +832,7 @@
       </fc:ingredient>
       <fc:ingredient id="geräuchertes_paprikapulver">
          <fc:igtLabel>Geräuchertes_Paprikapulver</fc:igtLabel>
+         <fc:igtSyn>pimenton de la vera</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gerste">
@@ -2069,6 +2075,7 @@
       </fc:ingredient>
       <fc:ingredient id="rucola">
          <fc:igtLabel>Rucola</fc:igtLabel>
+         <fc:igtSyn>rauke</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="rum">
@@ -2557,6 +2564,10 @@
          <fc:igtLabel>Walnuss</fc:igtLabel>
          <fc:igtSyn>walnüsse</fc:igtSyn>
          <fc:igtClass>nuts</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="walnussöl">
+         <fc:igtLabel>Walnussöl</fc:igtLabel>
+         <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="walnussöl">
          <fc:igtLabel>Walnussöl</fc:igtLabel>
