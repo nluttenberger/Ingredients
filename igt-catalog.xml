@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -2562,10 +2564,6 @@
          <fc:igtLabel>Walnuss</fc:igtLabel>
          <fc:igtSyn>walnüsse</fc:igtSyn>
          <fc:igtClass>nuts</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="walnussöl">
-         <fc:igtLabel>Walnussöl</fc:igtLabel>
-         <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="walnussöl">
          <fc:igtLabel>Walnussöl</fc:igtLabel>
