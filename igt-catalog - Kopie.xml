@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -208,7 +206,7 @@
          <fc:igtLabel>Ananassaft</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="ancho" repl="chili">
+      <fc:ingredient id="ancho" repl="chilischote">
          <fc:igtLabel>Ancho</fc:igtLabel>
          <fc:igtSyn>ancho-chilischote</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
@@ -472,7 +470,7 @@
          <fc:igtSyn>cajun-gewürzmischung</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="cascabel" repl="chili">
+      <fc:ingredient id="cascabel" repl="chilischote">
          <fc:igtLabel>Cascabel</fc:igtLabel>
          <fc:igtSyn>cascabel-chilischote</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
@@ -490,7 +488,7 @@
          <fc:igtSyn>cantaloupe-melone</fc:igtSyn>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="cayennepfeffer" repl="chili">
+      <fc:ingredient id="cayennepfeffer" repl="chiliflocken">
          <fc:igtLabel>Cayennepfeffer</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
@@ -514,20 +512,16 @@
          <fc:igtLabel>Chicorée</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="chili">
-         <fc:igtLabel>Chili</fc:igtLabel>
-         <fc:igtClass>spice</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="chiliflocken" repl="chili">
+      <fc:ingredient id="chiliflocken">
          <fc:igtLabel>Chiliflocken</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="chilipaste" repl="chili">
+      <fc:ingredient id="chilipaste">
          <fc:igtLabel>Chilipaste</fc:igtLabel>
          <fc:igtSyn>gochujang</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="chilischote" repl="chili">
+      <fc:ingredient id="chilischote">
          <fc:igtLabel>Chilischote</fc:igtLabel>
          <fc:igtSyn>chili</fc:igtSyn>
          <fc:igtSyn>peperoni</fc:igtSyn>
@@ -537,7 +531,7 @@
          <fc:igtLabel>Chinakohl</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="chipotle" repl="chili">
+      <fc:ingredient id="chipotle" repl="chiliflocken">
          <fc:igtLabel>Chipotle</fc:igtLabel>
          <fc:igtSyn>chipotle-chiliflocken</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
@@ -946,7 +940,7 @@
          <fc:igtSyn>salatgurke</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="habanero" repl="chili">
+      <fc:ingredient id="habanero" repl="chilischote">
          <fc:igtLabel>Habanero</fc:igtLabel>
          <fc:igtSyn>habanero-chilischote</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
@@ -1096,7 +1090,7 @@
          <fc:igtLabel>Innereien</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="isot_biber" repl="chili">
+      <fc:ingredient id="isot_biber" repl="chiliflocken">
          <fc:igtLabel>Isot_Biber</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
@@ -1104,7 +1098,7 @@
          <fc:igtLabel>Jakobsmuscheln</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="jalapeno" repl="chili">
+      <fc:ingredient id="jalapeno" repl="chilischote">
          <fc:igtLabel>Jalapeno</fc:igtLabel>
          <fc:igtSyn>jalapeno-chilischoten</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
@@ -1715,7 +1709,7 @@
          <fc:igtLabel>Olive</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="olivenöl" repl="öl">
+      <fc:ingredient id="olivenöl" repl="ahornsirup">
          <fc:igtLabel>Olivenöl</fc:igtLabel>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
