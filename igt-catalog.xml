@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -1715,7 +1713,7 @@
          <fc:igtLabel>Olive</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="olivenöl" repl="öl">
+      <fc:ingredient id="olivenöl">
          <fc:igtLabel>Olivenöl</fc:igtLabel>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
