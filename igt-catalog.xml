@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -2296,7 +2298,7 @@
       </fc:ingredient>
       <fc:ingredient id="sirup">
          <fc:igtLabel>Sirup</fc:igtLabel>
-         <fc:igtClass>veg</fc:igtClass>
+         <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sojacreme">
          <fc:igtLabel>Sojacreme</fc:igtLabel>
