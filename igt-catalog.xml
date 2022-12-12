@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -176,6 +174,14 @@
          <fc:igtLabel/>
          <fc:igtSyn>salz</fc:igtSyn>
          <fc:igtSyn>meersalz</fc:igtSyn>
+         <fc:igtClass/>
+      </fc:ingredient>
+      <fc:ingredient id="">
+         <fc:igtLabel/>
+         <fc:igtSyn>wasser</fc:igtSyn>
+         <fc:igtSyn>mineralwasser</fc:igtSyn>
+         <fc:igtSyn>salzwasser</fc:igtSyn>
+         <fc:igtSyn>eiswasser</fc:igtSyn>
          <fc:igtClass/>
       </fc:ingredient>
       <fc:ingredient id="aal">
@@ -1320,6 +1326,10 @@
       <fc:ingredient id="kokosraspel">
          <fc:igtLabel>Kokosraspel</fc:igtLabel>
          <fc:igtSyn>kokosnussstücke</fc:igtSyn>
+         <fc:igtClass>nuts</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="kokoswasser">
+         <fc:igtLabel>Kokoswasser</fc:igtLabel>
          <fc:igtClass>nuts</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kondensmilch">
