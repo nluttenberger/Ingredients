@@ -168,6 +168,14 @@
       <fc:ingredient id="">
          <fc:igtLabel/>
          <fc:igtSyn>salz, pfeffer</fc:igtSyn>
+         <fc:igtSyn>salz und pfeffer</fc:igtSyn>
+         <fc:igtSyn>pfeffer und salz</fc:igtSyn>
+         <fc:igtClass/>
+      </fc:ingredient>
+      <fc:ingredient id="">
+         <fc:igtLabel/>
+         <fc:igtSyn>salz</fc:igtSyn>
+         <fc:igtSyn>meersalz</fc:igtSyn>
          <fc:igtClass/>
       </fc:ingredient>
       <fc:ingredient id="aal">
@@ -1265,6 +1273,10 @@
          <fc:igtLabel>Knoblauch</fc:igtLabel>
          <fc:igtClass>onion</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="knoblauchsalz">
+         <fc:igtLabel>Knoblauchsalz</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="knochen">
          <fc:igtLabel>Knochen</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
@@ -1343,9 +1355,18 @@
          <fc:igtLabel>Krabben</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="kräcker">
+         <fc:igtLabel>Kräcker</fc:igtLabel>
+         <fc:igtSyn>salzkräcker</fc:igtSyn>
+         <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="kräuter">
          <fc:igtLabel>Kräuter</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="kräutersalz">
+         <fc:igtLabel>Kräutersalz</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="krebs">
          <fc:igtLabel>Krebs</fc:igtLabel>
@@ -2120,6 +2141,10 @@
          <fc:igtLabel>Salzmandeln</fc:igtLabel>
          <fc:igtSyn>rauchmandeln</fc:igtSyn>
          <fc:igtClass>nuts</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="salzorange">
+         <fc:igtLabel>Salzorange</fc:igtLabel>
+         <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="salzzitrone">
          <fc:igtLabel>Salzzitrone</fc:igtLabel>
