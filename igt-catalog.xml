@@ -231,6 +231,10 @@
          <fc:igtLabel>Anis</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="aperol">
+         <fc:igtLabel>Aperol</fc:igtLabel>
+         <fc:igtClass>alc</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="apfel">
          <fc:igtLabel>Apfel</fc:igtLabel>
          <fc:igtSyn>äpfel</fc:igtSyn>
@@ -284,6 +288,10 @@
       <fc:ingredient id="backobst">
          <fc:igtLabel>Backobst</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="backpulver">
+         <fc:igtLabel>Backpulver</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="baiser">
          <fc:igtLabel>Baiser</fc:igtLabel>
@@ -364,6 +372,10 @@
       <fc:ingredient id="blut">
          <fc:igtLabel>Blut</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="blüten">
+         <fc:igtLabel>Blüten</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="blutorangen">
          <fc:igtLabel>Blutorangen</fc:igtLabel>
@@ -485,6 +497,10 @@
          <fc:igtLabel>Cajunmischung</fc:igtLabel>
          <fc:igtSyn>cajun-gewürzmischung</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="camembert">
+         <fc:igtLabel>Camembert</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="cascabel" repl="chili">
          <fc:igtLabel>Cascabel</fc:igtLabel>
@@ -719,6 +735,10 @@
          <fc:igtLabel>Fenchelsamen</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="fett">
+         <fc:igtLabel>Fett</fc:igtLabel>
+         <fc:igtClass>fat</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="fisch">
          <fc:igtLabel>Fisch</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
@@ -796,6 +816,11 @@
          <fc:igtLabel>Garam_Masala</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="garnele">
+         <fc:igtLabel>Garnele</fc:igtLabel>
+         <fc:igtSyn>garnelen</fc:igtSyn>
+         <fc:igtClass>fish</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="garnelen">
          <fc:igtLabel>Garnelen</fc:igtLabel>
          <fc:igtSyn>gambas</fc:igtSyn>
@@ -817,7 +842,12 @@
       <fc:ingredient id="gelatine">
          <fc:igtLabel>Gelatine</fc:igtLabel>
          <fc:igtSyn>tortenguss</fc:igtSyn>
+         <fc:igtSyn>gelfix</fc:igtSyn>
          <fc:igtClass>etc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="gelb_bete">
+         <fc:igtLabel>Gelbe_Bete</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gelbe_erbsen">
          <fc:igtLabel>Gelbe_Erbsen</fc:igtLabel>
@@ -869,6 +899,10 @@
       <fc:ingredient id="gewürzgurke">
          <fc:igtLabel>Gewürzgurken</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="giersch">
+         <fc:igtLabel>Giersch</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gin">
          <fc:igtLabel>Gin</fc:igtLabel>
@@ -1146,6 +1180,10 @@
          <fc:igtSyn>kakaopulver</fc:igtSyn>
          <fc:igtSyn>cacao</fc:igtSyn>
          <fc:igtClass>etc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="kaki">
+         <fc:igtLabel>Kaki</fc:igtLabel>
+         <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kalbfleisch">
          <fc:igtLabel>Kalbfleisch</fc:igtLabel>
@@ -1775,6 +1813,7 @@
       <fc:ingredient id="orangenlikör">
          <fc:igtLabel>Orangenlikör</fc:igtLabel>
          <fc:igtSyn>grand marnier</fc:igtSyn>
+         <fc:igtSyn>cointreau</fc:igtSyn>
          <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="orangensaft">
@@ -2004,6 +2043,7 @@
       </fc:ingredient>
       <fc:ingredient id="räucherspeck">
          <fc:igtLabel>Räucherspeck</fc:igtLabel>
+         <fc:igtSyn>bacon</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="rauchfleisch">
@@ -2052,7 +2092,9 @@
          <fc:igtLabel>Rindfleisch</fc:igtLabel>
          <fc:igtSyn>rinderfilet</fc:igtSyn>
          <fc:igtSyn>rinderrouladen</fc:igtSyn>
+         <fc:igtSyn>rinderroulade</fc:igtSyn>
          <fc:igtSyn>rindergulasch</fc:igtSyn>
+         <fc:igtSyn>flanksteak</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="roggenmehl">
@@ -2450,11 +2492,16 @@
       </fc:ingredient>
       <fc:ingredient id="suppenwürze">
          <fc:igtLabel>Suppenwürze</fc:igtLabel>
+         <fc:igtSyn>suppenpulver</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="süßkartoffel">
          <fc:igtLabel>Süßkartoffel</fc:igtLabel>
          <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="süßstoff">
+         <fc:igtLabel>Süßstoff</fc:igtLabel>
+         <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="süßwein">
          <fc:igtLabel>Süßwein</fc:igtLabel>
@@ -2493,6 +2540,7 @@
          <fc:igtSyn>filoteig</fc:igtSyn>
          <fc:igtSyn>yufkateig</fc:igtSyn>
          <fc:igtSyn>yufka-teig</fc:igtSyn>
+         <fc:igtSyn>tortilla</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="teigblätter">
@@ -2650,6 +2698,7 @@
          <fc:igtSyn>weißbrod</fc:igtSyn>
          <fc:igtSyn>crostini</fc:igtSyn>
          <fc:igtSyn>baguette</fc:igtSyn>
+         <fc:igtSyn>ciabatta</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="weiße_bohnen">
