@@ -175,6 +175,7 @@
       <fc:ingredient id="">
          <fc:igtLabel/>
          <fc:igtSyn>salz</fc:igtSyn>
+         <fc:igtSyn>kala namak</fc:igtSyn>
          <fc:igtSyn>meersalz</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
@@ -201,6 +202,10 @@
          <fc:igtLabel/>
          <fc:igtSyn>fett</fc:igtSyn>
          <fc:igtClass>fat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="">
+         <fc:igtLabel>Pfeffer</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="aal">
          <fc:igtLabel>Aal</fc:igtLabel>
@@ -236,6 +241,15 @@
       <fc:ingredient id="algen">
          <fc:igtLabel>Algen</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="amarant">
+         <fc:igtLabel>Amarant</fc:igtLabel>
+         <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="amaretti">
+         <fc:igtLabel>Amaretti</fc:igtLabel>
+         <fc:igtSyn>amarettini</fc:igtSyn>
+         <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="amaretto">
          <fc:igtLabel>Amaretto</fc:igtLabel>
@@ -280,6 +294,10 @@
          <fc:igtLabel>Apfelsaft</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="appenzeller">
+         <fc:igtLabel>Appenzeller</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="aprikose">
          <fc:igtLabel>Aprikose</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
@@ -289,8 +307,8 @@
          <fc:igtSyn>arak masak</fc:igtSyn>
          <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="artischocken">
-         <fc:igtLabel>Artischocken</fc:igtLabel>
+      <fc:ingredient id="artischocke">
+         <fc:igtLabel>Artischocke</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="asa_foetida">
@@ -341,8 +359,10 @@
          <fc:igtLabel>Balsamico</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="bambussprossen">
-         <fc:igtLabel>Bambussprossen</fc:igtLabel>
+      <fc:ingredient id="bambus">
+         <fc:igtLabel>Bambus</fc:igtLabel>
+         <fc:igtSyn>bambussprossen</fc:igtSyn>
+         <fc:igtSyn>bambusscheiben</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="banane">
@@ -363,7 +383,7 @@
       </fc:ingredient>
       <fc:ingredient id="béchamelsauce">
          <fc:igtLabel>Béchamelsauce</fc:igtLabel>
-         <fc:igtClass>condi</fc:igtClass>
+         <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="beeren">
          <fc:igtLabel>Beeren</fc:igtLabel>
@@ -467,6 +487,10 @@
          <fc:igtLabel>Bratenjus</fc:igtLabel>
          <fc:igtSyn>jus</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="bratensauce">
+         <fc:igtLabel>Bratensauce</fc:igtLabel>
+         <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="bratfett">
          <fc:igtLabel>Bratfett</fc:igtLabel>
@@ -642,6 +666,11 @@
          <fc:igtLabel>Choi_sum</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="chop_suey">
+         <fc:igtLabel>Chop_suey</fc:igtLabel>
+         <fc:igtSyn>chop suey</fc:igtSyn>
+         <fc:igtClass>etc</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="cidre">
          <fc:igtLabel>Cidre</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
@@ -738,6 +767,10 @@
          <fc:igtLabel>Drachenfrucht</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="dressing">
+         <fc:igtLabel>Dressing</fc:igtLabel>
+         <fc:igtClass>etc</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="ducca">
          <fc:igtLabel>Ducca</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
@@ -793,6 +826,10 @@
          <fc:igtLabel>Erdnuss</fc:igtLabel>
          <fc:igtSyn>erdnüsse</fc:igtSyn>
          <fc:igtClass>nuts</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="erdnussbutter">
+         <fc:igtLabel>Erdnussbutter</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="erdnussöl">
          <fc:igtLabel>Erdnussöl</fc:igtLabel>
@@ -901,10 +938,18 @@
          <fc:igtLabel>Gans</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="gänseblümchen">
+         <fc:igtLabel>Gänseblümchen</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="gänsefett">
          <fc:igtLabel>Gänsefett</fc:igtLabel>
          <fc:igtSyn>gänseschmalz</fc:igtSyn>
          <fc:igtClass>fat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="gänsefuß">
+         <fc:igtLabel>Gänsefuß</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gänseschmalz">
          <fc:igtLabel>Gänseschmalz</fc:igtLabel>
@@ -967,6 +1012,7 @@
       </fc:ingredient>
       <fc:ingredient id="gemüsemischung">
          <fc:igtLabel>Gemüsemischung</fc:igtLabel>
+         <fc:igtSyn>gemüse</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gemüsezwiebel">
@@ -993,6 +1039,7 @@
       <fc:ingredient id="gewürz">
          <fc:igtLabel>Gewürz</fc:igtLabel>
          <fc:igtSyn>streuwürze</fc:igtSyn>
+         <fc:igtSyn>gewürzmischung</fc:igtSyn>
          <fc:igtSyn>bbq-rub</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
@@ -1011,6 +1058,10 @@
       <fc:ingredient id="gin">
          <fc:igtLabel>Gin</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="glutamat">
+         <fc:igtLabel>Glutamat</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gnocchi">
          <fc:igtLabel>Gnocchi</fc:igtLabel>
@@ -1108,6 +1159,10 @@
       <fc:ingredient id="guave">
          <fc:igtLabel>Guave</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="gundermann">
+         <fc:igtLabel>Gundermann</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gurke">
          <fc:igtLabel>Gurke</fc:igtLabel>
@@ -1224,6 +1279,13 @@
          <fc:igtLabel>Hirse</fc:igtLabel>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="hoisinsauce">
+         <fc:igtLabel>Hoisinsauce</fc:igtLabel>
+         <fc:igtSyn>hoisin-sauce</fc:igtSyn>
+         <fc:igtSyn>hoisinsoße</fc:igtSyn>
+         <fc:igtSyn>hoisin-soße</fc:igtSyn>
+         <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="hokkaidokürbis" repl="kürbis">
          <fc:igtLabel>Hokkaidokürbis</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -1267,6 +1329,14 @@
          <fc:igtLabel>Hühnerschenkel</fc:igtLabel>
          <fc:igtSyn>hühnerschlegel</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="hülsenfrüchte">
+         <fc:igtLabel>Hülsenfrüchte</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="hummus">
+         <fc:igtLabel>Hummus</fc:igtLabel>
+         <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ingwer">
          <fc:igtLabel>Ingwer</fc:igtLabel>
@@ -1315,6 +1385,7 @@
       <fc:ingredient id="kaffirlimette">
          <fc:igtLabel>Kaffirlimette</fc:igtLabel>
          <fc:igtSyn>kaffernlimette</fc:igtSyn>
+         <fc:igtSyn>kaffir-limette</fc:igtSyn>
          <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kakao">
@@ -1332,6 +1403,7 @@
          <fc:igtSyn>kalbsschnitzel</fc:igtSyn>
          <fc:igtSyn>kalbskotelett</fc:igtSyn>
          <fc:igtSyn>kalbsfilet</fc:igtSyn>
+         <fc:igtSyn>kalbskarree</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kalbsbraten">
@@ -1570,6 +1642,10 @@
          <fc:igtLabel>Kräuter</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="kräuteressig">
+         <fc:igtLabel>Kräuteressig</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="kräutersalz">
          <fc:igtLabel>Kräutersalz</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
@@ -1666,6 +1742,7 @@
       </fc:ingredient>
       <fc:ingredient id="limette">
          <fc:igtLabel>Limette</fc:igtLabel>
+         <fc:igtSyn>limone</fc:igtSyn>
          <fc:igtSyn>limettenabrieb</fc:igtSyn>
          <fc:igtSyn>limettensaft</fc:igtSyn>
          <fc:igtSyn>limonensaft</fc:igtSyn>
@@ -1821,9 +1898,9 @@
          <fc:igtLabel>Matjes</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="maultaschen">
-         <fc:igtLabel>Maultaschen</fc:igtLabel>
-         <fc:igtClass>condi</fc:igtClass>
+      <fc:ingredient id="maultasche">
+         <fc:igtLabel>Maultasche</fc:igtLabel>
+         <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="mayonnaise">
          <fc:igtLabel>Mayonnaise</fc:igtLabel>
@@ -1844,6 +1921,9 @@
       </fc:ingredient>
       <fc:ingredient id="mettwurst">
          <fc:igtLabel>Mettwurst</fc:igtLabel>
+         <fc:igtSyn>cabanossi</fc:igtSyn>
+         <fc:igtSyn>landjäger</fc:igtSyn>
+         <fc:igtSyn>pfefferbeisser</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="miesmuschel">
@@ -1856,6 +1936,7 @@
       </fc:ingredient>
       <fc:ingredient id="minze">
          <fc:igtLabel>Minze</fc:igtLabel>
+         <fc:igtSyn>pfefferminze</fc:igtSyn>
          <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="mirabelle">
@@ -1876,6 +1957,10 @@
          <fc:igtLabel>Mohn</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="möhrengrün">
+         <fc:igtLabel>Möhrengrün</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="morchel">
          <fc:igtLabel>Morchel</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -1883,6 +1968,11 @@
       <fc:ingredient id="mozzarella">
          <fc:igtLabel>Mozzarella</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="mu_err_pilz">
+         <fc:igtLabel>Mu_err_Pilz</fc:igtLabel>
+         <fc:igtSyn>mu-err-pilz</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="multivitaminsaft">
          <fc:igtLabel>Multivitaminsaft</fc:igtLabel>
@@ -1898,6 +1988,7 @@
       </fc:ingredient>
       <fc:ingredient id="muskat">
          <fc:igtLabel>Muskat</fc:igtLabel>
+         <fc:igtSyn>macis</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="myrte">
@@ -1908,8 +1999,9 @@
          <fc:igtLabel>Nektarine</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="nelken">
-         <fc:igtLabel>Nelken</fc:igtLabel>
+      <fc:ingredient id="nelke">
+         <fc:igtLabel>Nelke</fc:igtLabel>
+         <fc:igtSyn>gewürznelke</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="niere">
@@ -1941,7 +2033,9 @@
          <fc:igtSyn>spaghetti</fc:igtSyn>
          <fc:igtSyn>girandole</fc:igtSyn>
          <fc:igtSyn>bavete</fc:igtSyn>
+         <fc:igtSyn>makkaroni</fc:igtSyn>
          <fc:igtSyn>bucatini</fc:igtSyn>
+         <fc:igtSyn>tortellini</fc:igtSyn>
          <fc:igtSyn>capellini</fc:igtSyn>
          <fc:igtSyn>fusilli</fc:igtSyn>
          <fc:igtSyn>fettucine</fc:igtSyn>
@@ -1956,6 +2050,7 @@
          <fc:igtSyn>muschelnudeln</fc:igtSyn>
          <fc:igtSyn>penne</fc:igtSyn>
          <fc:igtSyn>pasta</fc:igtSyn>
+         <fc:igtSyn>spätzle</fc:igtSyn>
          <fc:igtSyn>cannelloni</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
@@ -2122,10 +2217,6 @@
          <fc:igtLabel>Petersilienwurzel</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="pfeffer">
-         <fc:igtLabel>Pfeffer</fc:igtLabel>
-         <fc:igtClass>spice</fc:igtClass>
-      </fc:ingredient>
       <fc:ingredient id="pfifferlinge">
          <fc:igtLabel>Pfifferlinge</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -2142,10 +2233,12 @@
          <fc:igtLabel>Pflanzenfett</fc:igtLabel>
          <fc:igtSyn>margarine</fc:igtSyn>
          <fc:igtSyn>culinesse</fc:igtSyn>
+         <fc:igtSyn>pflanzensahne</fc:igtSyn>
+         <fc:igtSyn>hafersahne</fc:igtSyn>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="pflaumen">
-         <fc:igtLabel>Pflaumen</fc:igtLabel>
+      <fc:ingredient id="pflaume">
+         <fc:igtLabel>Pflaume</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="pflaumenwein">
@@ -2227,6 +2320,10 @@
          <fc:igtSyn>preiselbeer-marmelade</fc:igtSyn>
          <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="provolone">
+         <fc:igtLabel>Provolone</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="puddingpulver">
          <fc:igtLabel>Puddingpulver</fc:igtLabel>
          <fc:igtClass>sweet</fc:igtClass>
@@ -2255,6 +2352,10 @@
          <fc:igtLabel>Radieschen</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="radieschengrün">
+         <fc:igtLabel>Radieschengrün</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="ras_el_hanout">
          <fc:igtLabel>Ras_el_hanout</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
@@ -2281,10 +2382,15 @@
          <fc:igtLabel>Rauchsalz</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="ravioli">
+         <fc:igtLabel>Ravioli</fc:igtLabel>
+         <fc:igtClass>etc</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="rehundhirsch">
          <fc:igtLabel>Reh_und_Hirsch</fc:igtLabel>
          <fc:igtSyn>hirschkalbsrücken</fc:igtSyn>
          <fc:igtSyn>hirschrückenfilet</fc:igtSyn>
+         <fc:igtSyn>rehrücken</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="reis">
@@ -2302,6 +2408,10 @@
       </fc:ingredient>
       <fc:ingredient id="reismehl">
          <fc:igtLabel>Reismehl</fc:igtLabel>
+         <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="reisnudeln">
+         <fc:igtLabel>Reisnudeln</fc:igtLabel>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="reiswein">
@@ -2324,12 +2434,19 @@
          <fc:igtLabel>Rindfleisch</fc:igtLabel>
          <fc:igtSyn>rinderfilet</fc:igtSyn>
          <fc:igtSyn>rinderlende</fc:igtSyn>
+         <fc:igtSyn>ochsenbäckchen</fc:igtSyn>
          <fc:igtSyn>wagyu</fc:igtSyn>
+         <fc:igtSyn>rindersteak</fc:igtSyn>
          <fc:igtSyn>rinderrouladen</fc:igtSyn>
          <fc:igtSyn>rinderroulade</fc:igtSyn>
          <fc:igtSyn>rindergulasch</fc:igtSyn>
          <fc:igtSyn>flanksteak</fc:igtSyn>
+         <fc:igtSyn>roastbeef</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="risotto">
+         <fc:igtLabel>Risotto</fc:igtLabel>
+         <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="roggen">
          <fc:igtLabel>Roggen</fc:igtLabel>
@@ -2509,9 +2626,14 @@
          <fc:igtLabel>Schabzigerklee</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="schafgarbe">
+         <fc:igtLabel>Schafgarbe</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="schafskäse">
          <fc:igtLabel>Schafskäse</fc:igtLabel>
          <fc:igtSyn>feta</fc:igtSyn>
+         <fc:igtSyn>feta-käse</fc:igtSyn>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schalotten">
@@ -2532,6 +2654,10 @@
       </fc:ingredient>
       <fc:ingredient id="schmand">
          <fc:igtLabel>Schmand</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="schmelzkäse">
+         <fc:igtLabel>Schmelzkäse</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schnauze">
@@ -2576,6 +2702,7 @@
       <fc:ingredient id="schweinefleisch">
          <fc:igtLabel>Schweinefleisch</fc:igtLabel>
          <fc:igtSyn>schweinebraten</fc:igtSyn>
+         <fc:igtSyn>schweinefilet</fc:igtSyn>
          <fc:igtSyn>schweinegulasch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
@@ -2645,17 +2772,18 @@
       </fc:ingredient>
       <fc:ingredient id="shiitake">
          <fc:igtLabel>Shiitake</fc:igtLabel>
+         <fc:igtSyn>shitake</fc:igtSyn>
          <fc:igtSyn>shiitakepilze</fc:igtSyn>
          <fc:igtSyn>shiitake-pilze</fc:igtSyn>
-         <fc:igtClass>veg</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="shitake">
-         <fc:igtLabel>Shitake</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="shrimps">
          <fc:igtLabel>Shrimps</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="shrimpsauce">
+         <fc:igtLabel>Shrimpsauce</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sirup">
          <fc:igtLabel>Sirup</fc:igtLabel>
@@ -2704,9 +2832,15 @@
          <fc:igtLabel>Spitzpaprika</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="spitzwegerich">
+         <fc:igtLabel>Spitzwegerich</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="sprossen">
          <fc:igtLabel>Sprossen</fc:igtLabel>
          <fc:igtSyn>rote bete-sprossen</fc:igtSyn>
+         <fc:igtSyn>keimlinge</fc:igtSyn>
+         <fc:igtSyn>mungobohnenkeimlinge</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="stachelbeeren">
@@ -2774,12 +2908,17 @@
       <fc:ingredient id="suppengemüse">
          <fc:igtLabel>Suppengemüse</fc:igtLabel>
          <fc:igtSyn>suppengrün</fc:igtSyn>
+         <fc:igtSyn>wurzelgemüse</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="suppenwürze">
          <fc:igtLabel>Suppenwürze</fc:igtLabel>
          <fc:igtSyn>suppenpulver</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="surimi">
+         <fc:igtLabel>Surimi</fc:igtLabel>
+         <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="süß_saure_sauce">
          <fc:igtLabel>süß_saure_Sauce</fc:igtLabel>
@@ -2792,6 +2931,7 @@
       </fc:ingredient>
       <fc:ingredient id="süßstoff">
          <fc:igtLabel>Süßstoff</fc:igtLabel>
+         <fc:igtSyn>süßungsmittel</fc:igtSyn>
          <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="süßwein">
@@ -2806,6 +2946,10 @@
       </fc:ingredient>
       <fc:ingredient id="tabasco">
          <fc:igtLabel>Tabasco</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="tacosauce">
+         <fc:igtLabel>Tacosauce</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="tafelspitz">
@@ -2830,6 +2974,10 @@
          <fc:igtLabel>Taube</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="taubnessel">
+         <fc:igtLabel>Taubnessel</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="teig">
          <fc:igtLabel>Teig</fc:igtLabel>
          <fc:igtClass>carb</fc:igtClass>
@@ -2842,7 +2990,10 @@
          <fc:igtSyn>yufka</fc:igtSyn>
          <fc:igtSyn>yufkateig</fc:igtSyn>
          <fc:igtSyn>yufka-teig</fc:igtSyn>
+         <fc:igtSyn>brik</fc:igtSyn>
+         <fc:igtSyn>brik-teig</fc:igtSyn>
          <fc:igtSyn>tortilla</fc:igtSyn>
+         <fc:igtSyn>wrap</fc:igtSyn>
          <fc:igtSyn>strudelblätter</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
@@ -2858,6 +3009,10 @@
       <fc:ingredient id="thaibasilikum">
          <fc:igtLabel>Thaibasilikum</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="thunfisch">
+         <fc:igtLabel>Thunfisch</fc:igtLabel>
+         <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="thymian">
          <fc:igtLabel>Thymian</fc:igtLabel>
@@ -2878,6 +3033,10 @@
       </fc:ingredient>
       <fc:ingredient id="tomate">
          <fc:igtLabel>Tomate</fc:igtLabel>
+         <fc:igtSyn>fleischtomate</fc:igtSyn>
+         <fc:igtSyn>kirschtomate</fc:igtSyn>
+         <fc:igtSyn>cherrytomate</fc:igtSyn>
+         <fc:igtSyn>ochsenherztomate</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="tomatenessig" repl="essig">
@@ -3062,6 +3221,11 @@
          <fc:igtSyn>whisky</fc:igtSyn>
          <fc:igtClass>alc</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="wiesenklee">
+         <fc:igtLabel>Wiesenklee</fc:igtLabel>
+         <fc:igtSyn>wiesenkleeblätter</fc:igtSyn>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="wildbret">
          <fc:igtLabel>Wildbret</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
@@ -3103,7 +3267,8 @@
       </fc:ingredient>
       <fc:ingredient id="wurst">
          <fc:igtLabel>Wurst</fc:igtLabel>
-         <fc:igtSyn>landjäger</fc:igtSyn>
+         <fc:igtSyn>bockwurst</fc:igtSyn>
+         <fc:igtSyn>bockwürste</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="wurzeln">
@@ -3117,6 +3282,14 @@
       <fc:ingredient id="zatar">
          <fc:igtLabel>Zatar</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="zichorie">
+         <fc:igtLabel>Zichorie</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="zicklein">
+         <fc:igtLabel>Zicklein</fc:igtLabel>
+         <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ziegenfleisch">
          <fc:igtLabel>Ziegenfleisch</fc:igtLabel>
