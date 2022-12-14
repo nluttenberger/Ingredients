@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -565,6 +563,10 @@
          <fc:igtLabel>Butter</fc:igtLabel>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="butterkäse">
+         <fc:igtLabel>Butterkäse</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="butterkohl">
          <fc:igtLabel>Butterkohl</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -1034,6 +1036,7 @@
       </fc:ingredient>
       <fc:ingredient id="getrocknete_tomaten">
          <fc:igtLabel>getrocknete_Tomaten</fc:igtLabel>
+         <fc:igtSyn>getrocknete tomaten</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gewürz">
@@ -1434,6 +1437,10 @@
          <fc:igtLabel>Kaninchen</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="kantenlauch">
+         <fc:igtLabel>Kantenlauch</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="kapaun">
          <fc:igtLabel>Kapaun</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
@@ -1641,6 +1648,10 @@
       <fc:ingredient id="kräuter">
          <fc:igtLabel>Kräuter</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="kräuterbutter">
+         <fc:igtLabel>Kräuterbutter</fc:igtLabel>
+         <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kräuteressig">
          <fc:igtLabel>Kräuteressig</fc:igtLabel>
@@ -2053,6 +2064,10 @@
          <fc:igtSyn>spätzle</fc:igtSyn>
          <fc:igtSyn>cannelloni</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="nüsse">
+         <fc:igtLabel>Nüsse</fc:igtLabel>
+         <fc:igtClass>nuts</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="obst">
          <fc:igtLabel>Obst</fc:igtLabel>
@@ -2664,6 +2679,10 @@
          <fc:igtLabel>Schnauze</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="schnittknoblauch">
+         <fc:igtLabel>Schnittknoblauch</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="schnittlauch">
          <fc:igtLabel>Schnittlauch</fc:igtLabel>
          <fc:igtClass>onion</fc:igtClass>
@@ -2880,6 +2899,10 @@
          <fc:igtLabel>Stielmus</fc:igtLabel>
          <fc:igtSyn>rübstiel</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="stockfisch">
+         <fc:igtLabel>Stockfisch</fc:igtLabel>
+         <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="stör">
          <fc:igtLabel>Stör</fc:igtLabel>
@@ -3274,6 +3297,10 @@
       <fc:ingredient id="wurzeln">
          <fc:igtLabel>Wurzeln</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="würzfenchel">
+         <fc:igtLabel>Würzfenchel</fc:igtLabel>
+         <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="zander">
          <fc:igtLabel>Zander</fc:igtLabel>

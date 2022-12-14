@@ -47,7 +47,7 @@ Alex vegane Mangold-Kokosmilch-Suppe.xml
      +  wasser                                       
      +  kokosmilch                                   kokosmilch
      +  suppenpulver                                 suppenwürze
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  kreuzkümmelpulver                            cumin
      +  olivenöl                                     olivenöl
 Ananas-Erdbeer-Konfitüre.xml
@@ -82,7 +82,7 @@ Apfel-Mangold-Tarte.xml
      +  äpfel                                        apfel
      +  ei(er)                                       ei
      +  zucker                                       zucker
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  pinienkerne                                  pinienkerne
      +  wasser, kaltes                               
 Arabische Sommersuppe.xml
@@ -95,7 +95,7 @@ Arabische Sommersuppe.xml
      +  möhre(n)                                     karotte
      +  staudensellerie                              staudensellerie
      +  butterschmalz                                butterschmalz
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  zitronensaft                                 zitrone
      +  zitrone(n), die schale, abgerieben           zitrone
 Arap köftesi.xml
@@ -104,7 +104,7 @@ Arap köftesi.xml
      +  zwiebel(n), fein gewürfelt                   zwiebel
      +  rinderhackfleisch                            hackfleisch
      +  salz                                         
-     +  pfeffer, schwarzer, frisch gemahlen          pfeffer
+     +  pfeffer, schwarzer, frisch gemahlen          
      +  paprikapulver, edelsüß                       paprikapulver
      +  kreuzkümmelpulver                            cumin
      +  sumach                                       sumach
@@ -124,7 +124,7 @@ Artischocken-Mangold-Dip.xml
      +  zwiebel(n)                                   zwiebel
      +  knoblauchzehe(n)                             knoblauch
      +  butter                                       butter
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  chili                                        chili
 Asiatische Mangold-Nudeln mit Sesam.xml
      +  ingwerwurzel, frisch                         ingwer
@@ -205,7 +205,7 @@ Augsburger Grießnockerlsuppe mit Gemüse.xml
      +  räucherspeck, mager                          räucherspeck
      +  butter                                       butter
      +  ei(er), größe m                              ei
-     +  pfeffer, weißer, frisch aus der mühle        pfeffer
+     +  pfeffer, weißer, frisch aus der mühle        
      +  muskatnuss, frisch gerieben                  muskat
      +  backpulver                                   backpulver
      +  karotte(n)                                   karotte
@@ -227,7 +227,7 @@ Avocado-Grapefruit Salat mit Paprikamandeln.xml
      +  öl, oliven-                                  olive
      +  honig (akazien-)                             honig
      +  salz                                         
-     +  pfeffer, schwarz, frisch gemahlen            pfeffer
+     +  pfeffer, schwarz, frisch gemahlen            
 Ayurvedische Kartoffel-Mangold-Zucchini-Pfanne.xml
      +  zucchini                                     zucchini
      +  kartoffel(n), vorwiegend fest kochend        kartoffel
@@ -309,7 +309,7 @@ Beefmakers Maultaschen.xml
      +  zwiebel(n)                                   zwiebel
      +  gewürz(e) (baden-bbq)                        gewürz
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  nudelteig, z. b. von schmidt                 teig
 Bergkäse-Kugeln mit Mangold.xml
      +  bergkäse, fein gerieben                      bergkäse
@@ -460,7 +460,7 @@ Bratnudeln mit geröstetem Sesam.xml
      +  hähnchenbrustfilet(s)                        hühnerbrust
      +  paprikaschote(n), gelb                       paprika
      +  mangold                                      mangold
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
      +  nudeln (weizennudeln), asiatische            nudeln
      +  salz                                         
      +  öl (erdnussöl)                               erdnussöl
@@ -515,7 +515,7 @@ Bulgur-Köfte mit Joghurt und Mangold.xml
      +  rinderhackfleisch                            hackfleisch
      +  tomatenmark                                  tomatenmark
      +  meersalz                                     
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  paprikapulver, edelsüß                       paprikapulver
      +  chiliflocken                                 chiliflocken
      +  kreuzkümmelpulver                            cumin
@@ -527,7 +527,7 @@ Bulgur-Köfte mit Joghurt und Mangold.xml
      +  joghurt, 10 % fett                           joghurt
      +  knoblauchzehe(n)                             knoblauch
      +  meersalz                                     
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
 Bunte Glasnudeln ala Sriwidi.xml
      +  glasnudeln, dünne (reisnudeln)               reisnudeln
      +  zwiebel(n), rote                             zwiebel
@@ -558,7 +558,7 @@ Bunte Kartoffel-Mangold-Pfanne mit Lachsforelle.xml
      +  honig, flüssig                               honig
      +  gemüsebrühe, heiß                            gemüsebrühe
      +  salz und pfeffer, weiß                       
-     +  pfeffer, bunt                                pfeffer
+     +  pfeffer, bunt                                
      +  paprikapulver, edelsüß                       paprikapulver
 Bunte Mangold-Hackfleischpfanne.xml
      +  mangold                                      mangold
@@ -654,7 +654,7 @@ Burritos mit Schafkäsefüllung.xml
      +  schafskäse                                   schafskäse
      +  fett für die form                            
      +  crème fraîche                                crème_fraîche
-     +  käse (butterkäse                             butter
+     +  käse (butterkäse                             butterkäse
      +  kräuter - zweige                             kräuter
      +  kirschtomate(n)                              tomate
      +  fett für das blech                           
@@ -668,11 +668,11 @@ Börek mit Rinderhack und Mangold.xml
      +  knoblauchzehe(n)                             knoblauch
      +  hackfleisch, (rinderhack)                    hackfleisch
      +  mangold                                      mangold
-     +  feta-käse, aus schafmilch                    milch
+     +  feta-käse, aus schafmilch                    schafskäse
      +  kreuzkümmel, gemahlen                        cumin
      +  chilipulver, (pulbiber)                      chili
      +  salz                                         
-     +  pfeffer, schwarzer, frisch gemahlen          pfeffer
+     +  pfeffer, schwarzer, frisch gemahlen          
      +  schwarzkümmel                                schwarzkümmel
      +  sesam                                        sesam
      +  olivenöl                                     olivenöl
@@ -694,7 +694,7 @@ Bündner Capuns à la Nonna.xml
      +  ei(er)                                       ei
      +  fleisch, luftgetrocknetes (bündnerfleisch    fleisch
      +  salami (salsiz)                              salami
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salbei, fein geschnitten                     salbei
      +  schnittlauch, grob geschnitten               schnittlauch
      +  speck, in streifen geschnitten, evtl.        speck
@@ -705,7 +705,7 @@ Bündner Capuns à la Nonna.xml
 Caldo dos pobres.xml
      +  speck, geräuchert, mager, in würfel geschnittenspeck
      +  möhre(n), geschabt und in dickere scheiben geschnittenkarotte
-     +  pfeffer, ganz                                pfeffer
+     +  pfeffer, ganz                                
      +  lorbeerblatt                                 lorbeer
      +  bohnen, eingeweicht                          bohnen
      +  reis, langkornreis                           reis
@@ -720,7 +720,7 @@ Cannelloni con Bietola e Ricotta.xml
      +  majoran                                      majoran
      +  ricotta, fresca                              ricotta
      +  käse, pecorino                               pecorino
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  salz                                         
      +  tomate(n)                                    tomate
      +  mehl                                         weizenmehl
@@ -871,7 +871,7 @@ Capuns-03.xml
      +  fleisch (bündnerfleisch)                     fleisch
      +  schinken, roh                                schinken
      +  petersilie                                   petersilie
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  butter                                       butter
      +  zwiebel(n)                                   zwiebel
      +  brühe                                        brühe
@@ -935,7 +935,7 @@ Chicken-Gnocchi Soup.xml
      +  suppengemüse                                 suppengemüse
      +  lorbeerblatt                                 lorbeer
      +  pimentkörner                                 piment
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  salz                                         
      +  wasser, ca.                                  
      +  möhre(n)                                     karotte
@@ -996,7 +996,7 @@ Coca mallorquina.xml
      +  sardellen, in salzlake eingelegt             sardelle
 Crepinette vom Schweineknöchla mit Mangold-Pfifferlings-Röllchen.xml
      +  haxe(n) (schweine-vorherhaxen, knöchla)      wein
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  piment                                       piment
      +  wacholderbeere(n)                            wacholder
      +  lorbeerblatt, frisch                         lorbeer
@@ -1039,19 +1039,19 @@ Crespelle alla Fiorentina.xml
      +  ei(er), größe m                              ei
      +  pecorino, gerieben, plus 4 el mehr zum bestreuenpecorino
      +  bio-zitronenschale, fein abgerieben          zitrone
-     +  pfeffer, schwarzer, frisch gemahlen          pfeffer
+     +  pfeffer, schwarzer, frisch gemahlen          
      +  muskatnuss, frisch gerieben                  muskat
      +  tomaten, stückige (aus der dose)             tomate
      +  natives olivenöl extra                       olivenöl
      +  knoblauchzehe(n), geschält und zerdrück      knoblauch
      +  meersalz                                     
-     +  pfeffer, schwarzer, frisch gemahlen          pfeffer
+     +  pfeffer, schwarzer, frisch gemahlen          
      +  basilikumblätter                             basilikum
      +  butter, plus 1 tl mehr als topping für die saucebutter
      +  weizenmehl type 00                           weizenmehl
      +  milch                                        milch
      +  meersalz                                     
-     +  pfeffer, schwarzer, frisch gemahlen          pfeffer
+     +  pfeffer, schwarzer, frisch gemahlen          
      +  muskatnuss, frisch gerieben                  muskat
 Crespelle mit Mangold-Pilz-Füllung.xml
      +  ei(er)                                       ei
@@ -1101,7 +1101,7 @@ Curry-Huhn mit Mangold.xml
      +  gemüsebrühe, ( 1/2 tl instant)               gemüsebrühe
      +  kreuzkümmel                                  cumin
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  reis, gekochter                              reis
 Dekoratives Rote Bete Carpaccio.xml
      +  rote bete                                    rote_bete
@@ -1110,7 +1110,7 @@ Dekoratives Rote Bete Carpaccio.xml
      +  olivenöl, gutes                              olivenöl
      +  meersalz, grobes, normales geht auch         
      +  zucker                                       zucker
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Dinkelfrikadellen mit Mangold.xml
      +  dinkelschrot                                 dinkel
      +  gemüsebrühe                                  gemüsebrühe
@@ -1124,7 +1124,7 @@ Dinkelfrikadellen mit Mangold.xml
      +  zwiebel(n), gewürfelt                        zwiebel
      +  knoblauch, gepresst                          knoblauch
      +  senf                                         senf
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  paprikapulver                                paprikapulver
      +  chilipulver                                  chili
      +  paniermehl                                   paniermehl
@@ -1148,7 +1148,7 @@ Ecuadorianische Mangoldsuppe.xml
      +  kreuzkümmel, gemahlen                        cumin
      +  safran                                       safran
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Eggs Benedict mit Lachs und Mangold.xml
      +  ei(er)                                       ei
      +  weißbrot, getoastet                          weißbrot
@@ -1179,7 +1179,7 @@ Eier-Mangold Tortilla.xml
      +  milch                                        milch
      +  olivenöl                                     olivenöl
      +  muskat, frisch gerieben                      muskat
-     +  pfeffer, schwarz, frisch gerieben            pfeffer
+     +  pfeffer, schwarz, frisch gerieben            
      +  salz                                         
 Einfacher Mangold.xml
      +  mangold                                      mangold
@@ -1199,7 +1199,7 @@ Eisberg-Ananas-Salat mit Mangodressing à la Gabi.xml
      +  saure sahne                                  saure_sahne
      +  zitrone(n), abrieb davon                     zitrone
      +  worcestersauce                               worcester
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  salz                                         
      +  zucker                                       zucker
 Empanadillas.xml
@@ -1335,7 +1335,7 @@ Falsche Lasagne.xml
      +  mehl                                         weizenmehl
      +  milch                                        milch
      +  parmesan                                     parmesan
-     +  butterkäse                                   butter
+     +  butterkäse                                   butterkäse
      +  salz und pfeffer                             
      +  muskat                                       muskat
 Falscher Hase mit Zwiebelsauce, Mangold und Püree.xml
@@ -1375,7 +1375,7 @@ Feine Gemüselasagne.xml
      +  basilikum, frische blätter                   basilikum
      +  würfelzucker                                 zucker
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  tomatenmark                                  tomatenmark
      +  olivenöl                                     olivenöl
      +  mangold                                      mangold
@@ -1474,7 +1474,7 @@ Fischfilet-Röllchen in Estragon-Schaum.xml
      +  sahne                                        sahne
      +  schlagsahne                                  sahne
      +  fischbrühe                                   fisch
-     +  pfeffer, weiß                                pfeffer
+     +  pfeffer, weiß                                
      +  butter                                       butter
      +  safran                                       safran
 Fischfilets mit Mangold und Pinienkernen.xml
@@ -1531,7 +1531,7 @@ Fischterrine.xml
      +  kurkuma                                      curcuma
      +  zitrone(n), ungespritzt                      zitrone
      +  salz                                         
-     +  pfeffer, weißer                              pfeffer
+     +  pfeffer, weißer                              
      +  saure sahne                                  saure_sahne
      +  dill                                         dill
      +  ei(er), davon das eiweiß                     ei
@@ -1580,9 +1580,9 @@ Fletchers  Zander-Wickel auf Kartoffel-Linsen.xml
      +  butter, eiskalt                              butter
      +  weißwein, trocken (0,1l)                     weißwein
      +  dörrfleisch, (durchwachsener speck)          fleisch
-     +  pfefferkörner, weiß                          pfeffer
+     +  pfefferkörner, weiß                          
      +  dijonsenf, mittelscharf, grob                dijonsenf
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  salz                                         
 Flundern-Krautstiel Lasagne.xml
      +  butter                                       butter
@@ -1598,11 +1598,11 @@ Flundern-Krautstiel Lasagne.xml
      +  schalotte(n), fein gehackt                   schalotten
      +  knoblauch, gepresst                          knoblauch
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  fischfilet(s) (flundernfilet)                fisch
      +  salz                                         
      +  dill, fein gehackt                           dill
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  lasagneplatte(n)                             nudeln
 Fontina-Tortellini mit Blattspinat, Parmesan-Schaum und Trüffel.xml
      +  hartweizengrieß                              hartweizengrieß
@@ -1668,7 +1668,7 @@ Frankenwald Surf & Turf.xml
      +  chiliflocken                                 chiliflocken
      +  ahornsirup                                   ahornsirup
      +  kreuzkümmel                                  cumin
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  sojasauce, dunkle                            sojasauce
      +  knoblauchzehe(n)                             knoblauch
      +  zwiebel(n), weiß                             zwiebel
@@ -1696,7 +1696,7 @@ Französische Hack-Mangoldbällchen.xml
      +  hackfleisch, gemischt                        hackfleisch
      +  ei(er)                                       ei
      +  semmelbrösel                                 paniermehl
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
      +  salbei                                       salbei
      +  olivenöl                                     olivenöl
@@ -1724,10 +1724,10 @@ Frischkäseterrine.xml
      +  doppelrahmfrischkäse                         frischkäse
      +  ziegenfrischkäse                             ziegenfrischkäse
      +  rum                                          rum
-     +  pfeffer, grüner, eingelegter, abgetropft     pfeffer
+     +  pfeffer, grüner, eingelegter, abgetropft     
      +  oliven, grüne, mit paprikapaste gefüllt      paprika
      +  salz                                         
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  biobin                                       bindemittel
      +  mangold                                      mangold
      +  salzwasser                                   
@@ -1828,9 +1828,9 @@ Gebackene Mangoldknödel auf Käsesauce mit krossen Zwiebeln.xml
      +  weizenmehl type 550                          weizenmehl
      +  wasser                                       
      +  gorgonzola                                   gorgonzola
-     +  schmelzkäse                                  käse
+     +  schmelzkäse                                  schmelzkäse
      +  gemüsebrühepulver                            gemüsebrühe
-     +  pfeffer, schwarzer, aus der mühle            pfeffer
+     +  pfeffer, schwarzer, aus der mühle            
      +  milch                                        milch
      +  zwiebel(n)                                   zwiebel
      +  butterschmalz                                butterschmalz
@@ -1933,7 +1933,7 @@ Gebratene Polenta mit Gemüsepfanne und Pilzrahm.xml
      +  zwiebel(n)                                   zwiebel
      +  tomate(n), getrocknete                       tomate
      +  rauke                                        rucola
-     +  hafersahne (hafercreme cuisine)              sahne
+     +  hafersahne (hafercreme cuisine)              pflanzenfett
      +  salz und pfeffer                             
      +  kräutersalz                                  kräutersalz
      +  paprikapulver, edelsüß                       paprikapulver
@@ -1950,7 +1950,7 @@ Gebratene Reis-Bandnudeln mit Mangold.xml
      +  ei(er)                                       ei
      +  sojasauce                                    sojasauce
      +  ingwer, frisch                               ingwer
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  sambal oelek, nach geschmack                 sambal
 Gebratener Curryreis mit Gemüse.xml
      +  reis (vollkornreis)                          reis
@@ -2020,7 +2020,7 @@ Geflügelpastete mit Thymian-Entenleber.xml
      +  petersilie, glatte                           petersilie
      +  leber(n) von der ente                        leber
      +  schlagsahne                                  sahne
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  preiselbeeren                                beeren
      +  salat, zur dekoration                        blattsalat
      +  pfifferlinge                                 pfifferlinge
@@ -2065,7 +2065,7 @@ Gefüllte Hühnerbrustfilets auf Mangoldbett.xml
      +  kräuter, gemischte, tk                       kräuter
      +  mangold, davon 4 blätter blanchiert          mangold
      +  gemüsebrühe                                  gemüsebrühe
-     +  feta-käse mit kräutern, gewürfelt            kräuter
+     +  feta-käse mit kräutern, gewürfelt            schafskäse
      +  hähnchengewürz, wenn vorhanden               huhn
      +  salz und pfeffer                             
      +  paprikapulver                                paprikapulver
@@ -2104,7 +2104,7 @@ Gefüllte Kohlrabi mit Mangold.xml
      +  zwiebel(n)                                   zwiebel
      +  olivenöl                                     olivenöl
      +  gemüsebrühe                                  gemüsebrühe
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  muskat, frisch gerieben                      muskat
      +  sahne                                        sahne
      +  käse, gerieben (z.b. emmentaler, gouda)      emmentaler
@@ -2133,7 +2133,7 @@ Gefüllte Mangoldblätter mit Zitronenschaum.xml
      +  walnüsse, gehackt                            walnuss
      +  feta-käse                                    schafskäse
      +  thymian, frisch gehackt                      thymian
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  hühnerbrühe                                  hühnerbrühe
      +  eiweiß                                       ei
      +  eigelb                                       ei
@@ -2171,7 +2171,7 @@ Gefüllte Mangoldknödel à la Gabi.xml
      +  thymian, sehr fein gehackt                   thymian
      +  ei(er)                                       ei
      +  salz                                         
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  muskat, frisch gerieben                      muskat
      +  mangoldblätter, stiele herausgeschnitten     mangold
      +  schweinenetz(e)                              wein
@@ -2205,7 +2205,7 @@ Gefüllte Mangoldtaschen.xml
      +  öl (sonnenblumenöl)                          sonnenblumenöl
      +  speck (bauch-), gekochter                    speck
      +  ziegenfrischkäse - taler je 20 g             ziegenfrischkäse
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
 Gefüllte Pfannkuchen mit Mangold und Curry-Huhn.xml
      +  mehl, ca. 125 g                              weizenmehl
@@ -2215,7 +2215,7 @@ Gefüllte Pfannkuchen mit Mangold und Curry-Huhn.xml
      +  hühnerbrustfilet(s)                          hühnerbrust
      +  schalotte(n)                                 schalotten
      +  chilischote(n), gewaschen und entkernt       chilischote
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  curry, (thai-)                               curry
      +  kurkuma                                      curcuma
      +  paprikapulver, edelsüß                       paprikapulver
@@ -2338,7 +2338,7 @@ Gefülltes Rinderfilet mit Polenta und Tomatenjus.xml
      +  kalbsbrät . frisches                         hackfleisch
      +  spinat                                       spinat
      +  rinderfilet(s) (aus der mitte)               rindfleisch
-     +  pfeffer, schwarzer, geschroteter             pfeffer
+     +  pfeffer, schwarzer, geschroteter             
      +  maiskölbchen (mini)                          mais
      +  knoblauch                                    knoblauch
      +  milch                                        milch
@@ -2407,7 +2407,7 @@ Gemüse mit Mangold und Süßkartoffeln.xml
      +  sojasauce, hell                              sojasauce
      +  paprikapulver                                paprikapulver
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Gemüse-Geschnetzeltes mit Reisbandnudeln.xml
      +  chilischote(n), rot                          chilischote
      +  paprikaschote(n), rote und gelb              paprika
@@ -2422,7 +2422,7 @@ Gemüse-Geschnetzeltes mit Reisbandnudeln.xml
      +  sojasauce                                    sojasauce
      +  limettensaft                                 limette
      +  salz                                         
-     +  pfeffer, bunt                                pfeffer
+     +  pfeffer, bunt                                
      +  basilikum                                    basilikum
 Gemüse-Gratin.xml
      +  blumenkohl                                   blumenkohl
@@ -2469,7 +2469,7 @@ Gemüse-Linsen-Vollkorn-Auflauf.xml
      +  salz                                         
      +  currypulver                                  curry
      +  kardamompulver                               kardamom
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  käse, gerieben (z.b. emmentaler)             emmentaler
      +  butter                                       butter
      +  käse in scheiben (z.b. gouda)                gouda
@@ -2499,7 +2499,7 @@ Gemüseblechkuchen mit Sultaninen.xml
      +  paprikaschote(n), rote                       paprika
      +  olivenöl                                     olivenöl
      +  öl für das blech                             
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  pinienkerne                                  pinienkerne
      +  wasser, warmes, zum einweichen               
      +  wasser, warmes                               
@@ -2599,7 +2599,7 @@ Geschmorte Lammkoteletts mit Ofengemüse.xml
      +  honig, flüssiger                             honig
      +  zimtpulver                                   zimt
      +  rosmarin, getrocknet                         rosmarin
-     +  pfeffer aus der mühle, schwarz               pfeffer
+     +  pfeffer aus der mühle, schwarz               
      +  salz                                         
      +  butterschmalz                                butterschmalz
      +  tomate(n)                                    tomate
@@ -2611,7 +2611,7 @@ Geschmorte Lammkoteletts mit Ofengemüse.xml
      +  kartoffel(n), sehr klein, festkochend        kartoffel
      +  mangold                                      mangold
      +  olivenöl extra vergine                       olivenöl
-     +  pfeffer aus der mühle, schwarz               pfeffer
+     +  pfeffer aus der mühle, schwarz               
      +  salz                                         
      +  rosmarin, getrocknet                         rosmarin
 Geschmorte Möhren mit Mangold und Salzzitrone.xml
@@ -2653,7 +2653,7 @@ Geschmortes Kaninchen bretonische Art.xml
      +  zwiebel(n)                                   zwiebel
      +  knoblauchzehe(n)                             knoblauch
      +  piment                                       piment
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  koriander                                    koriander
      +  lorbeerblätter                               lorbeer
      +  thymian                                      thymian
@@ -2731,7 +2731,7 @@ Gnocchi-Pfanne mit Mangold und Putenschnitzel.xml
      +  pflanzenöl                                   
      +  gnocchi                                      gnocchi
      +  gemüsebrühe                                  gemüsebrühe
-     +  schmelzkäse (20 % fett i.tr)                 käse
+     +  schmelzkäse (20 % fett i.tr)                 schmelzkäse
      +  muskat                                       muskat
      +  pinienkerne                                  pinienkerne
 Gnudi mit Ricotta und Trüffel.xml
@@ -2933,7 +2933,7 @@ Grünes Kartoffelpüree mit Mangold.xml
      +  kartoffel(n)                                 kartoffel
      +  salz                                         
      +  muskat                                       muskat
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  butter                                       butter
      +  milch                                        milch
      +  mineralwasser                                
@@ -3005,7 +3005,7 @@ Hackfleischstrudel à la Gabi.xml
      +  hackfleisch, gemischtes                      hackfleisch
      +  zitrone(n), den abrieb davon                 zitrone
      +  salz                                         
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  paniermehl                                   paniermehl
      +  milch                                        milch
      +  butter zum ausfetten                         butter
@@ -3019,7 +3019,7 @@ Haschee mit Mangold à la Gabi.xml
      +  butter                                       butter
      +  petersilie, glatt, fein gehackt              petersilie
      +  salz                                         
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  muskat, frisch gerieben                      muskat
 Hecht mit Salbei auf Mangold.xml
      +  mangold                                      mangold
@@ -3056,7 +3056,7 @@ Heilbutt auf einem Mangoldbett.xml
      +  sahne                                        sahne
      +  crème fraîche                                crème_fraîche
      +  muskatnuss                                   muskat
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  fischfilet(s) (heilbuttfilet), etwa 250 g pro filetfisch
      +  zitronensaft                                 zitrone
      +  öl (kräuteröl)                               kräuter
@@ -3218,7 +3218,7 @@ Hähnchen mit Mangold, Kirschtomaten und Ingwer.xml
      +  gemüsebrühe                                  gemüsebrühe
      +  ingwerwurzel, frisch                         ingwer
      +  erdnüsse, gehackt und geröstet               erdnuss
-     +  pfefferschote(n), rot                        pfeffer
+     +  pfefferschote(n), rot                        
      +  knoblauch                                    knoblauch
      +  speisestärke                                 stärke
      +  sojasauce                                    sojasauce
@@ -3258,7 +3258,7 @@ Hähnchen-Mangold-Nudelpfanne.xml
      +  paprikaschote(n), rot                        paprika
      +  olivenöl                                     olivenöl
      +  salz                                         
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
      +  hühnerbrühe                                  hühnerbrühe
      +  paprikapulver, edelsüß                       paprikapulver
      +  sahne                                        sahne
@@ -3273,7 +3273,7 @@ Hähnchenbrust im Mantel.xml
      +  salbei, die blättchen                        salbei
      +  oregano, frisch, die blättchen, eine handvolloregano
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  schweinefleisch, aus der schulter            schweinefleisch
      +  champignons, braune                          champignon
      +  schalotte(n)                                 schalotten
@@ -3282,7 +3282,7 @@ Hähnchenbrust im Mantel.xml
      +  ei(er)                                       ei
      +  semmelbrösel                                 paniermehl
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  kräuter, herbes de provence                  herbes_de_provence
      +  worcestersauce                               worcester
      +  ei(er), zum bestreichen                      ei
@@ -3322,7 +3322,7 @@ Hähnchenschnitzel mit Mangold und Mozzarella überbacken.xml
      +  crème fraîche                                crème_fraîche
      +  käse, geriebener                             käse
      +  butter                                       butter
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  fett für die form                            
 Hähnchenvollkornnudelpfanne mit Mangold und Champignons.xml
      +  mangold                                      mangold
@@ -3495,7 +3495,7 @@ Jakobsmuscheln im Mangoldblatt an Vanilleschaum.xml
      +  vanilleschote(n)                             vanille
      +  butter                                       butter
      +  meersalz, (fleur de sel)                     
-     +  pfeffer, schwarzer aus der mühle             pfeffer
+     +  pfeffer, schwarzer aus der mühle             
      +  öl                                           
 Japanischer Saibling vom Teppan Yaki Grill.xml
      +  fischfilet(s), vom frischen bachsaibling, alternativ lachsforelle, entgrätet mit haut, in mundgerechte stückesaibling
@@ -3527,7 +3527,7 @@ Kabeljau in Dillsauce.xml
      +  kabeljaufilet(s)                             kabeljau
      +  zitronensaft, frisch gepresst                zitrone
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  wein, weiß, trocken;                         wein
      +  mangold                                      mangold
      +  schmand                                      schmand
@@ -3655,7 +3655,7 @@ Karotten-Ingwer-Süppchen nach Mangoldkehlchen Art.xml
      +  kardamomkapsel(n), grün, aufgebrochen        kardamom
      +  nelkenpulver                                 nelke
      +  creme (schlagcreme), vegan                   crème
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
      +  worcestersauce                               worcester
      +  chilifäden                                   chili
@@ -3689,7 +3689,7 @@ Karotten-Mangold-Salat.xml
      +  orange(n), unbehandelt                       orange
      +  olivenöl                                     olivenöl
      +  meersalz                                     
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Karotten-Mangold-Zucchini-Cannelloni.xml
      +  cannelloni                                   nudeln
      +  mangold - blätter (ohne stiel)               mangold
@@ -3700,7 +3700,7 @@ Karotten-Mangold-Zucchini-Cannelloni.xml
      +  mus, (mandelmus) 1 gut gehäufter el          mandelmus
      +  currypulver, (farben von jaipur) aus dem bioladencurry
      +  meersalz                                     
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  blumenkohl                                   blumenkohl
      +  bergkäse, frisch gerieben                    bergkäse
      +  käse, (pecorino) frisch gerieben             pecorino
@@ -3735,7 +3735,7 @@ Kartoffel-Hack-Eintopf mit Mangold.xml
      +  möhre(n)                                     karotte
      +  champignons, frisch                          champignon
      +  tomatenmark                                  tomatenmark
-     +  schmelzkäse                                  käse
+     +  schmelzkäse                                  schmelzkäse
      +  saure sahne, 200 g                           saure_sahne
      +  parmesan, gerieben                           parmesan
      +  zwiebel(n)                                   zwiebel
@@ -3751,7 +3751,7 @@ Kartoffel-Lachs-Auflauf.xml
      +  lachsfilet(s)                                lachs
      +  mangold                                      mangold
      +  pellkartoffel(n)                             kartoffel
-     +  schmelzkäse, (kräuter)                       kräuter
+     +  schmelzkäse, (kräuter)                       schmelzkäse
      +  knoblauch                                    knoblauch
      +  zitronensaft                                 zitrone
      +  tomate(n)                                    tomate
@@ -3790,7 +3790,7 @@ Kartoffel-Mangold-Auflauf.xml
      +  thymian, frisch, gehackt                     thymian
      +  käse, gouda, mittelalt                       gouda
      +  salz                                         
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  öl für die form                              
 Kartoffel-Mangold-Gemüse.xml
      +  zwiebel(n), fein gehackt                     zwiebel
@@ -3864,7 +3864,7 @@ Kartoffel-Mangold-Topf.xml
      +  crème fraîche                                crème_fraîche
      +  zitronensaft                                 zitrone
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  zucker                                       zucker
 Kartoffel-Mangoldgemüse in Joghurtsauce.xml
      +  kartoffel(n), festkochend                    kartoffel
@@ -3874,7 +3874,7 @@ Kartoffel-Mangoldgemüse in Joghurtsauce.xml
      +  brühe, gekörnte                              brühe
      +  joghurt, 10%                                 joghurt
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
      +  mehl                                         weizenmehl
      +  milch                                        milch
@@ -3928,7 +3928,7 @@ Kartoffelkekse mit Mangold.xml
      +  mangold                                      mangold
      +  frühlingszwiebel(n)                          lauchzwiebel
      +  butter                                       butter
-     +  pfeffer, frisch geriebene muskatnuss         pfeffer
+     +  pfeffer, frisch geriebene muskatnuss         
      +  olivenöl                                     olivenöl
 Kartoffelsuppe mit Mangold und Möhren.xml
      +  kartoffel(n), festkochend, gewürfelt         kartoffel
@@ -4050,7 +4050,7 @@ Knuspriger Tofu mit grünen Bohnen, Shiitake und Mangold.xml
      +  erdnüsse                                     erdnuss
      +  paprikapulver                                paprikapulver
      +  bohnenkraut                                  bohnenkraut
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  fünf-gewürz-pulver                           gewürz
      +  sojasauce                                    sojasauce
      +  chilisauce, süße                             chili
@@ -4108,7 +4108,7 @@ Kokoshühnchen auf Chinakohl.xml
      +  ei(er)                                       ei
      +  kokosraspel                                  kokosraspel
      +  salz                                         
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  zucker                                       zucker
      +  öl (sonnenblumenöl                           sonnenblumenöl
      +  speisestärke                                 stärke
@@ -4158,7 +4158,7 @@ Krautstielgratin mit Bratwürsten.xml
      +  butter                                       butter
      +  mehl                                         weizenmehl
      +  rahm                                         sahne
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
      +  käse, (greyerzer), gerieben                  greyerzer
      +  bratwürste                                   bratwurst
@@ -4172,7 +4172,7 @@ Krautstielgratin.xml
      +  magerquark (halbfettquark)                   quark
      +  rahm                                         sahne
      +  ei(er)                                       ei
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
      +  käse (gruyère), geriebener                   gruyère
      +  butter für die form                          butter
@@ -4338,7 +4338,7 @@ Lachs Mangold Kuchen.xml
      +  blätterteig, aus dem kühlregal               blätterteig
      +  mozzarella                                   mozzarella
      +  ei(er)                                       ei
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
      +  zitronensaft                                 zitrone
      +  semmelbrösel                                 paniermehl
@@ -4358,7 +4358,7 @@ Lachsauflauf mit Mangold und Sahnesoße.xml
      +  rosmarin                                     rosmarin
      +  sahne                                        sahne
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  zitronensäure                                zitrone
 Lachsfilet im Mangoldmantel.xml
      +  mangold                                      mangold
@@ -4366,7 +4366,7 @@ Lachsfilet im Mangoldmantel.xml
      +  knoblauch, fein gehackt,                     knoblauch
      +  butter                                       butter
      +  salz                                         
-     +  pfeffer,                                     pfeffer
+     +  pfeffer,                                     
      +  zitronensaft                                 zitrone
      +  zwiebel(n), fein gehackt                     zwiebel
 Lachsfilet in Kurkuma mariniert mit Mangold.xml
@@ -4456,7 +4456,7 @@ Lamm liebt Erbse.xml
      +  gemüsefond                                   gemüsebrühe
      +  wasser                                       
      +  lorbeerblätter                               lorbeer
-     +  pfefferkörner                                pfeffer
+     +  pfefferkörner                                
      +  wacholderbeere(n)                            wacholder
      +  pimentkörner                                 piment
      +  gewürznelke(n)                               nelke
@@ -4474,11 +4474,11 @@ Lammbällchen mit Sesam.xml
      +  ei(er)                                       ei
      +  kräutersalz                                  kräutersalz
      +  öl (sonnenblumenöl)                          sonnenblumenöl
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
 Lammfilet mit Mangold.xml
      +  mangold                                      mangold
      +  zwiebel(n), rote                             zwiebel
-     +  kräuterbutter                                kräuter
+     +  kräuterbutter                                kräuterbutter
      +  salz und pfeffer                             
      +  ei(er)                                       ei
      +  crème fraîche                                crème_fraîche
@@ -4496,7 +4496,7 @@ Lammkeule mit Kreuzkümmel auf Mangold.xml
      +  gemüsebrühe, instant                         gemüsebrühe
      +  rotwein                                      rotwein
      +  olivenöl                                     olivenöl
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
 Lammlachse im Strudelteig gebacken mit Mangold, Schmortomaten und Sellerie-Kartoffel-Püree.xml
      +  lammlachs(e), je ca. 140 g                   lachs
      +  mangold                                      mangold
@@ -4504,7 +4504,7 @@ Lammlachse im Strudelteig gebacken mit Mangold, Schmortomaten und Sellerie-Karto
      +  olivenöl                                     olivenöl
      +  rosmarin                                     rosmarin
      +  knoblauchzehe(n), ausgepresst                knoblauch
-     +  pfefferkörner, bunt, gemörsert               pfeffer
+     +  pfefferkörner, bunt, gemörsert               
      +  piment, gemörsert                            piment
      +  wacholderbeere(n), gemörsert                 wacholder
      +  senf, medium                                 senf
@@ -4528,7 +4528,7 @@ Lammlasagne.xml
      +  tomatenmark                                  tomatenmark
      +  knoblauch                                    knoblauch
      +  paprikapulver, rotes                         paprikapulver
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  chilipulver                                  chili
      +  salz                                         
      +  mangold                                      mangold
@@ -4553,7 +4553,7 @@ Lasagne Marinare.xml
      +  süße sahne                                   sahne
      +  muskat                                       muskat
      +  salz                                         
-     +  pfeffer, schwarz                             pfeffer
+     +  pfeffer, schwarz                             
      +  fett, für die form                           
 Lasagne mit Mangold und Tomatensauce.xml
      +  mangold                                      mangold
@@ -4582,11 +4582,11 @@ Lasagne mit Mangold, Karotten und Tomaten.xml
      +  lasagneplatte(n) nach bedarf (ca. 10 stück)  nudeln
      +  olivenöl                                     olivenöl
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
 Lasagne à la Butz.xml
      +  hackfleisch, lamm und rind gemischt          hackfleisch
-     +  gewürzmischung (köfte baharati), türkisches hackbratengewürzbaharat
+     +  gewürzmischung (köfte baharati), türkisches hackbratengewürzgewürz
      +  gemüsezwiebel(n)                             gemüsezwiebel
      +  fleischtomate(n)                             tomate
      +  rote bete                                    rote_bete
@@ -4612,7 +4612,7 @@ Laubfrösche (Mangoldtaschen)  mit Fischfüllung.xml
      +  fischfilet(s) (zanderfilet), gut gekühlt     zander
      +  ei(er)                                       ei
      +  sahne                                        sahne
-     +  pfeffer, frisch gemahlen, weißer             pfeffer
+     +  pfeffer, frisch gemahlen, weißer             
      +  cayennepfeffer                               cayennepfeffer
      +  zitrone(n), unbehandelt, abgerieben schale   zitrone
      +  sahne, geschlagen                            sahne
@@ -4640,7 +4640,7 @@ Lauwarmer bunter Karottensalat.xml
      +  honig                                        honig
      +  kurkuma                                      curcuma
      +  salz aus der mühle                           
-     +  kampot pfeffer, rot, geschrotet (nicht gemahlen!)pfeffer
+     +  kampot pfeffer, rot, geschrotet (nicht gemahlen!)
      +  estragon, fein geschnitten                   estragon
      +  zitrone(n), bio bzw. unbehandelt             zitrone
      +  mangoldblätter, kleine                       mangold
@@ -4721,7 +4721,7 @@ Lockere Mangold-Tortilla.xml
      +  käse, geriebener, zum überbacken             käse
      +  petersilie, zum bestreuen                    petersilie
 Low Carb-Risotto mit Mangold und Paprika.xml
-     +  hülsenfrüchte in reisform (rote linsen-karotten à la reis)früchte
+     +  hülsenfrüchte in reisform (rote linsen-karotten à la reis)hülsenfrüchte
      +  mangold, bunter                              mangold
      +  paprikaschote(n), rote                       paprika
      +  zwiebel(n)                                   zwiebel
@@ -4729,7 +4729,7 @@ Low Carb-Risotto mit Mangold und Paprika.xml
      +  gemüsebrühe                                  gemüsebrühe
      +  weißwein, ein schuss extra                   weißwein
      +  olivenöl                                     olivenöl
-     +  hafersahne (hafercreme cuisine)              sahne
+     +  hafersahne (hafercreme cuisine)              pflanzenfett
      +  sojacreme fraîche (crème fraîche-alternative)crème_fraîche
      +  salz und pfeffer                             
      +  muskatnuss                                   muskat
@@ -4794,7 +4794,7 @@ Mangold aus dem Ofen.xml
      +  wasser                                       
      +  knoblauchflocken                             knoblauch
      +  zwiebel(n), getrocknet                       zwiebel
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Mangold einfach wie Spinat zubereitet.xml
      +  mangold, frisch, mit stiel                   mangold
      +  zwiebel(n)                                   zwiebel
@@ -4802,7 +4802,7 @@ Mangold einfach wie Spinat zubereitet.xml
      +  gemüsebrühe, instant                         gemüsebrühe
      +  sahne                                        sahne
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
      +  zitronensaft                                 zitrone
      +  weißwein,                                    weißwein
@@ -4845,7 +4845,7 @@ Mangold Lasagne mit  Hackfleisch.xml
      +  zwiebel(n)                                   zwiebel
      +  gemüsebrühe                                  gemüsebrühe
      +  sahne                                        sahne
-     +  sahneschmelzkäse                             sahne
+     +  sahneschmelzkäse                             schmelzkäse
      +  salz und pfeffer                             
      +  käse, gerieben                               käse
 Mangold mediterrane Art.xml
@@ -4858,7 +4858,7 @@ Mangold mediterrane Art.xml
      +  salz                                         
      +  wasser, kochendes                            
      +  pinienkerne, ersatzweise walnüsse            pinienkerne
-     +  pfeffer, weiß                                pfeffer
+     +  pfeffer, weiß                                
 Mangold mit Fenchel und Cashewkerne.xml
      +  mangold                                      mangold
      +  cashewkerne                                  cashew
@@ -4879,7 +4879,7 @@ Mangold mit gebratenen Champignons.xml
      +  champignons                                  champignon
      +  butter, zum anbraten                         butter
      +  meersalz                                     
-     +  pfeffer, weißer                              pfeffer
+     +  pfeffer, weißer                              
      +  wasser                                       
 Mangold mit getrockneten Tomaten.xml
      +  mangold (ca. 1 staude)                       mangold
@@ -4899,7 +4899,7 @@ Mangold mit Gorgonzolasauce & Schweinemedailons.xml
      +  knoblauch                                    knoblauch
      +  zwiebel(n)                                   zwiebel
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  öl                                           
 Mangold mit Kichererbsen, Aprikosen und Gewürzjoghurt.xml
      +  mangold                                      mangold
@@ -4970,7 +4970,7 @@ Mangold mit Olivenöl.xml
      +  salz                                         
      +  zitrone(n), den saft davon                   zitrone
      +  olivenöl                                     olivenöl
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
 Mangold mit Orangen.xml
      +  mangold                                      mangold
      +  salzwasser                                   
@@ -5022,10 +5022,11 @@ Mangold mit Roquefort überbacken.xml
 Mangold mit Rostbratwürstchen in Sahnesoße.xml
      +  mangold                                      mangold
      +  bratwürste, (nürnberger rostbratwürstchen)   bratwurst
-     +  würste, (pfefferbeisser)                     pfeffer
+     +  pfefferbeisser                               mettwurst
      +  sahne                                        sahne
      +  saucenbinder, hell                           saucenbinder
-     +  olivenöl, mit knoblauch ( selber herstellen:5-6 zehen zerhacken in 200ml olivenöl)knoblauch
+     +  olivenöl                                     olivenöl
+     +  knoblauch                                    knoblauch
      +  spaghetti                                    nudeln
 Mangold mit Schafskäse und Joghurt.xml
      +  zwiebel(n)                                   zwiebel
@@ -5076,7 +5077,7 @@ Mangold mit Vinaigrette.xml
      +  olivenöl                                     olivenöl
      +  salz                                         
      +  zucker                                       zucker
-     +  nelke(n) - pfeffer                           pfeffer
+     +  nelke(n) - pfeffer                           
 Mangold pikant in Sahnesoße.xml
      +  mangold                                      mangold
      +  zwiebel(n)                                   zwiebel
@@ -5130,7 +5131,7 @@ Mangold und geröstete Paprika-Frittata.xml
      +  ei(er)                                       ei
      +  eiweiß                                       ei
      +  salz                                         
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  mozzarella, gerieben                         mozzarella
 Mangold à la Creme.xml
      +  mangold                                      mangold
@@ -5138,7 +5139,7 @@ Mangold à la Creme.xml
      +  zwiebel(n)                                   zwiebel
      +  knoblauchzehe(n)                             knoblauch
      +  süße sahne                                   sahne
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
      +  brühe, instant, am besten selbst gemacht     brühe
      +  muskatnuss, frisch gerieben, knapp gemessen  muskat
      +  natron                                       
@@ -5155,7 +5156,7 @@ Mangold à la Klaumix.xml
      +  birne(n)                                     birne
      +  brühe                                        brühe
      +  sojasauce                                    sojasauce
-     +  pfeffer, schwarz                             pfeffer
+     +  pfeffer, schwarz                             
 Mangold à la Toussaint.xml
      +  butter                                       butter
      +  zwiebel(n)                                   zwiebel
@@ -5242,14 +5243,14 @@ Mangold-Auflauf.xml
 Mangold-Austernpilz-Soße.xml
      +  mangold                                      mangold
      +  austernpilze                                 austernpilz
-     +  feta-käse aus schafsmilch                    milch
+     +  feta-käse aus schafsmilch                    schafskäse
      +  schmand                                      schmand
      +  zwiebel(n), rot                              zwiebel
      +  knoblauch                                    knoblauch
      +  rosmarin, frisch gehackt                     rosmarin
      +  kurkuma                                      curcuma
      +  kreuzkümmelpulver                            cumin
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  ingwerwurzel, ca. 1 cm                       ingwer
      +  fett zum braten                              
      +  wasser                                       
@@ -5278,7 +5279,7 @@ Mangold-Brennnessel-Quiche mit Paprikastreifen.xml
      +  käse, (streukäse aus hartkäse)               käse
      +  majoran, brennnesselsamen                    brennnessel
      +  paprikamark, sehr scharf, ungarisches aus der tubepaprikamark
-     +  gewürzmischung, (türkische paprikamischung)  paprika
+     +  gewürzmischung, (türkische paprikamischung)  gewürz
 Mangold-Couscous-Feta-Frittata.xml
      +  mangold                                      mangold
      +  ei(er)                                       ei
@@ -5292,7 +5293,7 @@ Mangold-Couscous-Feta-Frittata.xml
      +  haselnüsse, gehackt                          haselnuss
 Mangold-Curry-Suppe mit Fischfilet.xml
      +  zwiebel(n)                                   zwiebel
-     +  ingwer, walnussgroß                          walnuss
+     +  ingwer                                       ingwer
      +  currypaste, rote                             curry
      +  kirschtomate(n), à 400 g                     tomate
      +  mangold                                      mangold
@@ -5346,7 +5347,7 @@ Mangold-Feta-Salat.xml
      +  essig                                        essig
      +  zitronensaft                                 zitrone
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  knoblauchzehe(n)                             knoblauch
 Mangold-Forellen Nudeln.xml
      +  nudeln                                       nudeln
@@ -5364,7 +5365,7 @@ Mangold-Frikadellen.xml
      +  hackfleisch vom schwein                      hackfleisch
      +  mangold                                      mangold
      +  kreuzkümmel                                  cumin
-     +  pfeffer, 1 schweinenetz                      pfeffer
+     +  pfeffer, 1 schweinenetz                      
 Mangold-Gemüse mit Bulgur-Linsen-Pilaw.xml
      +  mangold, junger                              mangold
      +  olivenöl                                     olivenöl
@@ -5426,7 +5427,7 @@ Mangold-Gemüse-Spaghetti.xml
      +  schnittlauch                                 schnittlauch
      +  petersilie                                   petersilie
      +  basilikum                                    basilikum
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  chilischote(n)                               chilischote
      +  paprikapulver                                paprikapulver
      +  kräutersalz                                  kräutersalz
@@ -5455,7 +5456,7 @@ Mangold-Gratin mit Feta.xml
      +  feta-käse, griechischer                      schafskäse
      +  salz und pfeffer                             
      +  paprikapulver                                paprikapulver
-     +  gewürzmischung (hackfleischgewürz)           hackfleisch
+     +  gewürzmischung (hackfleischgewürz)           gewürz
 Mangold-Gratin mit Shiitake-Pilzen.xml
      +  kartoffel(n)                                 kartoffel
      +  butter, für die form                         butter
@@ -5492,7 +5493,7 @@ Mangold-Gratin-02.xml
      +  kümmel                                       kümmel
      +  schmand                                      schmand
      +  ei(er)                                       ei
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  käse (emmentaler), gerieben                  emmentaler
      +  semmelbrösel                                 paniermehl
      +  butter                                       butter
@@ -5603,7 +5604,7 @@ Mangold-Joghurt mit Schwarzkümmel.xml
      +  joghurt, stichfester, türkischer, 10 %       joghurt
      +  olivenöl                                     olivenöl
      +  knoblauchzehe(n)                             knoblauch
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  salz                                         
      +  schwarzkümmel                                schwarzkümmel
 Mangold-Joghurtsuppe.xml
@@ -5635,7 +5636,7 @@ Mangold-Kartoffel Auflauf.xml
      +  kräuter der provence                         herbes_de_provence
      +  oliven, schwarz, ohne kern                   olive
      +  muskat                                       muskat
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  sahne                                        sahne
      +  mehl                                         weizenmehl
      +  käse (gruyère), gerieben                     gruyère
@@ -5659,7 +5660,7 @@ Mangold-Kartoffel-Bratlinge mit Tomaten-Zwiebel-Gemüse.xml
      +  basilikum, fein geschnitten                  basilikum
      +  olivenöl                                     olivenöl
      +  rapsöl,                                      
-     +  pfeffer, schwarz, frisch gemahlen            pfeffer
+     +  pfeffer, schwarz, frisch gemahlen            
 Mangold-Kartoffel-Gemüse mit gratiniertem Fisch.xml
      +  kartoffel(n)                                 kartoffel
      +  mangold                                      mangold
@@ -5667,7 +5668,7 @@ Mangold-Kartoffel-Gemüse mit gratiniertem Fisch.xml
      +  knoblauch, fein gehackt                      knoblauch
      +  butter                                       butter
      +  koriander                                    koriander
-     +  pfefferkörner                                pfeffer
+     +  pfefferkörner                                
      +  salz                                         
      +  muskat                                       muskat
      +  fischfilet(s)                                fisch
@@ -5850,7 +5851,7 @@ Mangold-Lachspfanne.xml
      +  knoblauchzehe(n)                             knoblauch
      +  orange(n), den saft davon                    orange
      +  kokoswasser                                  kokoswasser
-     +  hafersahne (hafercreme cuisine)              sahne
+     +  hafersahne (hafercreme cuisine)              pflanzenfett
      +  curry                                        curry
      +  salz und pfeffer                             
      +  sojasauce                                    sojasauce
@@ -5859,7 +5860,7 @@ Mangold-Lachsrolle.xml
      +  lachsfilet(s)                                lachs
      +  blätterteig                                  blätterteig
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  ei(er)                                       ei
 Mangold-Lachsröllchen mit Fenchelsamensauce und Safranreis.xml
      +  mangold - stauden                            mangold
@@ -5917,7 +5918,7 @@ Mangold-Lasagne-01.xml
      +  ei(er) für den teig                          teig
      +  oregano                                      oregano
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat, gerieben, für bechamel               muskat
 Mangold-Lasagne-02.xml
      +  schinken, schwarzwälder                      schinken
@@ -5926,7 +5927,7 @@ Mangold-Lasagne-02.xml
      +  mozzarella                                   mozzarella
      +  butter                                       butter
      +  muskat, frisch gerieben                      muskat
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  öl                                           
      +  béchamelsauce :                              béchamelsauce
      +  butter                                       butter
@@ -6016,7 +6017,7 @@ Mangold-Mischpilze-Auflauf à la Gabi.xml
      +  knoblauch, fein gewürfelt                    knoblauch
      +  olivenöl                                     olivenöl
      +  salz                                         
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  muskat, frisch gerieben                      muskat
      +  sahne                                        sahne
      +  käse, geriebenen gouda                       gouda
@@ -6043,7 +6044,7 @@ Mangold-Möhren-Currygemüse.xml
      +  currypulver                                  curry
      +  kurkuma                                      curcuma
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  öl                                           
 Mangold-Möhren-Gemüse-01.xml
      +  mangold                                      mangold
@@ -6063,7 +6064,7 @@ Mangold-Möhren-Gemüse-02.xml
      +  speisestärke                                 stärke
      +  zucker                                       zucker
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  knoblauchsalz                                knoblauchsalz
      +  muskatnuss, frisch gerieben                  muskat
 Mangold-Möhren-Kartoffel-Suppe.xml
@@ -6117,7 +6118,7 @@ Mangold-Nudel-Auflauf.xml
      +  milch                                        milch
      +  käse, gerieben                               käse
      +  pinienkerne                                  pinienkerne
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
      +  muskat                                       muskat
      +  butter, zum anbraten und für die form        butter
@@ -6171,7 +6172,7 @@ Mangold-Paprika-Gemüse.xml
      +  olivenöl                                     olivenöl
      +  koriandergrün                                koriandergrün
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  chilischote(n), rot, in feine streifen geschnittenchilischote
      +  knoblauch, gewürfelt                         knoblauch
      +  sojasauce                                    sojasauce
@@ -6187,7 +6188,7 @@ Mangold-Paprika-Omelettewürfel mit Tomaten.xml
      +  olivenöl                                     olivenöl
      +  muskatnuss, frisch gerieben                  muskat
      +  salz                                         
-     +  pfeffer, bunter, aus der mühle               pfeffer
+     +  pfeffer, bunter, aus der mühle               
 Mangold-Paprika-Quiche.xml
      +  quark                                        quark
      +  milch                                        milch
@@ -6360,7 +6361,7 @@ Mangold-Quiche mit Champignons.xml
      +  sahne                                        sahne
      +  käse, geriebener, (emmentaler)               emmentaler
      +  kräutersalz                                  kräutersalz
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
 Mangold-Quiche-01.xml
      +  butter, zimmerwarme                          butter
@@ -6417,9 +6418,9 @@ Mangold-Quiche-04.xml
      +  weißwein                                     weißwein
      +  ricotta                                      ricotta
      +  ei(er), l                                    ei
-     +  feta-käse aus schafsmilch                    milch
+     +  feta-käse aus schafsmilch                    schafskäse
      +  salz                                         
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
 Mangold-Quiche-05.xml
      +  mehl                                         weizenmehl
      +  butter, weiche                               butter
@@ -6456,7 +6457,7 @@ Mangold-Rahm-Gemüse.xml
      +  mehl                                         weizenmehl
      +  zucker                                       zucker
      +  salz                                         
-     +  pfeffer, schwarzer, aus der mühle            pfeffer
+     +  pfeffer, schwarzer, aus der mühle            
      +  muskatnuss, frisch gerieben                  muskat
      +  gemüsebrühe (ich nehme wasser und mein eigenes brühpulver)gemüsebrühe
      +  sahne                                        sahne
@@ -6657,7 +6658,7 @@ Mangold-Schafskäse Pasta.xml
      +  knoblauch                                    knoblauch
      +  salz und pfeffer                             
      +  knoblauchbutter                              knoblauch
-     +  kräuterbutter                                kräuter
+     +  kräuterbutter                                kräuterbutter
      +  olivenöl                                     olivenöl
      +  zucker                                       zucker
 Mangold-Schinken-Quiche.xml
@@ -6741,7 +6742,7 @@ Mangold-Spinat-Knödel.xml
      +  frischkäse-ersatz (cashew-frischkäse)        frischkäse
      +  ei-ersatz für 2 volleier, vegan              ei
      +  meersalz                                     
-     +  pfeffer, grüner, frisch gemörsert            pfeffer
+     +  pfeffer, grüner, frisch gemörsert            
      +  austernpilze                                 austernpilz
      +  ei-ersatz für 2 volleier, vegan              ei
      +  semmelbrösel zim panieren                    paniermehl
@@ -6786,7 +6787,7 @@ Mangold-Süppchen Camaju.xml
      +  öl                                           
      +  gemüsebrühe, (instant)                       gemüsebrühe
      +  sahne                                        sahne
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
 Mangold-Tarte.xml
      +  blätterteig, tk                              blätterteig
@@ -6823,7 +6824,7 @@ Mangold-Tomaten-Pfanne mit gebratenen Drillingen (Kartoffeln).xml
      +  garam masala                                 garam_masala
      +  kurkuma                                      curcuma
      +  paprikapulver, edelsüß                       paprikapulver
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
 Mangold-Tomaten-Quiche-01.xml
      +  mehl                                         weizenmehl
@@ -6894,7 +6895,7 @@ Mangold-Ziegenfrischkäse-Röllchen mit Serranoschinken auf Salat.xml
      +  serranoschinken                              schinken
      +  ziegenfrischkäse                             ziegenfrischkäse
      +  knoblauchzehe(n)                             knoblauch
-     +  pfeffer, grob gemahlen                       pfeffer
+     +  pfeffer, grob gemahlen                       
 Mangold-Ziegenkäse-Tarte mit Lammfiletstreifen.xml
      +  mehl                                         weizenmehl
      +  butter                                       butter
@@ -6908,7 +6909,7 @@ Mangold-Ziegenkäse-Tarte mit Lammfiletstreifen.xml
      +  knoblauch, klein                             knoblauch
      +  öl                                           
      +  lammfilet(s)                                 lammfleisch
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
      +  rosmarin                                     rosmarin
      +  thymian                                      thymian
@@ -6989,12 +6990,12 @@ Mangoldauflauf.xml
      +  tomate(n)                                    tomate
      +  käse, gerieben                               käse
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Mangoldblätter.xml
      +  butterschmalz (ghee)                         butterschmalz
      +  senfkörner                                   senfsamen
      +  kurkuma                                      curcuma
-     +  pfeffer, schwarz, frisch gemahlen            pfeffer
+     +  pfeffer, schwarz, frisch gemahlen            
      +  muskat                                       muskat
      +  gewürz(e) (asaföetida)                       gewürz
      +  fenchelsamen                                 fenchelsamen
@@ -7062,7 +7063,7 @@ Mangoldcremesuppe mit Lachs und Champignons.xml
      +  champignons                                  champignon
      +  sesam                                        sesam
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
 Mangoldcrêpes mit Mozzarella.xml
      +  mehl                                         weizenmehl
@@ -7078,7 +7079,7 @@ Mangoldcrêpes mit Mozzarella.xml
      +  mozzarella                                   mozzarella
      +  öl                                           
      +  butterschmalz                                butterschmalz
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  sahne                                        sahne
      +  eigelb                                       ei
 Mangoldeintopf für Eilige.xml
@@ -7194,7 +7195,7 @@ Mangoldgemüse mit Shiitakepilzen.xml
      +  sesamöl, hell                                sesamöl
      +  sesamöl, dunkel                              sesamöl
      +  fischsauce                                   fischsauce
-     +  pfeffer, schwarz                             pfeffer
+     +  pfeffer, schwarz                             
 Mangoldgemüse zu Bandnudeln oder Reis.xml
      +  mangold, große blätter, mit stiel            mangold
      +  zwiebel(n)                                   zwiebel
@@ -7206,7 +7207,7 @@ Mangoldgemüse zu Bandnudeln oder Reis.xml
      +  wasser                                       
      +  rapsöl                                       
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Mangoldgemüse-01.xml
      +  mangold - staude (ca. 400 g)                 mangold
      +  zwiebel(n), gewürfelt                        zwiebel
@@ -7241,7 +7242,7 @@ Mangoldgemüse-04.xml
      +  thymian                                      thymian
      +  pinienkerne                                  pinienkerne
      +  schwarzkümmel                                schwarzkümmel
-     +  feta-käse aus schafsmilch                    milch
+     +  feta-käse aus schafsmilch                    schafskäse
      +  salz und pfeffer                             
      +  muskat                                       muskat
      +  weißwein, evtl.                              weißwein
@@ -7370,7 +7371,7 @@ Mangoldkuchen-01.xml
      +  pinienkerne                                  pinienkerne
      +  olivenöl                                     olivenöl
      +  zitrone(n), unbehandelte (schale)            zitrone
-     +  pfeffer, weißer                              pfeffer
+     +  pfeffer, weißer                              
      +  äpfel, säuerliche (z.b. boskop)              apfel
      +  mehl, zum ausrollen                          weizenmehl
      +  fett, für die form                           
@@ -7403,7 +7404,7 @@ Mangoldlasagne mit Bröselkruste.xml
      +  mehl                                         weizenmehl
      +  crème double                                 crème_double
      +  milch                                        milch
-     +  schmelzkäse (kräuter-)                       kräuter
+     +  schmelzkäse (kräuter-)                       schmelzkäse
      +  bandnudeln,                                  nudeln
      +  käse (gouda)                                 gouda
      +  toastbrot                                    brot
@@ -7539,7 +7540,7 @@ Mangoldpäckchen auf Pfefferrahmsoße.xml
      +  thymian                                      thymian
      +  öl                                           
      +  öl                                           
-     +  pfeffer, grün                                pfeffer
+     +  pfeffer, grün                                
      +  zwiebel(n), gehackt                          zwiebel
      +  wasser                                       
      +  sahne                                        sahne
@@ -7607,7 +7608,7 @@ Mangoldrolle mit Gemüse und Körnern.xml
      +  mangold, große                               mangold
      +  quark (magerquark)                           quark
      +  ei(er)                                       ei
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
      +  fett, für die folie                          
 Mangoldrolle-01.xml
@@ -7626,7 +7627,7 @@ Mangoldrolle-02.xml
      +  rapsöl zum braten                            
      +  möhre(n)                                     karotte
      +  zucchini                                     zucchini
-     +  tomate(n), getrocknete, menge nach wunsch    tomate
+     +  getrocknete tomaten, menge nach wunsch       getrocknete_tomaten
      +  schnittlauch                                 schnittlauch
      +  petersilie                                   petersilie
      +  thymian                                      thymian
@@ -7645,21 +7646,21 @@ Mangoldrollen.xml
      +  gemüsebrühe,                                 gemüsebrühe
      +  saure sahne,                                 saure_sahne
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Mangoldroulade mit Blattsalaten.xml
      +  tomate(n)                                    tomate
      +  zwiebel(n), weiß                             zwiebel
      +  knoblauch                                    knoblauch
      +  olivenöl                                     olivenöl
      +  salz                                         
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  mangold, blätter                             mangold
      +  butter                                       butter
      +  mehl                                         weizenmehl
      +  milch                                        milch
      +  ei(er)                                       ei
      +  salz                                         
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  muskat, frisch gerieben                      muskat
      +  chicorée                                     chicorée
      +  radicchio di treviso                         radicchio
@@ -7674,7 +7675,7 @@ Mangoldroulade mit Blattsalaten.xml
      +  zitronensaft                                 zitrone
      +  zitrone(n), unbehandelt, die zesten davon    zitrone
      +  salz                                         
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
 Mangoldroulade mit Möhrengratin.xml
      +  roulade(n) (fleischsorte nach wahl)          fleisch
      +  senf (monschauer senf wildkräuter)           kräuter
@@ -7686,7 +7687,7 @@ Mangoldroulade mit Möhrengratin.xml
      +  sahne                                        sahne
      +  gouda, gerieben                              gouda
      +  salz                                         
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
      +  muskat                                       muskat
      +  brühe                                        brühe
 Mangoldroulade.xml
@@ -7750,7 +7751,7 @@ Mangoldrouladen-01.xml
      +  petersilie, fein gehackt                     petersilie
      +  salz und pfeffer, schwarz                    
 Mangoldrouladen-02.xml
-     +  mett, gewürzt, frisch vom metzger            gewürz
+     +  mett, frisch vom metzger                     hackfleisch
      +  mangoldblätter                               mangold
      +  zwiebel(n)                                   zwiebel
      +  ei(er)                                       ei
@@ -7778,10 +7779,10 @@ Mangoldröllchen in Käsesoße.xml
      +  pinienkerne                                  pinienkerne
      +  paprikaschote(n), grün                       paprika
      +  mangold                                      mangold
-     +  butter (pfeffer-)                            pfeffer
+     +  butter (pfeffer-)                            
      +  weißwein, trocken                            weißwein
-     +  pfefferkörner, rot, eingelegt                pfeffer
-     +  schmelzkäse (kräuter-)                       kräuter
+     +  pfefferkörner, rot, eingelegt                
+     +  schmelzkäse (kräuter-)                       schmelzkäse
 Mangoldröllchen in Sahnesauce.xml
      +  mangoldblätter                               mangold
      +  hackfleisch, gemischt                        hackfleisch
@@ -7805,7 +7806,7 @@ Mangoldröllchen mit Fischfüllung-01.xml
      +  butter                                       butter
      +  fischsauce, (asiatisch)                      fischsauce
      +  austernsauce, (asiatisch)                    austern
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
      +  schlagsahne                                  sahne
      +  hühnerbrühe                                  hühnerbrühe
@@ -7861,7 +7862,7 @@ Mangoldröllchen-01.xml
      +  haferflocken                                 haferflocken
      +  kräutersalz                                  kräutersalz
      +  muskat                                       muskat
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  koriander, gemahlen                          koriander
      +  gemüsebrühe                                  gemüsebrühe
      +  ei(er)                                       ei
@@ -7891,7 +7892,11 @@ Mangoldsalat mit gebratenen Zucchini und Röstzwiebeln.xml
      +  zwiebel(n)                                   zwiebel
      +  balsamico bianco                             balsamico
      +  olivenöl                                     olivenöl
-     +  kräuter, italienische, frisch, salbei, thymian, majoran, oregano, rosmarinrosmarin
+     +  salbei                                       salbei
+     +  thymian                                      thymian
+     +  majoran                                      majoran
+     +  oregano                                      oregano
+     +  rosmarin                                     rosmarin
      +  salz und pfeffer                             
 Mangoldsalat mit Gurken- und Karotten-Julienne in Joghurtdressing.xml
      +  mangold, große blättter                      mangold
@@ -7911,7 +7916,7 @@ Mangoldsalat.xml
      +  senf                                         senf
      +  salz                                         
      +  zucker                                       zucker
-     +  pfeffer, frisch gemahlen                     pfeffer
+     +  pfeffer, frisch gemahlen                     
 Mangoldspaghetti-01.xml
      +  mangold                                      mangold
      +  gemüsebrühe                                  gemüsebrühe
@@ -7947,7 +7952,7 @@ Mangoldstielgratin mit grüner Sauce.xml
      +  gemüsebrühe                                  gemüsebrühe
      +  sahne                                        sahne
      +  salz                                         
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
      +  petersilie, feingehackte                     petersilie
      +  tomate(n)                                    tomate
      +  butterschmalz                                butterschmalz
@@ -8047,7 +8052,7 @@ Mangoldsuppe.xml
      +  sahne                                        sahne
      +  muskat                                       muskat
      +  salz                                         
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
 Mangoldsüppchen.xml
      +  mangold                                      mangold
      +  frühlingszwiebel(n)                          lauchzwiebel
@@ -8192,7 +8197,7 @@ Matjesauflauf.xml
      +  schnittlauch                                 schnittlauch
      +  dill                                         dill
      +  mangold                                      mangold
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  saure sahne                                  saure_sahne
      +  crème fraîche                                crème_fraîche
      +  toastbrot, gewürfelt und geröstet            brot
@@ -8204,7 +8209,13 @@ Maultaschenpfanne.xml
      +  mangold                                      mangold
      +  zucchini                                     zucchini
      +  pflanzensahne (pflanzencreme cuisine), z.b. hafersahnepflanzenfett
-     +  gartenkräuter (sauerampfer, brunnenkresse, pimpinelle, schnittknoblauch, kantenlauch, petersilie, würzfenchel)brunnenkresse
+     +  sauerampfer                                  sauerampfer
+     +  brunnenkresse                                brunnenkresse
+     +  pimpinelle                                   pimpinelle
+     +  schnittknoblauch                             schnittknoblauch
+     +  kantenlauch                                  kantenlauch
+     +  petersilie                                   petersilie
+     +  würzfenchel                                  würzfenchel
      +  salz und pfeffer                             
      +  öl                                           
 Meerjungfrauen-Pasta.xml
@@ -8227,7 +8238,7 @@ Meerjungfrauen-Pasta.xml
      +  knoblauch                                    knoblauch
      +  honig                                        honig
      +  chilischote(n)                               chilischote
-     +  pfefferkörner, schwarze                      pfeffer
+     +  pfefferkörner, schwarze                      
      +  nudeln (vorzugsweise seetangnudeln)          nudeln
      +  salzwasser                                   
      +  öl (erdnussöl)                               erdnussöl
@@ -8240,7 +8251,7 @@ Mein arabisches Kartoffel-Mangold-Gemüse.xml
      +  kartoffel(n), vorw. festkochend              kartoffel
      +  mangold                                      mangold
      +  zwiebel(n)                                   zwiebel
-     +  gewürzmischung, arabische (baharat)          baharat
+     +  gewürzmischung, arabische (baharat)          gewürz
      +  salz                                         
      +  butterschmalz                                butterschmalz
      +  sahne                                        sahne
@@ -8312,7 +8323,7 @@ Mongolentopf à la Mäusle.xml
      +  wasser                                       
      +  salz                                         
 Moussaka mit Kartoffeln und Mangold.xml
-     +  pfefferschote(n), rote                       pfeffer
+     +  pfefferschote(n), rote                       
      +  mehl                                         weizenmehl
      +  gemüsebrühe                                  gemüsebrühe
      +  milch                                        milch
@@ -8334,7 +8345,7 @@ Möhren-Mangold-Gemüse.xml
      +  salz                                         
      +  honig                                        honig
      +  mangoldblätter, junge                        mangold
-     +  pfeffer, bunt, aus der mühle                 pfeffer
+     +  pfeffer, bunt, aus der mühle                 
 Möhren-Mangold-Lasagne.xml
      +  lasagneplatte(n)                             nudeln
      +  salzwasser zum kochen der lasagneplatten     nudeln
@@ -8364,7 +8375,7 @@ Möhren-Mangoldsuppe.xml
 Nilaga.xml
      +  suppenfleisch, vom rind                      fleisch
      +  zwiebel(n)                                   zwiebel
-     +  pfefferkörner                                pfeffer
+     +  pfefferkörner                                
      +  knoblauch                                    knoblauch
      +  weißkohl, evtl. weniger                      weißkohl
      +  pak choi, oder mangold                       pak_choi
@@ -8380,8 +8391,8 @@ Nudel-Mangold-Auflauf.xml
      +  speck, gewürfelt                             speck
      +  schmand                                      schmand
      +  milch                                        milch
-     +  schmelzkäse                                  käse
-     +  pfeffer                                      pfeffer
+     +  schmelzkäse                                  schmelzkäse
+     +  pfeffer                                      
      +  salz                                         
      +  muskat                                       muskat
 Nudelauflauf mit Mangold und Hackfleisch.xml
@@ -8543,7 +8554,7 @@ Ofenkürbiscurry.xml
      +  mangold                                      mangold
      +  olivenöl                                     olivenöl
      +  meersalz nach bedarf                         
-     +  pfeffer, grüner, gemörsert                   pfeffer
+     +  pfeffer, grüner, gemörsert                   
      +  currypulver, englisch                        curry
      +  chiliflocken, koreanisch                     chiliflocken
      +  sesam, schwarz                               sesam
@@ -8630,7 +8641,7 @@ Orangenhühnchen auf Mangoldsalat mit Erdnussvinaigrette.xml
      +  öl                                           
      +  zucker                                       zucker
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Oster-Zicklein mit Kräutern, Mangold und Schwarzwurzeln.xml
      +  zicklein, keule, rücken und schulter         zicklein
      +  salz und pfeffer aus der mühle               
@@ -8714,7 +8725,7 @@ Pasta in würziger Mangoldsoße.xml
      +  zwiebel(n)                                   zwiebel
      +  knoblauch                                    knoblauch
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  kräuter, ital. z.b. basilikum, majoran, thymian, frischbasilikum
      +  parmesan                                     parmesan
 Pasta mit Mangold, Räucherlachs und Gorgonzolasauce.xml
@@ -8796,7 +8807,7 @@ Penne mit Mangold und Tomaten in Käse-Sahne-Sauce.xml
      +  pecorino, gerieben                           pecorino
      +  speisestärke                                 stärke
      +  meersalz                                     
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat                                       muskat
      +  cayennepfeffer                               cayennepfeffer
      +  pinienkerne                                  pinienkerne
@@ -8841,7 +8852,7 @@ Penne-Mangold-Hähnchenbrust-Pfanne.xml
 Perlhuhnessenz mit Crepinettescheiben.xml
      +  perlhuhn                                     huhn
      +  piment                                       piment
-     +  pfefferkörner                                pfeffer
+     +  pfefferkörner                                
      +  suppengrün                                   suppengemüse
      +  salz                                         
      +  mehl                                         weizenmehl
@@ -8853,7 +8864,7 @@ Perlhuhnessenz mit Crepinettescheiben.xml
      +  sahne                                        sahne
      +  ei(er)                                       ei
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  speck, fetter                                speck
      +  fleisch, das ausgelöste der perlhuhnschenkel fleisch
      +  petersilie, glatte                           petersilie
@@ -8964,7 +8975,7 @@ Pizzoccheri.xml
      +  wasser                                       
      +  olivenöl                                     olivenöl
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  butter                                       butter
 Poke bowl mit Mangold und Shrimps.xml
      +  mango(s)                                     mango
@@ -9036,7 +9047,7 @@ Putengeschnetzeltes mit Mangold und Möhren.xml
      +  möhre(n)                                     karotte
      +  ingwer                                       ingwer
      +  knoblauch                                    knoblauch
-     +  pfefferschote(n), rot                        pfeffer
+     +  pfefferschote(n), rot                        
      +  sojasauce                                    sojasauce
      +  frühlingszwiebel(n)                          lauchzwiebel
      +  öl                                           
@@ -9054,7 +9065,7 @@ Putensteak auf Blattspinat.xml
      +  muskat                                       muskat
      +  salz                                         
      +  putenschnitzel                               pute
-     +  pfeffer, schwarzer                           pfeffer
+     +  pfeffer, schwarzer                           
      +  tomate(n)                                    tomate
      +  käse, geriebener gouda                       gouda
 Püriertes Mangold-Gemüse.xml
@@ -9100,7 +9111,7 @@ Ravioli auf Florentiner Art.xml
      +  eigelb                                       ei
      +  käse (emmentaler), geriebener                emmentaler
      +  parmesan, geriebener                         parmesan
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  muskat, geriebener                           muskat
      +  butter für die form                          butter
 Ravioli mit Mangold-Birnen-Schmand-Sauce.xml
@@ -9134,7 +9145,7 @@ Ravioli mit Spargelfüllung auf Mangoldgemüse.xml
      +  butterschmalz                                butterschmalz
      +  muskat                                       muskat
      +  gemüsebrühepulver                            gemüsebrühe
-     +  pfeffer, schwarz                             pfeffer
+     +  pfeffer, schwarz                             
      +  mascarpone                                   mascarpone
 Ravioli vom Wildschwein.xml
      +  wildschweinbauch                             wildschwein
@@ -9180,7 +9191,7 @@ Rehrücken auf Mangold mit Serviettenknödel.xml
      +  thymianzweig(e)                              thymian
      +  knoblauchzehe(n)                             knoblauch
      +  pimentkörner                                 piment
-     +  pfefferkörner, schwarze                      pfeffer
+     +  pfefferkörner, schwarze                      
      +  senfsamen, gelbe                             senfsamen
      +  lorbeerblatt                                 lorbeer
      +  schalotte(n)                                 schalotten
@@ -9205,7 +9216,7 @@ Rehrücken auf Mangold mit Serviettenknödel.xml
      +  zwiebel(n)                                   zwiebel
      +  petersilie, gehackt                          petersilie
      +  salz                                         
-     +  pfeffer aus der mühle, 14 dreher             pfeffer
+     +  pfeffer aus der mühle, 14 dreher             
      +  muskat aus der mühle, 14 dreher              muskat
      +  mangold                                      mangold
      +  schalotte(n)                                 schalotten
@@ -9271,7 +9282,7 @@ Ricotta-Spinat-Tarte.xml
      +  weizenmehl, type 405                         weizenmehl
      +  olivenöl                                     olivenöl
      +  salz                                         
-     +  pfeffer, schwarz, frisch gemahlen            pfeffer
+     +  pfeffer, schwarz, frisch gemahlen            
      +  spinat, frisch (mangold geht auch sehr gut)  mangold
      +  zwiebel(n), fein gehackt                     zwiebel
      +  knoblauch, fein gehackt                      knoblauch
@@ -9294,7 +9305,7 @@ Riesengarnelen mit Mangold-Sahne Tagliatelle.xml
      +  weißwein                                     weißwein
      +  fischfond                                    fischfond
      +  sahne                                        sahne
-     +  schmelzkäse                                  käse
+     +  schmelzkäse                                  schmelzkäse
      +  salz und pfeffer                             
      +  chili                                        chili
 Rinderfilet mit Pfeffer-Whisky-Soße und Mangold-Küchlein.xml
@@ -9367,7 +9378,7 @@ Risotto mit Mangold.xml
      +  risottoreis                                  reis
      +  gemüsefond                                   gemüsebrühe
      +  parmesan, gerieben                           parmesan
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Rissole ripiene-gefüllte Teigtaschen.xml
      +  weizenmehl, type 405                         weizenmehl
      +  weißwein, nach bedarf                        weißwein
@@ -9392,7 +9403,7 @@ Roberts karamellisiertes Teriyaki-Schweinefilet an Mangold mit Reis.xml
      +  knoblauchzehe(n), geschält, in dünne scheiben geschnittenknoblauch
      +  meersalz aus der mühle                       
      +  olivenöl                                     olivenöl
-     +  pfeffer, schwarzer aus der mühle             pfeffer
+     +  pfeffer, schwarzer aus der mühle             
      +  fünf-gewürz-pulver (china)                   gewürz
 Roberts Pfannkuchentorte mit Hackfleisch und Mangold.xml
      +  mehl, gesiebt                                weizenmehl
@@ -9433,7 +9444,7 @@ Rohkost-Thai-Nudeln.xml
      +  mangold                                      mangold
      +  ingwer, sehr fein geschnitten                ingwer
      +  sesamöl                                      sesamöl
-     +  pfeffer, schwarz, gemahlen                   pfeffer
+     +  pfeffer, schwarz, gemahlen                   
      +  chili, gemahlen                              chili
      +  kurkuma, gemahlen                            curcuma
      +  algen (spirulina)                            algen
@@ -9630,7 +9641,7 @@ Roter Mangold und Rucola mit gebratenem Ziegenkäse, Cranberries und Pinienkerne
      +  dijonsenf                                    dijonsenf
      +  honig, nach geschmack                        honig
      +  salz                                         
-     +  pfeffer, schwarzer, aus der mühle, nicht zu fein gemahlenpfeffer
+     +  pfeffer, schwarzer, aus der mühle, nicht zu fein gemahlen
 Rotstieliger Mangold  mit Ziegenquark.xml
      +  mangold, rotstielig                          mangold
      +  ziegenquark (45 %)                           quark
@@ -9757,7 +9768,7 @@ Saiblingsfilet auf Mangoldragout.xml
      +  sahne                                        sahne
      +  reis, gekocht                                reis
      +  zitronensaft                                 zitrone
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  kräutersalz                                  kräutersalz
      +  mangold, stiele                              mangold
      +  mangold, blätter                             mangold
@@ -9769,7 +9780,7 @@ Salat mit Mango und Roastbeef.xml
      +  honig,                                       honig
      +  zitronensaft                                 zitrone
      +  roastbeef, aufschnitt                        rindfleisch
-     +  pfeffer, bunt, aus der mühle                 pfeffer
+     +  pfeffer, bunt, aus der mühle                 
 Salat mit Mangold und gelber Pflaume in Sauerrahmdressing.xml
      +  mangoldblätter, kein babymangold             mangold
      +  pflaume(n), hellfleischig, süß               pflaume
@@ -9808,7 +9819,7 @@ Schafskäseröllchen mit Mangold und Weißweinsauce auf Tomatenbett.xml
      +  schafskäse                                   schafskäse
      +  crème fraîche                                crème_fraîche
      +  knoblauchzehe(n)                             knoblauch
-     +  pfeffer, grüner                              pfeffer
+     +  pfeffer, grüner                              
      +  basilikum, frisch                            basilikum
      +  basilikum, getrocknet                        basilikum
      +  mangold, große                               mangold
@@ -9877,7 +9888,7 @@ Scharfe Mangold-Pasta.xml
      +  soja - schnetzel, feine                      ei
      +  knoblauch                                    knoblauch
      +  chiliflocken (wer es schärfer mag, gibt 1 tl dazu)chiliflocken
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Scharfer Linsen-Mangold Eintopf.xml
      +  linsen, puy-                                 linsen
      +  mangold, nur den grünen teil, grob gehackt   mangold
@@ -9941,7 +9952,7 @@ Scholle im Mangold-Mantel.xml
      +  käse (gouda, je ca. 25 g)                    gouda
      +  butter                                       butter
      +  sauerrahm                                    saure_sahne
-     +  pfeffer, weiß                                pfeffer
+     +  pfeffer, weiß                                
      +  muskat, gemahlen                             muskat
      +  öl                                           
 Schollen-Lachs-Rouladen.xml
@@ -9987,7 +9998,7 @@ Schweinefilet im Maronen-Blätterteig Mantel.xml
      +  marone(n), blanchiert                        marone
      +  sojasauce                                    sojasauce
      +  salz                                         
-     +  pfeffer, schwarz                             pfeffer
+     +  pfeffer, schwarz                             
      +  schweinefilet(s)                             schweinefleisch
      +  olivenöl                                     olivenöl
      +  blätterteig                                  blätterteig
@@ -10040,7 +10051,7 @@ Schweineroulade mit Mangold und Schafskäsefüllung.xml
      +  zitrone(n)                                   zitrone
      +  olivenöl                                     olivenöl
      +  salz                                         
-     +  pfeffer, schwarzer aus der mühle             pfeffer
+     +  pfeffer, schwarzer aus der mühle             
      +  cayennepfeffer                               cayennepfeffer
      +  zucker, braun                                zucker
 Seelachs auf Linsen-Mangold-Gemüse.xml
@@ -10065,7 +10076,7 @@ Seeteufelbäckchen im Mangoldblatt.xml
      +  zwiebel(n), getrocknet                       zwiebel
      +  gemüsebrühe, instant                         gemüsebrühe
      +  wasser                                       
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Seezungenfilet mit Kartoffel-Mangold-Kruste auf Weißweinsauce.xml
      +  fischfilet(s) (seezunge,à 180 g)             fisch
      +  mangold, blanchiert, in feinen streifen geschnittenmangold
@@ -10077,7 +10088,7 @@ Seezungenfilet mit Kartoffel-Mangold-Kruste auf Weißweinsauce.xml
      +  wasser                                       
      +  wein, weiß                                   wein
      +  lorbeerblätter                               lorbeer
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  wacholderbeere(n)                            wacholder
      +  salz und pfeffer                             
      +  fisch - abschnitte                           fisch
@@ -10136,7 +10147,7 @@ Smokeys Krautstiel-Curry-Suppe.xml
      +  brühe                                        brühe
      +  wermut, (noilly prat)                        wermut
      +  kokosmilch                                   kokosmilch
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
      +  salz                                         
 Smokeys leichtes Mangold-Pilz-Gemüse.xml
      +  mangold                                      mangold
@@ -10146,7 +10157,7 @@ Smokeys leichtes Mangold-Pilz-Gemüse.xml
      +  zwiebel(n), fein gehackt                     zwiebel
      +  chili, fein gehackt                          chili
      +  olivenöl                                     olivenöl
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
      +  salz                                         
 Smokeys Mangold mit Speck und Nüssen.xml
      +  mangold                                      mangold
@@ -10180,7 +10191,7 @@ Sommergemüsegratin.xml
      +  salz                                         
      +  frühlingszwiebel(n)                          lauchzwiebel
      +  knoblauch                                    knoblauch
-     +  pfeffer, schwarz, aus der mühle              pfeffer
+     +  pfeffer, schwarz, aus der mühle              
      +  zitrone(n), unbehandelt                      zitrone
      +  sahne, sehr frisch                           sahne
      +  parmesan, frisch gerieben                    parmesan
@@ -10278,7 +10289,7 @@ Spaghetti mit leckerer Kohlrabi-Mangold-Curry-Soße.xml
      +  currypulver                                  curry
      +  chilipulver, nach belieben auch mehr         chili
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  paprikapulver, edelsüß                       paprikapulver
      +  nudeln, z.b. spaghetti                       nudeln
 Spaghetti mit Mangold-01.xml
@@ -10376,7 +10387,7 @@ Spargelsalat mit Mangold.xml
      +  mangold                                      mangold
      +  crème fraîche                                crème_fraîche
      +  milch                                        milch
-     +  gewürzmischung (kräuter-knoblauch dip)       knoblauch
+     +  gewürzmischung (kräuter-knoblauch dip)       gewürz
      +  zitronenpfeffer                              zitrone
 Spicy Eintopf mit Kokosmilch.xml
      +  hähnchenbrustfilet(s)                        hühnerbrust
@@ -10392,7 +10403,7 @@ Spicy Eintopf mit Kokosmilch.xml
      +  currypaste, gelb                             curry
      +  zucker                                       zucker
      +  kurkuma                                      curcuma
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  koriandergrün,frisch                         koriandergrün
      +  öl, (sonnenblumenöl)                         sonnenblumenöl
 Spinat mit roten Linsen.xml
@@ -10428,7 +10439,7 @@ Spinat-Mangold-Lasagne.xml
      +  mehl                                         weizenmehl
      +  brühe, zum auffüllen                         brühe
      +  salz, pfeffer                                
-     +  schmelzkäse, (kräuter                        kräuter
+     +  schmelzkäse, (kräuter                        schmelzkäse
      +  curry                                        curry
      +  zitronensaft                                 zitrone
      +  tomatensauce                                 tomate
@@ -10455,7 +10466,7 @@ Spinatauflauf.xml
      +  ei(er)                                       ei
      +  rosmarin                                     rosmarin
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Spinatblätter mit Rindfleisch à la Hongkong.xml
      +  blattspinat                                  spinat
      +  rindersteak(s)                               rindfleisch
@@ -10484,7 +10495,7 @@ Spinatstrudel mit Feta und Tzatziki.xml
      +  paprikapulver, edelsüß                       paprikapulver
      +  paprikapulver, rosenscharf                   paprikapulver
      +  koriandersamen, im mörser fein zermahlen     koriander
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  butter                                       butter
      +  filoteig                                     teigblätter
      +  pul biber, ersatzweise chiliflocken          chiliflocken
@@ -10499,7 +10510,7 @@ Spätzle-Pfanne.xml
      +  gemüsebrühepulver                            gemüsebrühe
      +  tomate(n)                                    tomate
      +  meersalz nach bedarf                         
-     +  pfeffer, weißer, aus sri lanka, gemörsert    pfeffer
+     +  pfeffer, weißer, aus sri lanka, gemörsert    
      +  paprikapulver, edelsüß                       paprikapulver
      +  knoblauchzehe(n)                             knoblauch
      +  pinienkerne                                  pinienkerne
@@ -10531,7 +10542,7 @@ Strudel vom Rehbock auf Rotwein-Schalottenkompott.xml
      +  mangold, blanchierter                        mangold
      +  strudelblätter                               teigblätter
      +  ei(er) zum bestreichen                       ei
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  salz                                         
      +  muskat                                       muskat
      +  piment                                       piment
@@ -10567,7 +10578,7 @@ Sursilvaner Krautwickel.xml
      +  wasser                                       
      +  ei(er)                                       ei
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat, gemahlen                             muskat
      +  wurst (landjäger                             mettwurst
      +  speck, gewürfelt, geräuchert                 speck
@@ -10583,7 +10594,7 @@ Sweetys Linguine mit Mangold-Sauce.xml
      +  senf                                         senf
      +  cremefine                                    crème
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  butter                                       butter
      +  knoblauchzehe(n)                             knoblauch
      +  parmesan, frisch gerieben                    parmesan
@@ -10696,7 +10707,7 @@ Tamie goreng Cap Cay Seafood ala Taman Griya.xml
      +  fischfilet(s), weiß, heilbutt o. ä.          fisch
      +  salz                                         
      +  glutamat                                     glutamat
-     +  pfeffer, weißer, fein gemahlen               pfeffer
+     +  pfeffer, weißer, fein gemahlen               
      +  eiweiß                                       ei
      +  knoblauchzehe(n), frisch                     knoblauch
      +  wasser, eiskalt                              
@@ -10774,7 +10785,7 @@ Thailändischer Kohlsalat mit Radieschen und Erdnüssen.xml
      +  limone(n)                                    limette
      +  zucker, grobe körnung                        zucker
      +  erdnüsse, ungesalzen, geröstet               erdnuss
-     +  pfeffer, schwarzer, frisch aus der mühle     pfeffer
+     +  pfeffer, schwarzer, frisch aus der mühle     
      +  mungobohnenkeimlinge                         sprossen
      +  blüten und blätter                           blüten
 Thailändisches Huhn mit Tintenfisch.xml
@@ -10813,9 +10824,9 @@ Thunfisch-Lasagne.xml
      +  käse (gouda), geriebener                     gouda
      +  pesto (basilikumpesto)                       basilikum
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Tian de Carpentras.xml
-     +  stockfisch                                   fisch
+     +  stockfisch                                   stockfisch
      +  zwiebel(n)                                   zwiebel
      +  lorbeerblätter                               lorbeer
      +  sternanis                                    sternanis
@@ -10857,11 +10868,11 @@ Tomaten mediterran gefüllt mit Käse und Kräutern.xml
      +  mangold                                      mangold
      +  sauerampfer                                  sauerampfer
      +  petersilie                                   petersilie
-     +  basilikum)                                   basilikum
+     +  basilikum                                    basilikum
      +  milch                                        milch
      +  gemüsebrühe                                  gemüsebrühe
      +  polenta                                      polenta
-     +  käse, grob geraspelter parmeggiano           käse
+     +  grob geraspelter parmesan                    parmesan
      +  mozzarella, büffel-, grob gewürfelt          mozzarella
      +  ei(er), (gr.m)                               ei
      +  salz und pfeffer                             
@@ -10908,7 +10919,7 @@ Topinamburauflauf mit Mangold.xml
      +  käse, gerieben (zum überbacken)              käse
      +  muskat                                       muskat
      +  kräutersalz                                  kräutersalz
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  kreuzkümmel                                  cumin
      +  orange(n), den saft auspressen               orange
      +  olivenöl                                     olivenöl
@@ -10925,7 +10936,7 @@ Torta di biete e carciofi.xml
      +  zwiebel(n)                                   zwiebel
      +  semmelbrösel                                 paniermehl
      +  salz                                         
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  mehl zum ausrollen                           weizenmehl
      +  öl zum bestreichen                           
      +  wasser, kaltes                               
@@ -10936,7 +10947,7 @@ Tortellini und Blattspinat überbacken.xml
      +  butter                                       butter
      +  knoblauchzehe(n)                             knoblauch
      +  blattspinat (tk)                             spinat
-     +  pfeffer aus der mühle                        pfeffer
+     +  pfeffer aus der mühle                        
      +  muskat                                       muskat
      +  meersalz                                     
      +  butter für die form                          butter
@@ -11051,7 +11062,7 @@ Vegane Mangoldpfanne mit Reisnudeln und Erdnüssen.xml
      +  reisnudeln (dünne vermicelli)                reisnudeln
      +  gemüsebrühe                                  gemüsebrühe
      +  sojasauce                                    sojasauce
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  tofu                                         tofu
      +  sprossen, frische, z. b. soja                sprossen
      +  erdnüsse, geröstet                           erdnuss
@@ -11088,17 +11099,17 @@ Vegane Pfannkuchentorte mit Mangoldfüllung.xml
      +  zwiebel(n)                                   zwiebel
      +  knoblauch                                    knoblauch
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  muskat, gerieben                             muskat
      +  olivenöl                                     olivenöl
      +  sojaquark (quarkalternative)                 quark
      +  hefeflocken                                  hefe
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Vegane Spaghetti mit Tofu-Bärlauch-Creme.xml
      +  spaghetti                                    nudeln
-     +  pesto (bärlauch-), ohne käse                 bärlauch
-     +  tofu (bärlauch-)                             bärlauch
+     +  pesto                                        pesto
+     +  tofu                                         tofu
      +  olivenöl                                     olivenöl
      +  zitronensaft                                 zitrone
      +  blattsalat, gemischt aus rauke spinat, roter mangoldblattsalat
@@ -11143,7 +11154,7 @@ Veganes Kartoffel-Mangold-Gratin.xml
      +  mangold                                      mangold
      +  kräuter, z. b. thymian und rosmarin          rosmarin
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  pflanzensahne (pflanzencreme cuisine)        pflanzenfett
      +  käseersatz zum überbacken                    käse
 Vegetarische Cannelloni mit Mangold und Nüssen.xml
@@ -11153,7 +11164,7 @@ Vegetarische Cannelloni mit Mangold und Nüssen.xml
      +  mangold                                      mangold
      +  zwiebel(n), (fein gewürfelt)                 zwiebel
      +  tomate(n), in stücken                        tomate
-     +  nüsse, (gehackt)                             hackfleisch
+     +  nüsse                                        nüsse
      +  butter                                       butter
      +  mehl                                         weizenmehl
      +  knoblauch                                    knoblauch
@@ -11164,7 +11175,7 @@ Vegetarische Cannelloni mit Mangold und Nüssen.xml
      +  öl                                           
      +  tomatenmark                                  tomatenmark
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Vegetarische Capuns mit Quark.xml
      +  mehl                                         weizenmehl
      +  ei(er)                                       ei
@@ -11173,7 +11184,7 @@ Vegetarische Capuns mit Quark.xml
      +  petersilie, gehackt                          petersilie
      +  pfefferminze, gehackt                        minze
      +  muskat                                       muskat
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  salz                                         
      +  mangold (alternativ krautstiel, dann anzahl je nach größe etwas reduzieren)mangold
      +  vollmilch                                    milch
@@ -11189,7 +11200,7 @@ Vegetarische Capuns.xml
      +  mehl (knöpflimehl)                           weizenmehl
      +  mehl                                         weizenmehl
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  flüssigkeit (1/2 milch / 1/2 wasser)         
      +  ei(er)                                       ei
      +  räuchertofu                                  tofu
@@ -11357,7 +11368,7 @@ Weihnachtliche Lachsroulade.xml
      +  butter                                       butter
      +  muskat                                       muskat
      +  frischkäse, mit meerrettich                  meerrettich
-     +  pfeffer, bunter, zerstoßen                   pfeffer
+     +  pfeffer, bunter, zerstoßen                   
      +  fenchelsamen, zerstoßen                      fenchelsamen
      +  macis                                        muskat
      +  olivenöl, extra vergine                      olivenöl
@@ -11393,7 +11404,7 @@ Weißer Spargel an Champignon-Weißwein-Sahnesoße mit Nudeln.xml
      +  rosmarin                                     rosmarin
      +  paprikapulver, edelsüß                       paprikapulver
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
      +  zucker                                       zucker
 Wiesenchampignons mit Mangoldfüllung.xml
      +  champignons (wiesenchampignons)              champignon
@@ -11409,10 +11420,10 @@ Wiesenklee-Muffins.xml
      +  butter                                       butter
      +  schinken (schwarzwälder), gewürfelt          schinken
      +  salz                                         
-     +  pfeffer, weiß, gemörsert                     pfeffer
+     +  pfeffer, weiß, gemörsert                     
      +  muskat, frisch gerieben                      muskat
      +  ei(er), verschlagen                          ei
-     +  butterkäse, gerieben                         butter
+     +  butterkäse, gerieben                         butterkäse
      +  wiesenkleeblätter, blanchiert und gehackt    wiesenklee
      +  grieß                                        grieß
 Wildkräuter-Smoothie.xml
@@ -11455,7 +11466,7 @@ Winterliches Ofengemüse.xml
      +  zwiebel(n)                                   zwiebel
      +  rote bete                                    rote_bete
      +  mangold                                      mangold
-     +  pesto (je nach geschmack petersilie, bärlauch, schnittlauch)schnittlauch
+     +  pesto                                        pesto
      +  olivenöl                                     olivenöl
      +  salz und pfeffer                             
      +  kräuter nach wahl (frisch                    kräuter
@@ -11496,7 +11507,7 @@ Wraps mit Lachs und Zitronen-Quark-Dip.xml
      +  zitronensaft, frisch gepresst                zitrone
      +  zitrone(n), den abrieb davon                 zitrone
      +  salz                                         
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Wraps mit Mangold-Zucchini-Tomatenfülle und Kräuter-Knoblauch-Creme.xml
      +  wrap(s)                                      teigblätter
      +  mangold                                      mangold
@@ -11505,13 +11516,21 @@ Wraps mit Mangold-Zucchini-Tomatenfülle und Kräuter-Knoblauch-Creme.xml
      +  karotte(n)                                   karotte
      +  tomate(n), wer mag, nimmt mehr               tomate
      +  tomatenmark                                  tomatenmark
-     +  kräuter, italienische, frische, z. b. salbei, thymian, majoran, oregano und rosmarinrosmarin
+     +  salbei                                       salbei
+     +  thymian                                      thymian
+     +  majoran                                      majoran
+     +  oregano                                      oregano
+     +  rosmarin                                     rosmarin
      +  zucker                                       zucker
      +  tomatensaft, evtl.                           tomatensaft
      +  salz und pfeffer                             
      +  sauerrahm                                    saure_sahne
      +  knoblauch                                    knoblauch
-     +  kräuter, italienische, frische, z. b. salbei, thymian, majoran, oregano und rosmarinrosmarin
+     +  salbei                                       salbei
+     +  thymian                                      thymian
+     +  majoran                                      majoran
+     +  oregano                                      oregano
+     +  rosmarin                                     rosmarin
      +  salz und pfeffer                             
      +  chili                                        chili
 Würzig-gebratene Nudeln mit Ei und Erdnüssen ala Taman Grija.xml
@@ -11546,7 +11565,7 @@ Würzige Hackfleischbällchen mit Cap-Cay und Reis.xml
      +  zwiebel(n), rote                             zwiebel
      +  knoblauchzehe(n)                             knoblauch
      +  sonnenblumenöl                               sonnenblumenöl
-     +  pfeffer, schwarzer, frisch aus der mühle     pfeffer
+     +  pfeffer, schwarzer, frisch aus der mühle     
      +  muskatnuss, frisch gerieben                  muskat
      +  chiliflocken (z.b. pul biber)                chiliflocken
      +  paprikapulver, edelsüß                       paprikapulver
@@ -11573,7 +11592,7 @@ Würziger Mangoldauflauf.xml
      +  kräuterfrischkäse                            frischkäse
      +  mozzarella                                   mozzarella
      +  olivenöl                                     olivenöl
-     +  pfeffer                                      pfeffer
+     +  pfeffer                                      
 Zanderroulade in Mangold mit Reismosaik.xml
      +  fischfilet(s) (zander), ohne haut            zander
      +  zitrone(n)                                   zitrone
@@ -11597,7 +11616,7 @@ Zanderroulade in Mangold mit Reismosaik.xml
      +  reis                                         reis
      +  butter                                       butter
      +  salz und pfeffer, weiß                       
-     +  kräuterbutter                                kräuter
+     +  kräuterbutter                                kräuterbutter
      +  zitrone(n), in scheiben geschnitten          zitrone
 Zichorie-Mangold-Gurken-Salat mit Estragon-Sahne-Senf-Dressing.xml
      +  zichorie(n)                                  zichorie
@@ -11629,7 +11648,9 @@ Zucchini mit Mangold-Couscous-Fülle.xml
      +  salzwasser                                   
      +  petersilie                                   petersilie
      +  tomate(n)                                    tomate
-     +  kräuter, italienische, frische (z. b. basilikum, oregano, thymian)basilikum
+     +  basilikum                                    basilikum
+     +  oregano                                      oregano
+     +  thymian                                      thymian
      +  zucker                                       zucker
      +  käse, gerieben zum überbacken                käse
      +  salz und pfeffer                             
@@ -11668,7 +11689,7 @@ Zwiebelwähe mit Mangold.xml
      +  speisestärke                                 stärke
      +  ei(er)                                       ei
      +  salz                                         
-     +  pfeffer, aus der mühle                       pfeffer
+     +  pfeffer, aus der mühle                       
      +  muskat, aus der mühle                        muskat
 Überbackene Crêpes mit Mangold.xml
      +  milch                                        milch
