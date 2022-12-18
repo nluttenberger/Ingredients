@@ -313,6 +313,11 @@
          <fc:igtLabel>Asa_Foetida</fc:igtLabel>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="asafoetida">
+         <fc:igtLabel>Asafoetida</fc:igtLabel>
+         <fc:igtSyn>asafötida</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="auberginen">
          <fc:igtLabel>Aubergine</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -913,6 +918,11 @@
          <fc:igtLabel>Frischkäse</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="frisée">
+         <fc:igtLabel>frisée</fc:igtLabel>
+         <fc:igtSyn>frisee</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="friséesalat">
          <fc:igtLabel>Friséesalat</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -1481,6 +1491,11 @@
       <fc:ingredient id="käse">
          <fc:igtLabel>Käse</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="kasseler">
+         <fc:igtLabel>Kasseler</fc:igtLabel>
+         <fc:igtSyn>kassler</fc:igtSyn>
+         <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="kaviar">
          <fc:igtLabel>Kaviar</fc:igtLabel>
@@ -2474,6 +2489,10 @@
          <fc:igtLabel>Rohrzucker</fc:igtLabel>
          <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="romana">
+         <fc:igtLabel>Romana</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="roquefort">
          <fc:igtLabel>Roquefort</fc:igtLabel>
          <fc:igtClass>milk</fc:igtClass>
@@ -2510,6 +2529,11 @@
       <fc:ingredient id="rote_bete_blätter">
          <fc:igtLabel>Rote_Bete_Blätter</fc:igtLabel>
          <fc:igtSyn>rote-bete-blätter</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="roter_mangold">
+         <fc:igtLabel>roter_Mangold</fc:igtLabel>
+         <fc:igtSyn>roter mangold</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="rotkohl">
@@ -2724,11 +2748,6 @@
          <fc:igtSyn>schweinegulasch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="kasseler">
-         <fc:igtLabel>Kasseler</fc:igtLabel>
-         <fc:igtSyn>kassler</fc:igtSyn>
-         <fc:igtClass>meat</fc:igtClass>
-      </fc:ingredient>
       <fc:ingredient id="schweineschmalz">
          <fc:igtLabel>Schweineschmalz</fc:igtLabel>
          <fc:igtSyn>schweinefett</fc:igtSyn>
@@ -2747,10 +2766,9 @@
          <fc:igtLabel>Seeteufel</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="asafoetida">
-         <fc:igtLabel>Asafoetida</fc:igtLabel>
-         <fc:igtSyn>asafötida</fc:igtSyn>
-         <fc:igtClass>spice</fc:igtClass>
+      <fc:ingredient id="seezunge">
+         <fc:igtLabel>Seezunge</fc:igtLabel>
+         <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sekt">
          <fc:igtLabel>Sekt</fc:igtLabel>
@@ -2770,10 +2788,6 @@
       <fc:ingredient id="senfgurken">
          <fc:igtLabel>Senfgurken</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="seezunge">
-         <fc:igtLabel>Seezunge</fc:igtLabel>
-         <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="senfsamen">
          <fc:igtLabel>Senfsamen</fc:igtLabel>
@@ -2797,20 +2811,6 @@
       <fc:ingredient id="sherry">
          <fc:igtLabel>Sherry</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="romana">
-         <fc:igtLabel>Romana</fc:igtLabel>
-         <fc:igtClass>veg</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="frisée">
-         <fc:igtLabel>frisée</fc:igtLabel>
-         <fc:igtSyn>frisee</fc:igtSyn>
-         <fc:igtClass>veg</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="roter_mangold">
-         <fc:igtLabel>roter_Mangold</fc:igtLabel>
-         <fc:igtSyn>roter mangold</fc:igtSyn>
-         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sherryessig" repl="essig">
          <fc:igtLabel>Sherryessig</fc:igtLabel>
