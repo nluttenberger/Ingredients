@@ -871,6 +871,7 @@
       </fc:ingredient>
       <fc:ingredient id="fisch">
          <fc:igtLabel>Fisch</fc:igtLabel>
+         <fc:igtSyn>fischfilet</fc:igtSyn>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="fischfond">
@@ -1631,10 +1632,6 @@
       <fc:ingredient id="koriandergrün">
          <fc:igtLabel>Koriandergrün</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="kotelett">
-         <fc:igtLabel>Kotelett</fc:igtLabel>
-         <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="krabben">
          <fc:igtLabel>Krabben</fc:igtLabel>
@@ -2406,6 +2403,7 @@
          <fc:igtSyn>hirschkalbsrücken</fc:igtSyn>
          <fc:igtSyn>hirschrückenfilet</fc:igtSyn>
          <fc:igtSyn>rehrücken</fc:igtSyn>
+         <fc:igtSyn>rehfleisch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="reis">
@@ -2722,7 +2720,13 @@
          <fc:igtLabel>Schweinefleisch</fc:igtLabel>
          <fc:igtSyn>schweinebraten</fc:igtSyn>
          <fc:igtSyn>schweinefilet</fc:igtSyn>
+         <fc:igtSyn>kotelett</fc:igtSyn>
          <fc:igtSyn>schweinegulasch</fc:igtSyn>
+         <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="kasseler">
+         <fc:igtLabel>Kasseler</fc:igtLabel>
+         <fc:igtSyn>kassler</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="schweineschmalz">
@@ -2743,6 +2747,11 @@
          <fc:igtLabel>Seeteufel</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="asafoetida">
+         <fc:igtLabel>Asafoetida</fc:igtLabel>
+         <fc:igtSyn>asafötida</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="sekt">
          <fc:igtLabel>Sekt</fc:igtLabel>
          <fc:igtSyn>champagner</fc:igtSyn>
@@ -2761,6 +2770,10 @@
       <fc:ingredient id="senfgurken">
          <fc:igtLabel>Senfgurken</fc:igtLabel>
          <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="seezunge">
+         <fc:igtLabel>Seezunge</fc:igtLabel>
+         <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="senfsamen">
          <fc:igtLabel>Senfsamen</fc:igtLabel>
@@ -2784,6 +2797,20 @@
       <fc:ingredient id="sherry">
          <fc:igtLabel>Sherry</fc:igtLabel>
          <fc:igtClass>alc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="romana">
+         <fc:igtLabel>Romana</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="frisée">
+         <fc:igtLabel>frisée</fc:igtLabel>
+         <fc:igtSyn>frisee</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="roter_mangold">
+         <fc:igtLabel>roter_Mangold</fc:igtLabel>
+         <fc:igtSyn>roter mangold</fc:igtSyn>
+         <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="sherryessig" repl="essig">
          <fc:igtLabel>Sherryessig</fc:igtLabel>
@@ -2946,6 +2973,7 @@
       <fc:ingredient id="süß_saure_sauce">
          <fc:igtLabel>süß_saure_Sauce</fc:igtLabel>
          <fc:igtSyn>süß-saure sauce</fc:igtSyn>
+         <fc:igtSyn>süß-sauer-scharf-sauce</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="süßkartoffel">
@@ -3052,6 +3080,7 @@
       <fc:ingredient id="tofu">
          <fc:igtLabel>Tofu</fc:igtLabel>
          <fc:igtSyn>seidentofu</fc:igtSyn>
+         <fc:igtSyn>oliven-tofu</fc:igtSyn>
          <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="tomate">
@@ -3073,6 +3102,11 @@
       <fc:ingredient id="tomatensaft">
          <fc:igtLabel>Tomatensaft</fc:igtLabel>
          <fc:igtClass>fruit</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="tomatensauce">
+         <fc:igtLabel>Tomatensauce</fc:igtLabel>
+         <fc:igtSyn>tomatensoße</fc:igtSyn>
+         <fc:igtClass>etc</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="tonic_water">
          <fc:igtLabel>Tonic_Water</fc:igtLabel>
