@@ -458,6 +458,10 @@
          <fc:igtLabel>Blut</fc:igtLabel>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="blutampfer">
+         <fc:igtLabel>Blutampfer</fc:igtLabel>
+         <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="blüten">
          <fc:igtLabel>Blüten</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
@@ -1130,10 +1134,6 @@
          <fc:igtLabel>Grenadine</fc:igtLabel>
          <fc:igtClass>sweet</fc:igtClass>
       </fc:ingredient>
-      <fc:ingredient id="greyerzer">
-         <fc:igtLabel>Greyerzer</fc:igtLabel>
-         <fc:igtClass>milk</fc:igtClass>
-      </fc:ingredient>
       <fc:ingredient id="grieß">
          <fc:igtLabel>Grieß</fc:igtLabel>
          <fc:igtSyn>vollkorngrieß</fc:igtSyn>
@@ -1179,7 +1179,7 @@
       </fc:ingredient>
       <fc:ingredient id="gruyère" repl="käse">
          <fc:igtLabel>Gruyère</fc:igtLabel>
-         <fc:igtSyn>Greyerzer</fc:igtSyn>
+         <fc:igtSyn>greyerzer</fc:igtSyn>
          <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="guave">
