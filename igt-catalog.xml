@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -200,10 +202,6 @@
          <fc:igtLabel/>
          <fc:igtSyn>fett</fc:igtSyn>
          <fc:igtClass>fat</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="">
-         <fc:igtLabel>Pfeffer</fc:igtLabel>
-         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="aal">
          <fc:igtLabel>Aal</fc:igtLabel>
@@ -2261,6 +2259,10 @@
       <fc:ingredient id="petersilienwurzel">
          <fc:igtLabel>Petersilienwurzel</fc:igtLabel>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="pfeffer">
+         <fc:igtLabel>Pfeffer</fc:igtLabel>
+         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="pfifferlinge">
          <fc:igtLabel>Pfifferlinge</fc:igtLabel>
