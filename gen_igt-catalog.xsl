@@ -33,8 +33,8 @@
         <xsl:variable name="dst" select="concat($path, 'igt-catalog.xml')"/>
         <xsl:sequence select="fs:move($src, $dst)"/>
 
-        <!-- generate new ingredient catalog in json format
-        <xsl:result-document method="text" encoding="UTF-8" indent="yes" exclude-result-prefixes="#all" href="{concat($path, 'temp.json')}">
+        <!-- generate new ingredient catalog in json format -->
+        <xsl:result-document method="text" encoding="UTF-8" indent="yes" exclude-result-prefixes="#all" href="{concat($path, 'tmp1.json')}">
             <xsl:variable name="xx">
                 <map xmlns="http://www.w3.org/2005/xpath-functions">
                     <array key="ingredients">
@@ -65,12 +65,12 @@
             <xsl:sequence select="xml-to-json($xx)"/>
         </xsl:result-document>
 
-        <xsl:variable name="src" select="concat($path, 'temp.json')"/>
+        <xsl:variable name="src" select="concat($path, 'tmp1.json')"/>
         <xsl:variable name="dst1" select="concat($path, 'igt-catalog.json')"/>
-        <xsl:sequence select="fs:copy($src, $dst1)"/>  -->
+        <xsl:sequence select="fs:copy($src, $dst1)"/>  
 
         <!-- generate ingredient catalog as "dict of dicts" (in Python jargon) for jupyter notebook in json format -->
-        <xsl:result-document method="text" encoding="UTF-8" indent="yes" exclude-result-prefixes="#all" href="{concat($path, 'temp.json')}">
+        <xsl:result-document method="text" encoding="UTF-8" indent="yes" exclude-result-prefixes="#all" href="{concat($path, 'tmp2.json')}">
             <xsl:variable name="yy">
                 <map xmlns="http://www.w3.org/2005/xpath-functions">
                     <map key="classes">
@@ -104,10 +104,10 @@
             </xsl:variable>
             <xsl:sequence select="xml-to-json($yy)"/>
         </xsl:result-document>
-        <xsl:variable name="src" select="concat($path, 'temp.json')"/>
-        <xsl:variable name="dst1" select="concat($path, 'igt-catalog.json')"/>
+        <xsl:variable name="src" select="concat($path, 'tmp2.json')"/>
+        <!--<xsl:variable name="dst1" select="concat($path, 'igt-catalog.json')"/>-->
         <xsl:variable name="dst2" select="concat($path-jup, 'igt_cat.json')"/>
-        <xsl:sequence select="fs:copy($src, $dst1)"/>
+        <!--<xsl:sequence select="fs:copy($src, $dst1)"/>-->
         <xsl:sequence select="fs:copy($src, $dst2)"/>
 
         <!-- generate type 'refType' for igt-catalog schema -->
