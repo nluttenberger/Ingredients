@@ -67,7 +67,7 @@
 
         <xsl:variable name="src" select="concat($path, 'tmp1.json')"/>
         <xsl:variable name="dst1" select="concat($path, 'igt-catalog.json')"/>
-        <xsl:sequence select="fs:copy($src, $dst1)"/>  
+        <xsl:sequence select="fs:copy($src, $dst1)"/>
 
         <!-- generate ingredient catalog as "dict of dicts" (in Python jargon) for jupyter notebook in json format -->
         <xsl:result-document method="text" encoding="UTF-8" indent="yes" exclude-result-prefixes="#all" href="{concat($path, 'tmp2.json')}">
@@ -85,6 +85,15 @@
                             </map>
                         </xsl:for-each>
                     </map>
+                    <array key="noRefIgts">
+                        <xsl:for-each select="document($igt-catalog)//fc:ingredient[@id = '']">
+                            <xsl:for-each select="fc:igtSyn">
+                                <string>
+                                <xsl:value-of select="."/>
+                                </string>
+                            </xsl:for-each>
+                        </xsl:for-each>
+                    </array>
                     <map key="ingredients">
                         <xsl:for-each select="document($igt-catalog)//fc:ingredient">
                             <xsl:sort select="@id" collation="http://saxon.sf.net/collation?lang=de-DE"/>
@@ -96,6 +105,13 @@
                                     <string key="i-class">
                                         <xsl:value-of select="fc:igtClass"/>
                                     </string>
+                                    <array key="synonyms">
+                                        <xsl:for-each select="fc:igtSyn">
+                                            <string>
+                                                <xsl:value-of select="."/>
+                                            </string>
+                                        </xsl:for-each>
+                                    </array>
                                 </map>
                             </xsl:if>
                         </xsl:for-each>
@@ -107,7 +123,7 @@
         <xsl:variable name="src" select="concat($path, 'tmp2.json')"/>
         <!--<xsl:variable name="dst1" select="concat($path, 'igt-catalog.json')"/>-->
         <xsl:variable name="dst2" select="concat($path-jup, 'igt_cat.json')"/>
-        <!--<xsl:sequence select="fs:copy($src, $dst1)"/>-->
+        <xsl:sequence select="fs:copy($src, $dst1)"/>
         <xsl:sequence select="fs:copy($src, $dst2)"/>
 
         <!-- generate type 'refType' for igt-catalog schema -->
