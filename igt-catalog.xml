@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
+<fc:igtCatalog xmlns:fc="http://fruschtique.de/ns/igt-catalog"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://fruschtique.de/ns/igt-catalog igt-catalog.xsd">
    <fc:classes>
       <fc:class classID="alc">
          <fc:classLabel>Alkohol</fc:classLabel>
@@ -190,6 +192,8 @@
       <fc:ingredient id="">
          <fc:igtLabel/>
          <fc:igtSyn>öl</fc:igtSyn>
+         <fc:igtSyn>öl zum braten</fc:igtSyn>
+         <fc:igtSyn>öl zum anbraten</fc:igtSyn>
          <fc:igtClass>fat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="">
@@ -206,6 +210,11 @@
          <fc:igtLabel/>
          <fc:igtSyn>holzspieße</fc:igtSyn>
          <fc:igtClass>etc</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="">
+         <fc:igtLabel/>
+         <fc:igtSyn>garn</fc:igtSyn>
+         <fc:igtClass/>
       </fc:ingredient>
       <fc:ingredient id="aal">
          <fc:igtLabel>Aal</fc:igtLabel>
@@ -1185,6 +1194,7 @@
          <fc:igtSyn>prinzessbohnen</fc:igtSyn>
          <fc:igtSyn>vietsbohne</fc:igtSyn>
          <fc:igtSyn>schneidbohnen</fc:igtSyn>
+         <fc:igtSyn>schlangenbohne</fc:igtSyn>
          <fc:igtSyn>böhnchen</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
       </fc:ingredient>
@@ -2181,11 +2191,16 @@
          <fc:igtSyn>pasta</fc:igtSyn>
          <fc:igtSyn>spätzle</fc:igtSyn>
          <fc:igtSyn>cannelloni</fc:igtSyn>
+         <fc:igtSyn>rigatoni</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="nüsse">
          <fc:igtLabel>Nüsse</fc:igtLabel>
          <fc:igtClass>nuts</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="nutella">
+         <fc:igtLabel>Nutella</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="obst">
          <fc:igtLabel>Obst</fc:igtLabel>
@@ -2298,6 +2313,12 @@
          <fc:igtSyn>paprika edelsüß</fc:igtSyn>
          <fc:igtSyn>paprika scharf</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="paprikawurst">
+         <fc:igtLabel>Paprikawurst</fc:igtLabel>
+         <fc:igtSyn>chorizo</fc:igtSyn>
+         <fc:igtSyn>chouriço</fc:igtSyn>
+         <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="parmesan">
          <fc:igtLabel>Parmesan</fc:igtLabel>
@@ -2503,6 +2524,7 @@
       </fc:ingredient>
       <fc:ingredient id="ras_el_hanout">
          <fc:igtLabel>Ras_el_hanout</fc:igtLabel>
+         <fc:igtSyn>ras el hanout</fc:igtSyn>
          <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="räucherfisch">
@@ -2571,6 +2593,10 @@
          <fc:igtLabel>Rettich</fc:igtLabel>
          <fc:igtSyn>daikon-rettich</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="rhabarber">
+         <fc:igtLabel>Rhabarber</fc:igtLabel>
+         <fc:igtClass>fruit</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="ricotta">
          <fc:igtLabel>Ricotta</fc:igtLabel>
@@ -3446,6 +3472,7 @@
       <fc:ingredient id="wildfarce">
          <fc:igtLabel>Wildfarce</fc:igtLabel>
          <fc:igtSyn>wild-farce</fc:igtSyn>
+         <fc:igtSyn>wild - farce</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="wildfond">
