@@ -399,6 +399,10 @@
          <fc:igtLabel>Basilikum</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="bechamel">
+         <fc:igtLabel>Bechamelsauce</fc:igtLabel>
+         <fc:igtClass>condi</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="béchamelsauce">
          <fc:igtLabel>Béchamelsauce</fc:igtLabel>
          <fc:igtClass>etc</fc:igtClass>
@@ -1102,14 +1106,6 @@
          <fc:igtLabel>getrocknete_Tomaten</fc:igtLabel>
          <fc:igtSyn>getrocknete tomaten</fc:igtSyn>
          <fc:igtClass>veg</fc:igtClass>
-      </fc:ingredient>
-      <fc:ingredient id="gewürz">
-         <fc:igtLabel>Gewürz</fc:igtLabel>
-         <fc:igtSyn>streuwürze</fc:igtSyn>
-         <fc:igtSyn>gewürzmischung</fc:igtSyn>
-         <fc:igtSyn>vegeta</fc:igtSyn>
-         <fc:igtSyn>bbq-rub</fc:igtSyn>
-         <fc:igtClass>spice</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="gewürzgurke">
          <fc:igtLabel>Gewürzgurken</fc:igtLabel>
@@ -1822,6 +1818,7 @@
          <fc:igtSyn>lammfilet</fc:igtSyn>
          <fc:igtSyn>lammschulter</fc:igtSyn>
          <fc:igtSyn>lammrückenfilet</fc:igtSyn>
+         <fc:igtSyn>lammkeule</fc:igtSyn>
          <fc:igtSyn>hammel</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
@@ -1859,6 +1856,10 @@
       <fc:ingredient id="liebstöckel">
          <fc:igtLabel>Liebstöckel</fc:igtLabel>
          <fc:igtClass>herb</fc:igtClass>
+      </fc:ingredient>
+      <fc:ingredient id="limburger">
+         <fc:igtLabel>Limburger</fc:igtLabel>
+         <fc:igtClass>milk</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="limette">
          <fc:igtLabel>Limette</fc:igtLabel>
@@ -2529,6 +2530,7 @@
       </fc:ingredient>
       <fc:ingredient id="räucherfisch">
          <fc:igtLabel>Räucherfisch</fc:igtLabel>
+         <fc:igtSyn>bückling</fc:igtSyn>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="räucherlachs">
@@ -2551,7 +2553,8 @@
       </fc:ingredient>
       <fc:ingredient id="ravioli">
          <fc:igtLabel>Ravioli</fc:igtLabel>
-         <fc:igtClass>etc</fc:igtClass>
+         <fc:igtSyn>ravioli in tomatensauce</fc:igtSyn>
+         <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="rehundhirsch">
          <fc:igtLabel>Reh_und_Hirsch</fc:igtLabel>
@@ -2559,6 +2562,7 @@
          <fc:igtSyn>hirschrückenfilet</fc:igtSyn>
          <fc:igtSyn>rehrücken</fc:igtSyn>
          <fc:igtSyn>rehfleisch</fc:igtSyn>
+         <fc:igtSyn>rehgulasch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="reis">
@@ -2910,6 +2914,11 @@
          <fc:igtSyn>schweinegulasch</fc:igtSyn>
          <fc:igtClass>meat</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="schweinemett">
+         <fc:igtLabel>Mett</fc:igtLabel>
+         <fc:igtSyn>schweinemett</fc:igtSyn>
+         <fc:igtClass>meat</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="schweineschmalz">
          <fc:igtLabel>Schweineschmalz</fc:igtLabel>
          <fc:igtSyn>schweinefett</fc:igtSyn>
@@ -3097,6 +3106,15 @@
          <fc:igtLabel>Stör</fc:igtLabel>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
+      <fc:ingredient id="streuwürze">
+         <fc:igtLabel>Streuwürze</fc:igtLabel>
+         <fc:igtSyn>streuwürze</fc:igtSyn>
+         <fc:igtSyn>gewürzmischung</fc:igtSyn>
+         <fc:igtSyn>vegeta</fc:igtSyn>
+         <fc:igtSyn>bbq-rub</fc:igtSyn>
+         <fc:igtSyn>fondor</fc:igtSyn>
+         <fc:igtClass>spice</fc:igtClass>
+      </fc:ingredient>
       <fc:ingredient id="stubenküken">
          <fc:igtLabel>Stubenküken</fc:igtLabel>
          <fc:igtSyn>kücken</fc:igtSyn>
@@ -3128,6 +3146,7 @@
       <fc:ingredient id="suppenwürze">
          <fc:igtLabel>Suppenwürze</fc:igtLabel>
          <fc:igtSyn>suppenpulver</fc:igtSyn>
+         <fc:igtSyn>würzer</fc:igtSyn>
          <fc:igtClass>condi</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="surimi">
