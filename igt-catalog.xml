@@ -1090,6 +1090,7 @@
       </fc:ingredient>
       <fc:ingredient id="gerste">
          <fc:igtLabel>Gerste</fc:igtLabel>
+         <fc:igtSyn>getreide</fc:igtSyn>
          <fc:igtClass>carb</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="getr_pflaume">
@@ -2030,6 +2031,7 @@
       </fc:ingredient>
       <fc:ingredient id="matjes">
          <fc:igtLabel>Matjes</fc:igtLabel>
+         <fc:igtSyn>zwiebel-matjes-filets</fc:igtSyn>
          <fc:igtClass>fish</fc:igtClass>
       </fc:ingredient>
       <fc:ingredient id="maultasche">
